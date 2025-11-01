@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Germany's Nuclear Counterfactual</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-top">
+      <h1>What If Germany Had Not Stopped Building Nuclear Power Plants?</h1>
+      <div class="header-actions">
+        <button id="play-toggle" aria-label="Toggle animation">Play</button>
+      </div>
+    </div>
+  </header>
+  <main>
+    <section class="scenarios">
+      <article class="scenario counterfactual" data-scenario="counterfactual">
+        <div class="scenario-top">
+          <div class="scenario-header">
+            <img src="assets/pro_nuclear.png" alt="Pro-nuclear supporters">
+            <div>
+              <h2>Counterfactual Nuclear Roll-Out</h2>
+              <p>A counterfactual scenario where Germany continuously builds reactors at the pace it did in the 1980s, approximately three reactors every two years. Demand is taken from historical data. Renewables are kept static at 1998 levels. Fossil fuel plants are incrementally shut down: new reactors replace fossil sites as soon as equivalent baseload becomes available.</p>
+            </div>
+          </div>
+          <div class="mix-chart" data-donut>
+            <div class="mix-chart-header">
+              <h3>Electricity Mix</h3>
+              <span class="mix-year" data-role="year">1989</span>
+            </div>
+            <div class="mix-content">
+              <ul class="mix-legend">
+                <li data-source="nuclear"><span class="dot"></span><span class="label">Nuclear</span><span class="value">0 TWh</span></li>
+                <li data-source="renewables"><span class="dot"></span><span class="label">Renewables</span><span class="value">0 TWh</span></li>
+                <li data-source="fossil"><span class="dot"></span><span class="label">Fossil</span><span class="value">0 TWh</span></li>
+              </ul>
+              <div class="mix-visual">
+                <svg role="img" aria-label="Counterfactual electricity mix"></svg>
+                <div class="mix-center">
+                  <span class="mix-total" data-role="total">0</span>
+                  <span class="mix-unit">TWh</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--
+        <dl class="stats">
+          <div><dt>CO2 Emissions</dt><dd class="stat-co2">0 Mt</dd></div>
+          <div><dt>Clean Supply</dt><dd class="stat-clean">0 TWh</dd></div>
+          <div><dt>Nuclear Capacity</dt><dd class="stat-nuclear">0 GW</dd></div>
+          <div><dt>Fossil Capacity</dt><dd class="stat-fossil">0 GW</dd></div>
+        </dl>
+        -->
+        <div class="charts">
+          <div class="chart" data-chart="co2">
+            <h3>Carbon Emissions</h3>
+            <svg role="img" aria-label="Counterfactual emissions"></svg>
+          </div>
+          <div class="chart" data-chart="clean">
+            <h3>Clean Energy Output</h3>
+            <svg role="img" aria-label="Counterfactual clean energy"></svg>
+          </div>
+        </div>
+        <div class="tallies" aria-label="Cumulative plant actions">
+          <div class="tally" data-tally="nuclear">
+            <img src="assets/nuclear_plant.svg" alt="Nuclear plant icon">
+            <div>
+              <span class="tally-label">Nuclear</span>
+              <span class="tally-values">Opened <span data-role="opened">0</span> · Closed <span data-role="closed">0</span></span>
+            </div>
+          </div>
+          <div class="tally" data-tally="fossil">
+            <img src="assets/fossil_plant.png" alt="Fossil plant icon">
+            <div>
+              <span class="tally-label">Fossil</span>
+              <span class="tally-values">Opened <span data-role="opened">0</span> · Closed <span data-role="closed">0</span></span>
+            </div>
+          </div>
+        </div>
+        <div class="events">
+          <h3>Timeline</h3>
+          <div class="event-columns">
+            <div class="event-column" data-kind="construction">
+              <h4>Commissioned</h4>
+              <ul class="event-list"></ul>
+            </div>
+            <div class="event-column" data-kind="closure">
+              <h4>Closures</h4>
+              <ul class="event-list"></ul>
+            </div>
+          </div>
+        </div>
+      </article>
+      <article class="scenario historical" data-scenario="historical">
+        <div class="scenario-top">
+          <div class="scenario-header">
+            <img src="assets/anti_nuclear.png" alt="Anti-nuclear protest">
+            <div>
+              <h2>Historical Build-Out</h2>
+              <p>History as it actually happened: no new nuclear power plant construction after 1989. New fossil fuel plants are built, and eventually nuclear is replaced by solar and wind. Everything is taken from historical data.</p>
+            </div>
+          </div>
+          <div class="mix-chart" data-donut>
+            <div class="mix-chart-header">
+              <h3>Electricity Mix</h3>
+              <span class="mix-year" data-role="year">1989</span>
+            </div>
+            <div class="mix-content">
+              <ul class="mix-legend">
+                <li data-source="nuclear"><span class="dot"></span><span class="label">Nuclear</span><span class="value">0 TWh</span></li>
+                <li data-source="renewables"><span class="dot"></span><span class="label">Renewables</span><span class="value">0 TWh</span></li>
+                <li data-source="fossil"><span class="dot"></span><span class="label">Fossil</span><span class="value">0 TWh</span></li>
+              </ul>
+              <div class="mix-visual">
+                <svg role="img" aria-label="Historical electricity mix"></svg>
+                <div class="mix-center">
+                  <span class="mix-total" data-role="total">0</span>
+                  <span class="mix-unit">TWh</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--
+        <dl class="stats">
+          <div><dt>CO2 Emissions</dt><dd class="stat-co2">0 Mt</dd></div>
+          <div><dt>Clean Supply</dt><dd class="stat-clean">0 TWh</dd></div>
+          <div><dt>Nuclear Capacity</dt><dd class="stat-nuclear">0 GW</dd></div>
+          <div><dt>Fossil Capacity</dt><dd class="stat-fossil">0 GW</dd></div>
+        </dl>
+        -->
+        <div class="charts">
+          <div class="chart" data-chart="co2">
+            <h3>Carbon Emissions</h3>
+            <svg role="img" aria-label="Historical emissions"></svg>
+          </div>
+          <div class="chart" data-chart="clean">
+            <h3>Clean Energy Output</h3>
+            <svg role="img" aria-label="Historical clean energy"></svg>
+          </div>
+        </div>
+        <div class="tallies" aria-label="Cumulative plant actions">
+          <div class="tally" data-tally="nuclear">
+            <img src="assets/nuclear_plant.svg" alt="Nuclear plant icon">
+            <div>
+              <span class="tally-label">Nuclear</span>
+              <span class="tally-values">Opened <span data-role="opened">0</span> · Closed <span data-role="closed">0</span></span>
+            </div>
+          </div>
+          <div class="tally" data-tally="fossil">
+            <img src="assets/fossil_plant.png" alt="Fossil plant icon">
+            <div>
+              <span class="tally-label">Fossil</span>
+              <span class="tally-values">Opened <span data-role="opened">0</span> · Closed <span data-role="closed">0</span></span>
+            </div>
+          </div>
+        </div>
+        <div class="events">
+          <h3>Timeline</h3>
+          <div class="event-columns">
+            <div class="event-column" data-kind="construction">
+              <h4>Commissioned</h4>
+              <ul class="event-list"></ul>
+            </div>
+            <div class="event-column" data-kind="closure">
+              <h4>Closures</h4>
+              <ul class="event-list"></ul>
+            </div>
+          </div>
+        </div>
+      </article>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

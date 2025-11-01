@@ -1,0 +1,730 @@
+name,capacity_mw,type,technology,state,municipality,plz,street,house_number,commission_year,site
+HKW Moabit Dampfturbine,89.0,coal,Kondensationsmaschine mit Entnahme,Berlin,Berlin,13353,Friedrich-Krause-Ufer,42278,1990.0,Berlin
+HKW West Block 2,61.5,coal,Kondensationsmaschine mit Entnahme,Hessen,Frankfurt,60327,Gutleutstraße,231,1990.0,Frankfurt
+HKW West Block 3,61.5,coal,Kondensationsmaschine mit Entnahme,Hessen,Frankfurt,60327,Gutleutstraße,231,1990.0,Frankfurt
+Turbine 1,14.2,coal,Kondensationsmaschine mit Entnahme,Bayern,Schweinfurt,97424,Hafenstraße,30,1990.0,Schweinfurt
+Turbine 2,10.2,coal,Gegendruckmaschine ohne Entnahme,Bayern,Schweinfurt,97424,Hafenstraße,30,1990.0,Schweinfurt
+Gasturbinenkraftwerk Ahrensfelde GT A,37.104,natural_gas,Gasturbinen mit Abhitzekessel,Brandenburg,Ahrensfelde,16356,Lindenberger Straße,12,1990.0,Ahrensfelde
+Gasturbinenkraftwerk Ahrensfelde GT B,37.104,natural_gas,Gasturbinen mit Abhitzekessel,Brandenburg,Ahrensfelde,16356,Lindenberger Straße,12,1990.0,Ahrensfelde
+Generator 2,11.9,natural_gas,Gegendruckmaschine mit Entnahme,Rheinland-Pfalz,Worms,67547,Im Pfaffenwinkel,6,1990.0,Worms
+HKW Nord GT,25.0,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Braunschweig,38112,Sandanger,1,1990.0,Braunschweig
+Kraftwerk NE GT KW,1.214,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Hessen,Neuhof,36119,Am Kaliwerk,6,1990.0,Neuhof
+Kraftwerk NE GT KW,1.751,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Neuhof,36119,Am Kaliwerk,6,1990.0,Neuhof
+Turbine 2,2.722,natural_gas,Gegendruckmaschine ohne Entnahme,Bayern,Kelheim,93309,Regensburger Straße,109,1990.0,Kelheim
+VMA 1,3.7,oil,Verbrennungsmotor,Bayern,Schweinfurt,97424,Hafenstraße,30,1990.0,Schweinfurt
+LEV KWG G22,12.671,coal,Gegendruckmaschine ohne Entnahme,Nordrhein-Westfalen,Leverkusen,51373,Kaiser-Wilhelm-Allee,80,1991.0,Leverkusen
+GT1,6.41,natural_gas,Gasturbinen mit Abhitzekessel,Rheinland-Pfalz,Worms,67547,In der Hollerhecke,1,1991.0,Worms
+GT2,6.41,natural_gas,Gasturbinen mit Abhitzekessel,Rheinland-Pfalz,Worms,67547,In der Hollerhecke,1,1991.0,Worms
+Gasturbinenkraftwerk Ahrensfelde GT C,37.104,natural_gas,Gasturbinen mit Abhitzekessel,Brandenburg,Ahrensfelde,16356,Lindenberger Straße,12,1991.0,Ahrensfelde
+HKW Schwarza GT 7,4.934,natural_gas,Gasturbinen mit Abhitzekessel,Thüringen,Rudolstadt,7407,Breitscheidstraße,160,1991.0,Rudolstadt
+SWM HKW Nord 2 T20,333.0,natural_gas,Kondensationsmaschine mit Entnahme,Bayern,Unterföhring,85774,Münchner Straße,22,1991.0,Unterföhring
+Fab Berrenrath,98.0,coal,Gegendruckmaschine mit Entnahme,Nordrhein-Westfalen,Hürth,50354,Bertrams-Jagdweg,10,1992.0,Hürth
+GoWerk F,63.0,coal,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Hürth,50354,Goldenbergstraße,2,1992.0,Hürth
+Staudinger 5,522.0,coal,Kondensationsmaschine mit Entnahme,Hessen,Großkrotzenburg,63538,Hanauer Landstraße,150,1992.0,Großkrotzenburg
+G25,13.52,natural_gas,Gegendruckmaschine mit Entnahme,Hessen,Fulda,36039,Hermann-Muth-Straße,6,1992.0,Fulda
+Gasturbine 5,5.4,natural_gas,Gasturbinen mit Abhitzekessel,Rheinland-Pfalz,Annweiler,76855,Wasgaustraße,5,1992.0,Annweiler
+Gasturbinenanlage Castrop-Rauxel,10.0,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Castrop-Rauxel,44579,Kekulestraße,30,1992.0,Castrop-Rauxel
+Gasturbinenkraftwerk Ahrensfelde GT D,37.104,natural_gas,Gasturbinen mit Abhitzekessel,Brandenburg,Ahrensfelde,16356,Lindenberger Straße,12,1992.0,Ahrensfelde
+HKW Schwarza GT 6,4.939,natural_gas,Gasturbinen mit Abhitzekessel,Thüringen,Rudolstadt,7407,Breitscheidstraße,160,1992.0,Rudolstadt
+MM Neuss GmbH GT1,4.8,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Neuss,41460,Düsseldorfer Straße,182,1992.0,Neuss
+MM Neuss GmbH GT2,4.8,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Neuss,41460,Düsseldorfer Straße,182,1992.0,Neuss
+BHKW 1 - AGG1,1.52,oil,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,1992.0,München-Flughafen
+BHKW 1 - AGG2,1.52,oil,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,1992.0,München-Flughafen
+BHKW 1 - AGG3,1.52,oil,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,1992.0,München-Flughafen
+BHKW 1 - AGG4,1.52,oil,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,1992.0,München-Flughafen
+BHKW 1 - AGG5,1.52,oil,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,1992.0,München-Flughafen
+BHKW 1 - AGG6,1.52,oil,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,1992.0,München-Flughafen
+BHKW 1 - AGG7,1.52,oil,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,1992.0,München-Flughafen
+GKM Block 8,435.0,coal,Gegendruckmaschine mit Entnahme,Baden-Württemberg,Mannheim,68199,Marguerrestraße,1,1993.0,Mannheim
+HKW Wedel Block 1,137.0,coal,Kondensationsmaschine mit Entnahme,Schleswig-Holstein,Wedel,22880,Tinsdaler Weg,146,1993.0,Wedel
+HKW Wedel Block 2,116.0,coal,Kondensationsmaschine mit Entnahme,Schleswig-Holstein,Wedel,22880,Tinsdaler Weg,146,1993.0,Wedel
+Könnern Generator 2,8.8,coal,Gegendruckmaschine mit Entnahme,Sachsen-Anhalt,Könnern,6420,An den Sieben Stücken,1,1993.0,Könnern
+Tiefstack HKW Block 20,154.0,coal,Kondensationsmaschine mit Entnahme,Hamburg,Hamburg,22113,Andreas-Meyer-Straße,8,1993.0,Hamburg
+UER L57 M1,17.097,coal,Gegendruckmaschine mit Entnahme,Nordrhein-Westfalen,Krefeld,47829,Rheinuferstraße,7,1993.0,Krefeld
+GT1,4.77,natural_gas,Gasturbinen mit Abhitzekessel,Bremen,Bremen,28237,Waterbergstraße,14,1993.0,Bremen
+Gasturbine Bad Salzungen,9.829,natural_gas,Gasturbinen mit Abhitzekessel,Thüringen,Bad Salzungen,36433,Langenfelder Straße,82,1993.0,Bad Salzungen
+Gasturbine Beneo-Palatinit Offstein,4.94,natural_gas,Gasturbinen mit Abhitzekessel,Rheinland-Pfalz,Obrigheim,67283,Wormser Straße,11,1993.0,Obrigheim
+Generator 2,13.0,natural_gas,Gegendruckmaschine ohne Entnahme,Niedersachsen,Nordstemmen,31171,Calenberger Straße,36,1993.0,Nordstemmen
+HKW Wiesengrund,9.9,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Thüringen,Eisenach,99817,Adam-Opel Straße,101,1993.0,Eisenach
+Heizkraftwerk an der Friedensbrücke DampfturbineII,25.0,natural_gas,Kondensationsmaschine mit Entnahme,Bayern,Würzburg,97080,Veitshöchheimer Straße,1,1993.0,Würzburg
+Kesselhaus,15.0,natural_gas,Gegendruckmaschine mit Entnahme,Mecklenburg-Vorpommern,Anklam,17389,Bluthsluster Straße,24,1993.0,Anklam
+Kraftwerk SI GT1,5.5,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Wunstorf,31515,Schachtstraße,10,1993.0,Wunstorf
+"Shell Energy and Chemicals Park, Kraftwerk Wesseling, Turbine 1",31.0,oil,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Wesseling,50389,Ludwigshafener Str.,1,1993.0,Wesseling
+IKW Wählitz,31.0,coal,Gegendruckmaschine mit Entnahme,Sachsen-Anhalt,Hohenmölsen,6679,Fabrikstraße,26,1994.0,Hohenmölsen
+Kraftwerk Rostock Block A,514.0,coal,Kondensationsmaschine mit Entnahme,Mecklenburg-Vorpommern,Rostock,18147,Am Kühlturm,1,1994.0,Rostock
+DT,6.358,natural_gas,Gegendruckmaschine ohne Entnahme,Nordrhein-Westfalen,Gütersloh,33332,Carl-Bertelsmann-Straße,161,1994.0,Gütersloh
+DT1,25.517,natural_gas,Gegendruckmaschine mit Entnahme,Brandenburg,Schwarzheide,1987,Schipkauer Straße,1,1994.0,Schwarzheide
+Dampfturbine,14.18,natural_gas,Gegendruckmaschine mit Entnahme,Sachsen-Anhalt,Wanzleben-Börde,39164,Magdeburger Landstraße,1,1994.0,Wanzleben-Börde
+Dampfturbine Model Sachsen Papier,16.25143,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen,Eilenburg,4838,Am Schanzberg,1,1994.0,Eilenburg
+Felix Schoeller GmbH & Co.KG Osnabrück,14.468,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Osnabrück,49086,Burg Gretesch,45,1994.0,Osnabrück
+GT 1,5.167,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Gütersloh,33332,Carl-Bertelsmann-Straße,161,1994.0,Gütersloh
+GT 2,5.167,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Gütersloh,33332,Carl-Bertelsmann-Straße,161,1994.0,Gütersloh
+GT 3,5.167,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Gütersloh,33332,Carl-Bertelsmann-Straße,161,1994.0,Gütersloh
+GT1,37.0,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Leuna,6237,nan,nan,1994.0,Leuna
+GT1,51.35,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Brandenburg,Schwarzheide,1987,Schipkauer Straße,1,1994.0,Schwarzheide
+GT2,40.428,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Brandenburg,Schwarzheide,1987,Schipkauer Straße,1,1994.0,Schwarzheide
+GT3,37.0,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Leuna,6237,nan,nan,1994.0,Leuna
+GTS1,1.088,natural_gas,Gasturbinen ohne Abhitzekessel,Nordrhein-Westfalen,Ibbenbüren,49479,Groner Allee,76,1994.0,Ibbenbüren
+GTS2,1.1229,natural_gas,Gasturbinen ohne Abhitzekessel,Nordrhein-Westfalen,Ibbenbüren,49479,Groner Allee,76,1994.0,Ibbenbüren
+Gasturbine 1,4.92,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Wanzleben-Börde,39164,Magdeburger Landstraße,1,1994.0,Wanzleben-Börde
+Gegendruckdampfturbine Industriekraftwerk,21.7,natural_gas,Gegendruckmaschine mit Entnahme,Sachsen-Anhalt,Bernburg,6406,Köthensche Straße,0.041666666666666664,1994.0,Bernburg
+GuD Steinitz - HKW 1,5.8,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen-Anhalt,Salzwedel,29410,Bobbenmärsche,11,1994.0,Salzwedel
+GuD Steinitz - HKW 2,5.8,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen-Anhalt,Salzwedel,29410,Bobbenmärsche,11,1994.0,Salzwedel
+HKW West Block 4,110.755,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Frankfurt,60327,Gutleutstraße,231,1994.0,Frankfurt
+Heizkraftwerk Halle-Trotha - Dampfturbine,12.158467,natural_gas,Gegendruckmaschine mit Entnahme,Sachsen-Anhalt,Halle,6118,Brachwitzer Straße,23,1994.0,Halle
+Heizkraftwerk Halle-Trotha - Gasturbine,54.832533000000005,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen-Anhalt,Halle,6118,Brachwitzer Straße,23,1994.0,Halle
+Kirchmöser DT,56.0,natural_gas,Kondensationsmaschine ohne Entnahme,Brandenburg,Brandenburg,14774,Bahntechnikerring,17,1994.0,Brandenburg
+Kirchmöser GT 1,60.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Brandenburg,Brandenburg,14774,Bahntechnikerring,17,1994.0,Brandenburg
+Kirchmöser GT 2,60.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Brandenburg,Brandenburg,14774,Bahntechnikerring,17,1994.0,Brandenburg
+Leuna GT2,37.0,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Leuna,6237,nan,nan,1994.0,Leuna
+P31,1.84,natural_gas,Verbrennungsmotor,Baden-Württemberg,Mannheim,68167,Carl-Benz-Straße,1,1994.0,Mannheim
+P31,1.84,natural_gas,Verbrennungsmotor,Baden-Württemberg,Mannheim,68167,Carl-Benz-Straße,1,1994.0,Mannheim
+P37,4.5,natural_gas,Verbrennungsmotor,Baden-Württemberg,Mannheim,68167,Carl-Benz-Straße,1,1994.0,Mannheim
+SN-Lankow-GUD_1994,6.0,natural_gas,Gegendruckmaschine mit Entnahme,Mecklenburg-Vorpommern,Schwerin,19057,Grevesmühlener Str.,28,1994.0,Schwerin
+SN-Süd-GUD-DT,18.903,natural_gas,Gegendruckmaschine mit Entnahme,Mecklenburg-Vorpommern,Schwerin,19061,Pampower Str.,50,1994.0,Schwerin
+6MKA,34.5,oil,Kondensationsmaschine ohne Entnahme,Brandenburg,Schwedt,16303,Passower Chaussee,111,1994.0,Schwedt
+Großkayna GT1,45.625,oil,Gasturbinen ohne Abhitzekessel,Sachsen-Anhalt,Großkayna,6242,Werkstraße,1,1994.0,Großkayna
+Großkayna GT2,45.625,oil,Gasturbinen ohne Abhitzekessel,Sachsen-Anhalt,Großkayna,6242,Werkstraße,1,1994.0,Großkayna
+Großkayna GT3,45.625,oil,Gasturbinen ohne Abhitzekessel,Sachsen-Anhalt,Großkayna,6242,Werkstraße,1,1994.0,Großkayna
+Schkopau A,450.0,coal,Kondensationsmaschine mit Entnahme,Sachsen-Anhalt,Schkopau,6258,An der Bober,100,1995.0,Schkopau
+DT,74.0,natural_gas,Gegendruckmaschine mit Entnahme,Sachsen,Dresden,1159,Oederaner Straße,21,1995.0,Dresden
+FHKW GT4,4.389270000000001,natural_gas,Gasturbinen mit Abhitzekessel,Rheinland-Pfalz,Ludwigshafen,67063,Industriestraße,3,1995.0,Ludwigshafen
+GT1,62.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen,Dresden,1159,Oederaner Straße,21,1995.0,Dresden
+GT2,62.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen,Dresden,1159,Oederaner Straße,21,1995.0,Dresden
+GT3,62.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen,Dresden,1159,Oederaner Straße,21,1995.0,Dresden
+HKW-West Gasturbine 2,5.07,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Lemgo,32657,Liemer Weg,71,1995.0,Lemgo
+KW ZI Austausch-Geno,5.25,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Zielitz,39326,Farsleber Straße,1,1995.0,Zielitz
+KW ZI GT 1,4.91,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Zielitz,39326,Farsleber Straße,1,1995.0,Zielitz
+TG8,12.0,natural_gas,Gegendruckmaschine mit Entnahme,Nordrhein-Westfalen,Moers,47443,Römerstraße,733,1995.0,Moers
+Expander,18.9,oil,Sonstige,Baden-Württemberg,Karlsruhe,76187,Nördliche Raffineriestraße,1,1995.0,Karlsruhe
+Maschine 1,11.3,oil,Kondensationsmaschine mit Entnahme,Baden-Württemberg,Karlsruhe,76187,Nördliche Raffineriestraße,1,1995.0,Karlsruhe
+Maschine 2,11.3,oil,Kondensationsmaschine mit Entnahme,Baden-Württemberg,Karlsruhe,76187,Nördliche Raffineriestraße,1,1995.0,Karlsruhe
+Maschine 3,12.7,oil,Kondensationsmaschine mit Entnahme,Baden-Württemberg,Karlsruhe,76187,Nördliche Raffineriestraße,1,1995.0,Karlsruhe
+Maschine 4,12.7,oil,Kondensationsmaschine mit Entnahme,Baden-Württemberg,Karlsruhe,76187,Nördliche Raffineriestraße,1,1995.0,Karlsruhe
+Sermuth BHKW 1,5.7,oil,Verbrennungsmotor,Sachsen,Colditz,4680,Am Umspannwerk,2,1995.0,Colditz
+Sermuth BHKW 2,7.2,oil,Verbrennungsmotor,Sachsen,Colditz,4680,Am Umspannwerk,901,1995.0,Colditz
+Sermuth BHKW 3,5.7,oil,Verbrennungsmotor,Sachsen,Colditz,4680,Am Umspannwerk,2,1995.0,Colditz
+TG-1901,7.3,oil,Kondensationsmaschine mit Entnahme,Baden-Württemberg,Karlsruhe,76187,Nördliche Raffineriestraße,1,1995.0,Karlsruhe
+TG-1902,7.3,oil,Kondensationsmaschine mit Entnahme,Baden-Württemberg,Karlsruhe,76187,Nördliche Raffineriestraße,1,1995.0,Karlsruhe
+TG-1904,13.5,oil,Gegendruckmaschine mit Entnahme,Baden-Württemberg,Karlsruhe,76187,Nördliche Raffineriestraße,1,1995.0,Karlsruhe
+Schkopau B,450.0,coal,Kondensationsmaschine mit Entnahme,Sachsen-Anhalt,Schkopau,6258,An der Bober,100,1996.0,Schkopau
+BHKW Kre,14.0,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Krefeld,47809,Düsseldorfer Straße,191,1996.0,Krefeld
+Cogenerationanlage,25.4,natural_gas,Gasturbinen mit Abhitzekessel,Bayern,Neustadt,93333,Raffineriestraße,100,1996.0,Neustadt
+DT 2 (KKK),4.339,natural_gas,Gegendruckmaschine mit Entnahme,Niedersachsen,Hoya,27318,Von-dem-Bussche-Straße,1,1996.0,Hoya
+Dampfturbine 1 Jena,25.0,natural_gas,Gegendruckmaschine mit Entnahme,Thüringen,Jena,7745,Rudolstädter Straße,41,1996.0,Jena
+Dampfturbine 2 Jena,39.0,natural_gas,Kondensationsmaschine mit Entnahme,Thüringen,Jena,7745,Rudolstädter Straße,41,1996.0,Jena
+Felix Schoeller GmbH & Co.KG Weißenborn GT3,5.2,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen,Weißenborn,9600,Fabrikstraße,1,1996.0,Weißenborn
+GT1,22.4,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Lingen,49808,Raffineriestraße,1,1996.0,Lingen
+GT1,4.946,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Zülpich,53909,Zum Mühlengraben,1,1996.0,Zülpich
+GT1 CTX,5.155,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Hoya,27318,Von-dem-Bussche-Straße,1,1996.0,Hoya
+GT2,5.163,natural_gas,Gasturbinen mit Abhitzekessel,Schleswig-Holstein,Brunsbüttel,25541,Fritz-Staiger-Straße,15,1996.0,Brunsbüttel
+GT2,22.7,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Lingen,49808,Raffineriestraße,1,1996.0,Lingen
+GT2,4.946,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Zülpich,53909,Zum Mühlengraben,1,1996.0,Zülpich
+Gasturbine 1 Jena,39.0,natural_gas,Gasturbinen mit Abhitzekessel,Thüringen,Jena,7745,Rudolstädter Straße,41,1996.0,Jena
+Gasturbine 2 Jena,39.0,natural_gas,Gasturbinen mit Abhitzekessel,Thüringen,Jena,7745,Rudolstädter Straße,41,1996.0,Jena
+Gasturbine 3 Jena,39.0,natural_gas,Gasturbinen mit Abhitzekessel,Thüringen,Jena,7745,Rudolstädter Straße,41,1996.0,Jena
+Gasturbine Basell Wesseling,51.9,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Wesseling,50389,Brühler Straße,60,1996.0,Wesseling
+Generator 4,11.41,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Wiesbaden,65203,Rheingaustraße,190-196,1996.0,Wiesbaden
+GuD-Block 1,36.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Mecklenburg-Vorpommern,Rostock,18069,Schmarler Damm,5,1996.0,Rostock
+GuD-Block 2,36.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Mecklenburg-Vorpommern,Rostock,18069,Schmarler Damm,5,1996.0,Rostock
+GuD-Block 3,36.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Mecklenburg-Vorpommern,Rostock,18069,Schmarler Damm,5,1996.0,Rostock
+HKW Dessau,39.12,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen-Anhalt,Dessau-Roßlau,6842,An der Fine,4,1996.0,Dessau-Roßlau
+HKW Gasturbine 2,4.894,natural_gas,Gasturbinen mit Abhitzekessel,Mecklenburg-Vorpommern,Greifswald,17489,An der Jungfernwiese,8,1996.0,Greifswald
+HKW Linden DT,78.0,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Hannover,30449,Spinnereistraße,9,1996.0,Hannover
+HKW Potsdam-Süd Block1,40.9,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Brandenburg,Potsdam,14478,Zum Heizwerk,20,1996.0,Potsdam
+HKW Potsdam-Süd Block2,40.9,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Brandenburg,Potsdam,14478,Zum Heizwerk,20,1996.0,Potsdam
+Heizkraftwerk Leipzig Nord GT81,63.54,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen,Leipzig,4105,Eutritzscher Straße,14 b,1996.0,Leipzig
+Solvay Rb TA1,54.0,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Rheinberg,47495,Xantener Straße,237,1996.0,Rheinberg
+TG4,10.9,natural_gas,Gegendruckmaschine ohne Entnahme,Niedersachsen,Lingen,49808,Raffineriestraße,1,1996.0,Lingen
+TG6,10.1,natural_gas,Gegendruckmaschine ohne Entnahme,Niedersachsen,Lingen,49808,Raffineriestr.,1,1996.0,Lingen
+Wolfen GT,50.0,natural_gas,Gasturbinen ohne Abhitzekessel,Sachsen-Anhalt,Bitterfeld-Wolfen,6766,Sensientstraße,7,1996.0,Bitterfeld-Wolfen
+HKW DT,16.958,coal,Dampfmotor,Brandenburg,Frankfurt,15236,Am Hohen Feld,4,1997.0,Frankfurt
+Heizkraftwerk Altbach/Deizisau HKW 2 DT (Solobetrieb),323.0,coal,Kondensationsmaschine mit Entnahme,Baden-Württemberg,Altbach,73776,Industriestraße,11,1997.0,Altbach
+Kraftwerk Schwarze Pumpe Block A,755.0,coal,Kondensationsmaschine mit Entnahme,Brandenburg,Spremberg,3130,An der alten Ziegelei,1,1997.0,Spremberg
+DT,26.459,natural_gas,Dampfmotor,Mecklenburg-Vorpommern,Neubrandenburg,17034,Warliner Straße,22,1997.0,Neubrandenburg
+DT2,12.0,natural_gas,Kondensationsmaschine ohne Entnahme,Brandenburg,Schwarzheide,1987,Schipkauer Straße,1,1997.0,Schwarzheide
+GT1,23.761,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Mecklenburg-Vorpommern,Neubrandenburg,17034,Warliner Straße,22,1997.0,Neubrandenburg
+GT2,23.125,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Mecklenburg-Vorpommern,Neubrandenburg,17034,Warliner Straße,22,1997.0,Neubrandenburg
+GT3,4.946,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Zülpich,53909,Zum Mühlengraben,1,1997.0,Zülpich
+GuD Süd GT1,173.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Rheinland-Pfalz,Ludwigshafen,67063,Carl-Bosch-Straße,38,1997.0,Ludwigshafen
+GuD Süd GT2,165.5,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Rheinland-Pfalz,Ludwigshafen,67063,Carl-Bosch-Straße,38,1997.0,Ludwigshafen
+HKW BRB,36.8,natural_gas,Gasturbinen mit Abhitzekessel,Brandenburg,Brandenburg,14772,Upstallstraße,9,1997.0,Brandenburg
+HKW Mitte Gasturbine 1,164.0,natural_gas,Gasturbinen mit Abhitzekessel,Berlin,Berlin,10179,Köpenicker Straße,60,1997.0,Berlin
+HKW Mitte Gasturbine 2,164.0,natural_gas,Gasturbinen mit Abhitzekessel,Berlin,Berlin,10179,Köpenicker Straße,60,1997.0,Berlin
+Heizkraftwerk Altbach/Deizisau HKW 2 GT E (Solobetrieb),65.0,natural_gas,Gasturbinen mit Abhitzekessel,Baden-Württemberg,Altbach,73776,Industriestraße,11,1997.0,Altbach
+QED_GuD_Staßfurt,100.0,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Staßfurt,39418,Athenslebener Weg (Staßfurt),57,1997.0,Staßfurt
+ZI TR GT2,5.5,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Zielitz,39326,Farsleber Straße,1,1997.0,Zielitz
+Raffineriekraftwerk Leuna HDT,29.3,oil,Gegendruckmaschine ohne Entnahme,Sachsen-Anhalt,Leuna,6237,Am Haupttor,3691,1997.0,Leuna
+Raffineriekraftwerk Leuna MDT,33.4,oil,Gegendruckmaschine mit Entnahme,Sachsen-Anhalt,Leuna,6237,Am Haupttor,3691,1997.0,Leuna
+Raffineriekraftwerk Leuna NDT,29.8,oil,Kondensationsmaschine ohne Entnahme,Sachsen-Anhalt,Leuna,6237,Am Haupttor,3691,1997.0,Leuna
+VMA 2,4.1,oil,Verbrennungsmotor,Bayern,Schweinfurt,97424,Hafenstraße,30,1997.0,Schweinfurt
+Kraftwerk Schwarze Pumpe Block B,755.0,coal,Kondensationsmaschine mit Entnahme,Brandenburg,Spremberg,3130,An der alten Ziegelei,1,1998.0,Spremberg
+GT4,38.4,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Leuna,6237,nan,nan,1998.0,Leuna
+GT6,5.0,natural_gas,Gasturbinen ohne Abhitzekessel,Nordrhein-Westfalen,Brilon,59929,Im Kissen,19,1998.0,Brilon
+GT8,5.0,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Brilon,59929,Im Kissen,19,1998.0,Brilon
+Gasmotoren-Blockheizkraftwerk I (Generator 1),3.879,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,1998.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk I (Generator 2),3.879,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,1998.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk I (Generator 3),3.879,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,1998.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk I (Generator 4),3.879,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,1998.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk I (Generator 5),3.879,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,1998.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk I (Generator 6),3.879,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,1998.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk I (Generator 7),3.879,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,1998.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk I (Generator 8),3.879,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,1998.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk I (Generator 9),3.879,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,1998.0,Moritzburg
+Gasturbine,38.498,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Baden-Württemberg,Freiburg,79108,Engesserstraße,8,1998.0,Freiburg
+Gasturbine HKW,18.8,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Göttingen,37075,Rudolf-Diesel-Straße,10,1998.0,Göttingen
+HKW Nord Generator A,61.0,natural_gas,Gegendruckmaschine mit Entnahme,Niedersachsen,Wolfsburg,38440,Berliner Ring,2,1998.0,Wolfsburg
+"Heizkraftwerk Bonn-Nord, Gasturbine 1 der GuD-Anlage",20.5,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Bonn,53115,Karlstraße,2,1998.0,Bonn
+IN_N19_KWKK_GT1,4.985,natural_gas,Gasturbinen mit Abhitzekessel,Bayern,Ingolstadt,85057,Ettinger Straße,105,1998.0,Ingolstadt
+IN_N19_KWKK_GT2,4.985,natural_gas,Gasturbinen mit Abhitzekessel,Bayern,Ingolstadt,85057,Ettinger Straße,105,1998.0,Ingolstadt
+Rheinhafen- Dampfkraftwerk  RDK 4S DT,114.0,natural_gas,Kondensationsmaschine ohne Entnahme,Baden-Württemberg,Karlsruhe,76189,Fettweisstraße,42,1998.0,Karlsruhe
+Rheinhafen- Dampfkraftwerk RDK 4S GT,239.0,natural_gas,Gasturbinen mit Abhitzekessel,Baden-Württemberg,Karlsruhe,76189,Fettweisstraße,42,1998.0,Karlsruhe
+1MKA,106.0,oil,Kondensationsmaschine mit Entnahme,Brandenburg,Schwedt,16303,Passower Chaussee,111,1998.0,Schwedt
+2MKA,106.0,oil,Kondensationsmaschine mit Entnahme,Brandenburg,Schwedt,16303,Passower Chaussee,111,1998.0,Schwedt
+Kraftwerk Lippendorf Block S,891.0,coal,Kondensationsmaschine mit Entnahme,Sachsen,Neukieritzsch,4575,Hauptstraße,200,1999.0,Neukieritzsch
+LEV KWG G23,5.484,coal,Gegendruckmaschine ohne Entnahme,Nordrhein-Westfalen,Leverkusen,51373,Kaiser-Wilhelm-Allee,80,1999.0,Leverkusen
+DA_HKW_01,10.0,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Darmstadt,64293,Frankfurter Straße,250,1999.0,Darmstadt
+DT,34.0,natural_gas,Gegendruckmaschine mit Entnahme,Thüringen,Erfurt,99087,Stotternheimer Straße,40,1999.0,Erfurt
+GT 1,23.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Thüringen,Erfurt,99087,Stotternheimer Straße,40,1999.0,Erfurt
+GT 2,23.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Thüringen,Erfurt,99087,Stotternheimer Straße,40,1999.0,Erfurt
+GuD-Heizkraftwerk M120,103.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Hessen,Rüsselsheim,65428,Mainzer Straße,nan,1999.0,Rüsselsheim
+HDH_004_Industrieheizkraftwerk-Heidenheim_GM4,3.725,natural_gas,Verbrennungsmotor,Baden-Württemberg,Heidenheim,89522,Alexanderstraße,8,1999.0,Heidenheim
+Mittel-Niederdruckdampfturbine,45.0,natural_gas,Kondensationsmaschine mit Entnahme,Brandenburg,Cottbus,3052,Werner-von-Siemens-Straße,16,1999.0,Cottbus
+Turbosatz 4,6.610390000000001,natural_gas,Gegendruckmaschine ohne Entnahme,Bayern,Ettringen,86833,Fabrikstraße,4,1999.0,Ettringen
+Boxberg Block Q,840.0,coal,Kondensationsmaschine mit Entnahme,Sachsen,Boxberg,2943,Am Kraftwerk,1,2000.0,Boxberg
+Kraftwerk Lippendorf Block R,891.0,coal,Kondensationsmaschine mit Entnahme,Sachsen,Neukieritzsch,4575,Hauptstraße,200,2000.0,Neukieritzsch
+Bitterfeld GuD,108.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen-Anhalt,Bitterfeld-Wolfen,6749,Parsevalstraße,3 B,2000.0,Bitterfeld-Wolfen
+Dormagen DT,194.0,natural_gas,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Dormagen,41540,Alte Heerstraße,1,2000.0,Dormagen
+Dormagen GT1,184.0,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Dormagen,41540,Alte Heerstraße,1,2000.0,Dormagen
+Dormagen GT2,184.0,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Dormagen,41540,Alte Heerstraße,1,2000.0,Dormagen
+GuD Anlage DREWSEN Spezialpapiere (Dampfturbine),9.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Lachendorf,29331,Georg-Drewsen-Weg,2,2000.0,Lachendorf
+GuD Anlage DREWSEN Spezialpapiere (Gasturbine),7.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Lachendorf,29331,Georg-Drewsen-Weg,2,2000.0,Lachendorf
+SWD KWL AGuD,100.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Düsseldorf,40221,Auf der Lausward,75,2000.0,Düsseldorf
+GOES Anlagen Dotternhausen Blöcke 1+2+3+4,15.0,oil,Sonstige,Baden-Württemberg,Dotternhausen,72359,Dormettinger Straße,25,2000.0,Dotternhausen
+GT2,5.025,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bremen,Bremen,28237,Waterbergstraße,14,2001.0,Bremen
+Gasturbine 1,5.49,natural_gas,Gasturbinen mit Abhitzekessel,Baden-Württemberg,Freiburg,79106,Hartmannstraße,1,2001.0,Freiburg
+Gasturbinenanlage 12,137.0,natural_gas,Gasturbinen mit Abhitzekessel,Bayern,Burghausen,84489,Johannes-Hess-Straße,24,2001.0,Burghausen
+HBB Heizkraftwerk Bauernfeind Betreibergesellschaft mbH (Stromerzeugung),6.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Raubling,83064,Rosenheimer Straße,37,2001.0,Raubling
+KW3 DT32,139.7,natural_gas,Kondensationsmaschine mit Entnahme,Rheinland-Pfalz,Mainz,55120,Kraftwerkallee,1,2001.0,Mainz
+KW3 GT31,291.3,natural_gas,Gasturbinen mit Abhitzekessel,Rheinland-Pfalz,Mainz,55120,Kraftwerkallee,1,2001.0,Mainz
+KWKK Heidelberg,13.288,natural_gas,Gasturbinen mit Abhitzekessel,Baden-Württemberg,Heidelberg,69120,Im Neuenheimer Feld,530,2001.0,Heidelberg
+BHKW Jülich,1.387,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Jülich,52428,Dürener Str.,20,2002.0,Jülich
+BHKW M8,3.815651,natural_gas,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,2002.0,München-Flughafen
+BHKW M9,3.815651,natural_gas,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,2002.0,München-Flughafen
+GT3,5.025,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bremen,Bremen,28237,Waterbergstraße,14,2002.0,Bremen
+Niederaußem K,944.0,coal,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Bergheim,50129,Werkstr.,nan,2003.0,Bergheim
+Heizkraftwerk Heilbronn FHT 1,6.5,natural_gas,Gegendruckmaschine mit Entnahme,Baden-Württemberg,Heilbronn,74076,Lichtenbergerstraße,23,2003.0,Heilbronn
+IPH Strom GTX1,53.6,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Hessen,Frankfurt,65929,Brüningstraße,50,2003.0,Frankfurt
+PKV Dampfsammelschienen-KWK-Anlage Generator/ Turbine GT 6,7.662,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Varel,26316,Dangaster Straße,38,2003.0,Varel
+BHKW GT-Ost,30.7,natural_gas,Gasturbinen mit Abhitzekessel,Bayern,Augsburg,86167,Beim Grenzgraben,10,2004.0,Augsburg
+Cuno Heizkraftwerk Herdecke BHKW1,1.95,natural_gas,Sonstige,Nordrhein-Westfalen,Herdecke,58313,Wetterstraße,111,2004.0,Herdecke
+Dampfturbine IV CropEnergies Zeitz,17.773,natural_gas,Gegendruckmaschine ohne Entnahme,Sachsen-Anhalt,Zeitz,6712,Albrechtstraße,54,2004.0,Zeitz
+Gasmotor 11,2.927,natural_gas,Verbrennungsmotor,Saarland,Völklingen,66333,Saarbrücker Straße,135 - 137,2004.0,Völklingen
+Gasmotor 12,2.927,natural_gas,Verbrennungsmotor,Saarland,Völklingen,66333,Saarbrücker Straße,135 - 137,2004.0,Völklingen
+Gasmotor 13,2.927,natural_gas,Verbrennungsmotor,Saarland,Völklingen,66333,Saarbrücker Straße,135 - 137,2004.0,Völklingen
+Gasmotor 9,2.927,natural_gas,Verbrennungsmotor,Saarland,Völklingen,66333,Saarbrücker Straße,135 - 137,2004.0,Völklingen
+Gasmotoren-Blockheizkraftwerk II (Generator 1),3.772,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,2004.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk II (Generator 2),3.772,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,2004.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk II (Generator 3),3.772,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,2004.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk II (Generator 4),3.772,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,2004.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk II (Generator 5),3.772,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,2004.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk II (Generator 6),3.772,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,2004.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk II (Generator 7),3.772,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,2004.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk II (Generator 8),3.772,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,2004.0,Moritzburg
+Gasmotoren-Blockheizkraftwerk II (Generator 9),3.772,natural_gas,Verbrennungsmotor,Sachsen,Moritzburg,1468,Ringstraße,3,2004.0,Moritzburg
+Generator Jülich,22.86,natural_gas,Gegendruckmaschine mit Entnahme,Nordrhein-Westfalen,Jülich,52428,Dürener Str.,20,2004.0,Jülich
+GuD Merkenich RheinEnergie,108.2,natural_gas,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Köln,50769,Merkenicher Hauptstr.,2,2004.0,Köln
+HDH_004_Industrieheizkraftwerk-Heidenheim_GM5,3.729,natural_gas,Verbrennungsmotor,Baden-Württemberg,Heidenheim,89522,Alexanderstraße,8,2004.0,Heidenheim
+HKW Dresden - Reick Turbosatz 2,1.6,natural_gas,Gegendruckmaschine ohne Entnahme,Sachsen,Dresden,1277,Liebstädter Straße,1,2004.0,Dresden
+HKW III  Block B,75.2,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Duisburg,47249,Wanheimer Str.,439,2004.0,Duisburg
+HKW III  Block B,75.2,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Duisburg,47249,Wanheimer Str.,439,2004.0,Duisburg
+HK_001_Industrieheizkraftwerk-Walsrode_GT6,6.35,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Walsrode,29699,Bahnhofstraße,13,2004.0,Walsrode
+P87,1.6,natural_gas,Verbrennungsmotor,Baden-Württemberg,Mannheim,68167,Carl-Benz-Straße,1,2004.0,Mannheim
+SWM HKW Sued GuD2 DT60,127.6,natural_gas,Gegendruckmaschine mit Entnahme,Bayern,München,81371,Schäftlarnstraße,15,2004.0,München
+Audorf GT,90.0,oil,Gasturbinen ohne Abhitzekessel,Schleswig-Holstein,Osterrönfeld,24783,Schäferkatenweg,1,2004.0,Osterrönfeld
+GKM Block 6,255.0,coal,Gegendruckmaschine mit Entnahme,Baden-Württemberg,Mannheim,68199,Marguerrestraße,1,2005.0,Mannheim
+Cuno Heizkraftwerk Herdecke BHKW2,1.95,natural_gas,Sonstige,Nordrhein-Westfalen,Herdecke,58313,Wetterstraße,111,2005.0,Herdecke
+DT23,29.2,natural_gas,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Wuppertal,42275,Am Clef,32,2005.0,Wuppertal
+Dampfturbine - GuD MPE,9.35,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Bielefeld,33699,Niedernholz,7,2005.0,Bielefeld
+Dampfturbine GWK Kuhheide 34,4.7,natural_gas,Gegendruckmaschine ohne Entnahme,Brandenburg,Schwedt,16303,Kuhheide,34,2005.0,Schwedt
+GT Niehl 2 RheinEnergie,266.0,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Köln,50735,Am Molenkopf,3,2005.0,Köln
+GT11,27.6,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Wuppertal,42275,Am Clef,32,2005.0,Wuppertal
+GT12,27.6,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Wuppertal,42275,Am Clef,32,2005.0,Wuppertal
+GUD-1-1 (GT1),31.0,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Münster,48155,Am Mittelhafen,11,2005.0,Münster
+GUD-1-2 (GT2),31.0,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Münster,48155,Am Mittelhafen,11,2005.0,Münster
+Gasturbine 1 - GuD MPE,14.05,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Bielefeld,33699,Niedernholz,23,2005.0,Bielefeld
+Gasturbine 2 - GuD MPE,15.25,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Bielefeld,33699,Niedernholz,23,2005.0,Bielefeld
+GuD Mitte GT11,204.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Rheinland-Pfalz,Ludwigshafen,67063,Carl-Bosch-Straße,38,2005.0,Ludwigshafen
+GuD Mitte GT12,204.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Rheinland-Pfalz,Ludwigshafen,67063,Carl-Bosch-Straße,38,2005.0,Ludwigshafen
+HKW - DT1,9.963,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Erlangen,91052,Äußere Brucker Straße,33,2005.0,Erlangen
+HKW - GuD1,12.405,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Erlangen,91052,Äußere Brucker Straße,33,2005.0,Erlangen
+HKW Niederrad Block 1,70.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Hessen,Frankfurt,60528,Lyoner Straße,8,2005.0,Frankfurt
+HKW Sandreuth (GT1),53.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Nürnberg,90441,Sandreuthstraße,55 a,2005.0,Nürnberg
+HKW Sandreuth (GT2),53.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Nürnberg,90441,Sandreuthstraße,55a,2005.0,Nürnberg
+HKW-Römerbrücke GuD-Anlage,40.0,natural_gas,Gasturbinen mit Abhitzekessel,Saarland,Saarbrücken,66121,Bismarckstraße,143,2005.0,Saarbrücken
+HKWH Gasturbine 5,5.424,natural_gas,Gasturbinen mit Abhitzekessel,Schleswig-Holstein,Kiel,24116,Goethestraße,14,2005.0,Kiel
+HKWH Gasturbine 6,5.424,natural_gas,Gasturbinen mit Abhitzekessel,Schleswig-Holstein,Kiel,24116,Goethestraße,14,2005.0,Kiel
+Heizkraftwerk an der Friedensbrücke GasturbineI,51.0,natural_gas,Gasturbinen mit Abhitzekessel,Bayern,Würzburg,97080,Veitshöchheimer Straße,1,2005.0,Würzburg
+Kombi-HKW GT2,31.15,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Kassel,34134,Dennhäuser Straße,122,2005.0,Kassel
+SI-Gasmotor (12 V 32/40),5.235,natural_gas,Verbrennungsmotor,Bayern,Augsburg,86153,Stadtbachstraße,1,2005.0,Augsburg
+ZI Tr GT3,1.403,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Zielitz,39326,Farsleber Straße,1,2005.0,Zielitz
+Dieselaggregat 3,1.615,oil,Verbrennungsmotor,Nordrhein-Westfalen,Iserlohn,58636,Giesestraße,10,2005.0,Iserlohn
+Gasturbine 6,3.6,natural_gas,Gasturbinen mit Abhitzekessel,Rheinland-Pfalz,Annweiler,76855,Wasgaustraße,5,2006.0,Annweiler
+Kraftwerk HA GT3,6.0,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Philippsthal,36269,Hattorfer Straße,1,2006.0,Philippsthal
+Rheinfelden Dampfturbine,6.43,natural_gas,Gegendruckmaschine mit Entnahme,Baden-Württemberg,Rheinfelden,79618,Untere Kanalstraße,3,2006.0,Rheinfelden
+Weisweiler G VGT,200.0,natural_gas,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Eschweiler,52249,Am Kraftwerk,17,2006.0,Eschweiler
+Weisweiler H VGT,200.0,natural_gas,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Eschweiler,52249,Am Kraftwerk,17,2006.0,Eschweiler
+Cuno Heizkraftwerk Herdecke H6,417.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Herdecke,58313,Wetterstraße,111,2007.0,Herdecke
+Gasturbine 2,5.63,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Wanzleben-Börde,39164,Magdeburger Landstraße,1,2007.0,Wanzleben-Börde
+HKW Wörth,90.784,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Rheinland-Pfalz,Wörth,76744,Am Oberwald,2,2007.0,Wörth
+KWK 1 - Kesselhaus,5.0,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Stadtallendorf,35260,Michele-Ferrero-Straße,1,2007.0,Stadtallendorf
+Knapsack I - Dampfturbine - DT 10,280.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Hürth,50354,Industriestraße,300,2007.0,Hürth
+Knapsack I - Gasturbine  GT11,308.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Hürth,50354,Industriestraße,300,2007.0,Hürth
+Knapsack I - Gasturbine GT12,308.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Hürth,50354,Industriestraße,300,2007.0,Hürth
+P34,1.32,natural_gas,Verbrennungsmotor,Baden-Württemberg,Mannheim,68167,Carl-Benz-Straße,1,2007.0,Mannheim
+P35,2.0,natural_gas,Verbrennungsmotor,Baden-Württemberg,Mannheim,68167,Carl-Benz-Straße,1,2007.0,Mannheim
+PKV Dampfsammelschienen-KWK-Anlage Generator / Turbine GT 8a,6.127,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Varel,26316,Dangaster Straße,38,2007.0,Varel
+PKV Dampfsammelschienen-KWK-Anlage Generator / Turbine GT 8b,6.127,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Varel,26316,Dangaster Straße,38,2007.0,Varel
+Trianel Gaskraftwerk Hamm Block 10,445.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Hamm,59071,Trianelstraße,1,2007.0,Hamm
+Trianel Gaskraftwerk Hamm Block 20,445.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Hamm,59071,Trianelstraße,1,2007.0,Hamm
+GT3,5.07,natural_gas,Gasturbinen mit Abhitzekessel,Hamburg,Hamburg,21107,Nippoldstraße,117,2008.0,Hamburg
+Generator 1,17.65,natural_gas,Gegendruckmaschine mit Entnahme,Niedersachsen,Hohenhameln,31249,Zuckerfabrik,3,2008.0,Hohenhameln
+Heizkraftwerk Stuttgart-Münster DT 19,19.5,coal,Kondensationsmaschine mit Entnahme,Baden-Württemberg,Stuttgart,70376,Voltastraße,45,2009.0,Stuttgart
+BMW Landshut KWK 1,1.35,natural_gas,Verbrennungsmotor,Bayern,Landshut,84030,Ohmstraße,2,2009.0,Landshut
+BMW Landshut KWK 2,1.35,natural_gas,Verbrennungsmotor,Bayern,Landshut,84030,Ohmstraße,2,2009.0,Landshut
+Dampfturbine,2.04,natural_gas,Gegendruckmaschine ohne Entnahme,Hamburg,Hamburg,21107,Nippoldstraße,117,2009.0,Hamburg
+Fabrik NE GT Tr,5.1,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Neuhof,36119,Am Kaliwerk,6,2009.0,Neuhof
+Fabrik NE GT Tr.,5.1,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Neuhof,36119,Am Kaliwerk,6,2009.0,Neuhof
+GTS3,5.319,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Ibbenbüren,49479,Groner Allee,76,2009.0,Ibbenbüren
+Gasturbine Model Sachsen Papier,30.649259999999998,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen,Eilenburg,4838,Am Schanzberg,1,2009.0,Eilenburg
+HKW Linden GT3,70.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Hannover,30449,Spinnereistraße,9,2009.0,Hannover
+Heizkraftwerk an der Friedensbrücke GasturbineII,30.0,natural_gas,Gasturbinen mit Abhitzekessel,Bayern,Würzburg,97080,Veitshöchheimer Straße,1,2009.0,Würzburg
+Kraftwerk WI DT 2.1,52.7,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Heringen,36266,In der Aue,1,2009.0,Heringen
+Leipzig KWK 1,3.119,natural_gas,Verbrennungsmotor,Sachsen,Leipzig,4349,BMW Allee,1,2009.0,Leipzig
+Prüfstand 15,13.84,natural_gas,Verbrennungsmotor,Bayern,Augsburg,86153,Stadtbachstraße,1,2009.0,Augsburg
+Tiefstack GuD GT41,50.0,natural_gas,Gasturbinen mit Abhitzekessel,Hamburg,Hamburg,22113,Andreas-Meyer-Straße,8,2009.0,Hamburg
+Block 6 Merkenich RheinEnergie,75.3,coal,Gegendruckmaschine mit Entnahme,Nordrhein-Westfalen,Köln,50769,Merkenicher Hauptstr.,2,2010.0,Köln
+Block 4 Merkenich RheinEnergie,15.5,natural_gas,Gegendruckmaschine ohne Entnahme,Nordrhein-Westfalen,Köln,50769,Merkenicher Hauptstr.,2,2010.0,Köln
+DT06,14.383,natural_gas,Gegendruckmaschine ohne Entnahme,Nordrhein-Westfalen,Zülpich,53909,Zum Mühlengraben,1,2010.0,Zülpich
+Emsland D DT,340.0,natural_gas,Kondensationsmaschine mit Entnahme,Niedersachsen,Lingen,49808,Schüttorfer Straße,100,2010.0,Lingen
+Emsland D GT1,293.5,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Lingen,49808,Schüttorfer Straße,100,2010.0,Lingen
+Emsland D GT2,293.5,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Lingen,49808,Schüttorfer Straße,100,2010.0,Lingen
+HKW Sandreuth (DT1),15.596,natural_gas,Gegendruckmaschine ohne Entnahme,Bayern,Nürnberg,90441,Sandreuthstraße,55a,2010.0,Nürnberg
+Heizkraftwerk Leipzig Nord GT82,64.603,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen,Leipzig,4105,Eutritzscher Straße,14b,2010.0,Leipzig
+Irsching 5 DT,282.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Vohburg,85088,Paarstraße,30,2010.0,Vohburg
+Irsching 5 GT1,282.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Vohburg,85088,Paarstraße,30,2010.0,Vohburg
+Irsching 5 GT2,282.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Vohburg,85088,Paarstraße,30,2010.0,Vohburg
+KW Plattling DT,39.078,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Plattling,94447,Gottlieb-Daimler-Straße,7,2010.0,Plattling
+KWK 2 - Kesselhaus,7.5,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Stadtallendorf,35260,Michele-Ferrero-Straße,1,2010.0,Stadtallendorf
+Kraftwerk Plattling GT,78.157,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Plattling,94447,Gottlieb-Daimler-Straße,7,2010.0,Plattling
+NEZ Adlershof Modul 1,1.97,natural_gas,Verbrennungsmotor,Berlin,Berlin,12489,Albert-Einstein-Straße,22,2010.0,Berlin
+NEZ Adlershof Modul 2,1.97,natural_gas,Verbrennungsmotor,Berlin,Berlin,12489,Albert-Einstein-Straße,22,2010.0,Berlin
+NEZ Adlershof Modul 3,1.97,natural_gas,Verbrennungsmotor,Berlin,Berlin,12489,Albert-Einstein-Straße,22,2010.0,Berlin
+NEZ Adlershof Modul 4,1.97,natural_gas,Verbrennungsmotor,Berlin,Berlin,12489,Albert-Einstein-Straße,22,2010.0,Berlin
+Kraftwerk Fulda Aggregat 1,3.6,oil,Verbrennungsmotor,Hessen,Fulda,36043,Frankfurter Straße,nan,2010.0,Fulda
+Kraftwerk Fulda Aggregat 2,6.29,oil,Verbrennungsmotor,Hessen,Fulda,36043,Frankfurter Straße,4,2010.0,Fulda
+Kraftwerk Fulda Aggregat 3A,2.76,oil,Verbrennungsmotor,Hessen,Fulda,36043,Frankfurter Straße,4,2010.0,Fulda
+Kraftwerk Fulda Aggregat 3B,2.76,oil,Verbrennungsmotor,Hessen,Fulda,36043,Frankfurter Straße,4,2010.0,Fulda
+Kraftwerk Fulda Aggregat 3C,2.76,oil,Verbrennungsmotor,Hessen,Fulda,36043,Frankfurter Straße,4,2010.0,Fulda
+Kraftwerk Fulda Aggregat 5,1.12,oil,Verbrennungsmotor,Hessen,Fulda,36043,Frankfurter Straße,4,2010.0,Fulda
+BHKW Hauffstraße,1.968,natural_gas,Verbrennungsmotor,Baden-Württemberg,Reutlingen,72762,Hauffstraße,89,2011.0,Reutlingen
+BHKW Hauffstraße,1.968,natural_gas,Verbrennungsmotor,Baden-Württemberg,Reutlingen,72762,Hauffstraße,89,2011.0,Reutlingen
+Dampfturbinenanlage DT3,34.0,natural_gas,Kondensationsmaschine mit Entnahme,Saarland,Saarbrücken,66121,Bismarckstraße,143,2011.0,Saarbrücken
+Emsland B GT1,58.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Lingen,49808,Schüttorfer Straße,100,2011.0,Lingen
+Emsland B GT2,58.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Lingen,49808,Schüttorfer Straße,100,2011.0,Lingen
+Emsland C GT1,58.0,natural_gas,Sonstige,Niedersachsen,Lingen,49808,Schüttorfer Straße,100,2011.0,Lingen
+Emsland C GT2,58.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Lingen,49808,Schüttorfer Straße,100,2011.0,Lingen
+GM2,3.285,natural_gas,Verbrennungsmotor,Bayern,Rosenheim,83022,Färberstraße,47,2011.0,Rosenheim
+GM3,3.285,natural_gas,Verbrennungsmotor,Bayern,Rosenheim,83022,Färberstraße,47,2011.0,Rosenheim
+GT11,46.5,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Darmstadt,64293,Frankfurter Straße,100,2011.0,Darmstadt
+GT12,46.5,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Darmstadt,64293,Frankfurter Straße,100,2011.0,Darmstadt
+HKW Linden GT1,82.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Hannover,30449,Spinnereistraße,9,2011.0,Hannover
+IPH Strom GTX2,49.8,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Frankfurt,65929,Brüningstraße,50,2011.0,Frankfurt
+IPH Strom GTX3,49.8,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Frankfurt,65929,Brüningstraße,50,2011.0,Frankfurt
+Irsching 4,576.0,natural_gas,Gasturbinen mit Abhitzekessel,Bayern,Vohburg,85088,Paarstraße,30,2011.0,Vohburg
+KIT_CN_BHKW_0255,1.98,natural_gas,Verbrennungsmotor,Baden-Württemberg,Karlsruhe,76131,Kaiserstraße,12,2011.0,Karlsruhe
+Kraftwerk DK,20.85,natural_gas,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Duisburg,47053,Werthauser Str.,182,2011.0,Duisburg
+Regensburg KWK 1,2.678,natural_gas,Verbrennungsmotor,Bayern,Regensburg,93055,Herbert-Quandt-Allee,1,2011.0,Regensburg
+Regensburg KWK 2,2.624,natural_gas,Verbrennungsmotor,Bayern,Regensburg,93055,Herbert-Quandt-Allee,1,2011.0,Regensburg
+4MKA,59.0,oil,Kondensationsmaschine ohne Entnahme,Brandenburg,Schwedt,16303,Passower Chaussee,111,2011.0,Schwedt
+Kraftwerk Fulda Aggregat 4A,2.76,oil,Verbrennungsmotor,Hessen,Fulda,36043,Frankfurter Straße,4,2011.0,Fulda
+Kraftwerk Fulda Aggregat 4B,2.76,oil,Verbrennungsmotor,Hessen,Fulda,36043,Frankfurter Straße,4,2011.0,Fulda
+Boxberg Block R,630.0,coal,Kondensationsmaschine mit Entnahme,Sachsen,Boxberg,2943,Am Kraftwerk,1,2012.0,Boxberg
+Neurath F,1060.0,coal,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Grevenbroich,41517,Energiestraße,101,2012.0,Grevenbroich
+Neurath G,1060.0,coal,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Grevenbroich,41517,Energiestraße,101,2012.0,Grevenbroich
+DTS 3,17.009,natural_gas,Gegendruckmaschine mit Entnahme,Baden-Württemberg,Mannheim,68305,Sandhofer Straße,176,2012.0,Mannheim
+Dampfturbine 1,12.8,natural_gas,Gegendruckmaschine mit Entnahme,Baden-Württemberg,Freiburg,79106,Hartmannstraße,1,2012.0,Freiburg
+GT1,7.15,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Fulda,36039,Hermann-Muth-Straße,6,2012.0,Fulda
+GT2,7.15,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Fulda,36039,Hermann-Muth-Straße,6,2012.0,Fulda
+Gasturbine,8.6,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Düsseldorf,40589,Henkelstraße,67,2012.0,Düsseldorf
+KWK GT1,15.36,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Stade,21683,Johann-Rathje-Köser Straße,nan,2012.0,Stade
+KWK GT2,15.36,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Stade,21683,Johann-Rathje-Köser Straße,-,2012.0,Stade
+KonTu,6.9,natural_gas,Kondensationsmaschine ohne Entnahme,Rheinland-Pfalz,Worms,67547,Im Pfaffenwinkel,6,2012.0,Worms
+Kraftwerk HA GT4,32.0,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Philippsthal,36269,Hattorfer Straße,1,2012.0,Philippsthal
+Regensburg KWK 3,2.678,natural_gas,Verbrennungsmotor,Bayern,Regensburg,93055,Herbert-Quandt-Allee,1,2012.0,Regensburg
+Regensburg KWK 4,2.678,natural_gas,Verbrennungsmotor,Bayern,Regensburg,93055,Herbert-Quandt-Allee,1,2012.0,Regensburg
+W065-Gebäude 120 / BHKW Modul 01,4.2,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Düsseldorf,40476,Rather Straße,51,2012.0,Düsseldorf
+W065-Gebäude 120 / BHKW Modul 02,4.2,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Düsseldorf,40476,Rather Straße,51,2012.0,Düsseldorf
+W065-Gebäude 120 / BHKW Modul 03,4.2,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Düsseldorf,40476,Rather Straße,51,2012.0,Düsseldorf
+W065-Gebäude 120 / BHKW Modul 04,4.2,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Düsseldorf,40476,Rather Straße,51,2012.0,Düsseldorf
+ZF-SBR-GuD-Heizkraftwerk,38.6102,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Saarland,Saarbrücken,66117,Untertürkheimer Straße,nan,2012.0,Saarbrücken
+Trianel Kohlekraftwerk Lünen,746.0,coal,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Lünen,44536,Frydagstraße,40,2013.0,Lünen
+Walsum 10,725.0,coal,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Duisburg,47179,Dr.-Wilhelm-Roelen-Str.,129,2013.0,Duisburg
+129870 Modul 1,4.44,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Wörth,76744,Daimlerstraße,1,2013.0,Wörth
+129870 Modul 2,4.44,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Wörth,76744,Daimlerstraße,1,2013.0,Wörth
+129870 Modul 3,4.44,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Wörth,76744,Daimlerstraße,1,2013.0,Wörth
+BHKW 2 Hamburg Modul 1,4.119,natural_gas,Verbrennungsmotor,Hamburg,Hamburg,21129,Kreetslag,10,2013.0,Hamburg
+BHKW 2 Modul 2,4.119,natural_gas,Verbrennungsmotor,Hamburg,Hamburg,21129,Kreetslag,10,2013.0,Hamburg
+BHKW Hafen - Modul 1,2.173,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Hamm,59067,Speicherstraße,15,2013.0,Hamm
+BHKW Hafen - Modul 2,2.173,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Hamm,59067,Speicherstraße,15,2013.0,Hamm
+BHKW Hafen - Modul 3,2.173,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Hamm,59067,Speicherstraße,15,2013.0,Hamm
+BHKW Hafen - Modul 4,2.173,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Hamm,59067,Speicherstraße,15,2013.0,Hamm
+BHKW Hafen - Modul 5,2.173,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Hamm,59067,Speicherstraße,15,2013.0,Hamm
+BHKW Obere Viehweide M1 (Waldhäuser Str 100),3.293,natural_gas,Verbrennungsmotor,Baden-Württemberg,Tübingen,72076,Waldhäuser Straße,100,2013.0,Tübingen
+BHKW Obere Viehweide M2 (Waldhäuser Str 100),3.286,natural_gas,Verbrennungsmotor,Baden-Württemberg,Tübingen,72076,Waldhäuser Straße,100,2013.0,Tübingen
+BHKW Obere Viehweide M3 (Waldhäuser Str 100),3.288,natural_gas,Verbrennungsmotor,Baden-Württemberg,Tübingen,72076,Waldhäuser Straße,100,2013.0,Tübingen
+BHKW Obere Viehweide M4 (Waldhäuser Str 100),3.233,natural_gas,Verbrennungsmotor,Baden-Württemberg,Tübingen,72076,Waldhäuser Straße,100,2013.0,Tübingen
+BHKW1 Chemnitzer Straße 40,4.313,natural_gas,Verbrennungsmotor,Sachsen,Freiberg,9599,Chemnitzer Straße,40,2013.0,Freiberg
+BHKW2 Chemnitzer Straße 40,4.313,natural_gas,Verbrennungsmotor,Sachsen,Freiberg,9599,Chemnitzer Straße,40,2013.0,Freiberg
+Fernheizwerk 1-BHKW 4,2.032,natural_gas,Verbrennungsmotor,Berlin,Berlin,12059,Thiemannstr.,36,2013.0,Berlin
+Fernheizwerk 2-BHKW 5,2.004,natural_gas,Verbrennungsmotor,Berlin,Berlin,12059,Thiemannstr.,36,2013.0,Berlin
+Fernheizwerk 3-BHKW 6,2.004,natural_gas,Verbrennungsmotor,Berlin,Berlin,12059,Thiemannstr.,36,2013.0,Berlin
+GM4,10.283,natural_gas,Verbrennungsmotor,Bayern,Rosenheim,83022,Schönfeldstraße,15,2013.0,Rosenheim
+GT Chemnitzer Straße 40,4.757,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen,Freiberg,9599,Chemnitzer Straße,40,2013.0,Freiberg
+GT1,5.538,natural_gas,Gasturbinen mit Abhitzekessel,Hamburg,Hamburg,21107,Nippoldstraße,117,2013.0,Hamburg
+GT2,5.538,natural_gas,Gasturbinen mit Abhitzekessel,Hamburg,Hamburg,21107,Nippoldstraße,117,2013.0,Hamburg
+GT4,5.538,natural_gas,Gasturbinen mit Abhitzekessel,Hamburg,Hamburg,21107,Nippoldstraße,117,2013.0,Hamburg
+GuD Anlage DT,1.434,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen,Trebsen,4687,Pauschwitzer Straße,45,2013.0,Trebsen
+GuD Anlage GT,9.023,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen,Trebsen,4687,Pauschwitzer Straße,45,2013.0,Trebsen
+GuD-Anlage (Gasturbine),31.552,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Aschaffenburg,63741,Weichertstraße,7,2013.0,Aschaffenburg
+"Heizkraftwerk Bonn-Nord, Dampfturbine GuD-Anlage",73.5,natural_gas,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Bonn,53115,Karlstr.,2,2013.0,Bonn
+Industriekraftwerk Greifswald GmbH,38.2,natural_gas,Gasturbinen mit Abhitzekessel,Mecklenburg-Vorpommern,Lubmin,17509,Am Hafen,2,2013.0,Lubmin
+KRONOS TITAN Nordenham GuD,17.13,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Nordenham,26954,Titanstraße,1,2013.0,Nordenham
+KWK006-1,4.241,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Krefeld,47804,St. Töniser Straße,270,2013.0,Krefeld
+KWK006-2,4.241,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Krefeld,47804,St. Töniser Str.,270,2013.0,Krefeld
+KWK006-3,4.241,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Krefeld,47804,St. Töniser Straße,270,2013.0,Krefeld
+Kraftwerk Knapsack II,430.0,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Hürth,50354,Industriestraße,300,2013.0,Hürth
+Prüfstand 32,1.78,natural_gas,Verbrennungsmotor,Bayern,Augsburg,86153,Stadtbachstraße,1,2013.0,Augsburg
+Stromerzeugung Barby,17.78,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Barby,39249,Monplaisirstraße,22,2013.0,Barby
+Turbine 5,5.57,natural_gas,Gegendruckmaschine mit Entnahme,Hessen,Mainz-Kostheim,55246,Kommerzienrat-Disch-Brücke,1,2013.0,Mainz-Kostheim
+VW Baunatal Gasturbine,45.07,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Hessen,Baunatal,34225,Im Lehnhof,nan,2013.0,Baunatal
+W050-TS_Mercedes-Benz Werk Sindelfingen HKW Gasturbine 1,29.941,natural_gas,Gasturbinen mit Abhitzekessel,Baden-Württemberg,Sindelfingen,71063,Bela-Barenyi-Str.,nan,2013.0,Sindelfingen
+SSD1,2.478,oil,Verbrennungsmotor,Niedersachsen,Salzgitter,38239,Eisenhüttenstraße,99,2013.0,Salzgitter
+SSD2,2.478,oil,Verbrennungsmotor,Niedersachsen,Salzgitter,38239,Eisenhüttenstraße,99,2013.0,Salzgitter
+SSD3,2.478,oil,Verbrennungsmotor,Niedersachsen,Salzgitter,38239,Eisenhüttenstraße,99,2013.0,Salzgitter
+Rheinhafen-Dampfkraftwerk RDK 8,834.0,coal,Gegendruckmaschine mit Entnahme,Baden-Württemberg,Karlsruhe,76189,Fettweisstraße,42,2014.0,Karlsruhe
+01 Std GT1,44.975,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Stade,21683,Bützflether Sand,9,2014.0,Stade
+01 Std GT2,44.975,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Stade,21683,Bützflether Sand,9,2014.0,Stade
+01 Std GT3,44.975,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Stade,21683,Bützflether Sand,9,2014.0,Stade
+7711MKA10-GT1,14.885,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen,Wachau,1454,An den Breiten,nan,2014.0,Wachau
+7712MKA10-GT2,14.885,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen,Wachau,1454,An den Breiten,nan,2014.0,Wachau
+BHKW 2 - GOM 1,4.207,natural_gas,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,2014.0,München-Flughafen
+BHKW 2 - GOM 2,4.207,natural_gas,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,2014.0,München-Flughafen
+BHKW 2 - GOM 3,4.207,natural_gas,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,2014.0,München-Flughafen
+BHKW 2 - GOM 4,4.207,natural_gas,Verbrennungsmotor,Bayern,München-Flughafen,85356,Nordallee,18,2014.0,München-Flughafen
+BHKW Braunschweig,10.4,natural_gas,Verbrennungsmotor,Niedersachsen,Braunschweig,38112,Gifhorner Straße,180,2014.0,Braunschweig
+BHKW-G66-KWK-groß,12.747,natural_gas,Verbrennungsmotor,Sachsen,Zwickau,8058,Glauchauer Straße,40,2014.0,Zwickau
+BHKW1,1.9805,natural_gas,Verbrennungsmotor,Hessen,Langen,63225,Am DFS-Campus,3,2014.0,Langen
+BHKW2,1.9805,natural_gas,Verbrennungsmotor,Hessen,Langen,63225,Am DFS-Campus,3,2014.0,Langen
+BMW Landshut KWK 3,2.55,natural_gas,Verbrennungsmotor,Bayern,Landshut,84030,Ohmstraße,2,2014.0,Landshut
+Cuno Heizkraftwerk Herdecke BHKW3,2.13,natural_gas,Sonstige,Nordrhein-Westfalen,Herdecke,58313,Wetterstraße,111,2014.0,Herdecke
+DA_BHKW_01,3.04,natural_gas,Verbrennungsmotor,Hessen,Darmstadt,64293,Frankfurter Straße,250,2014.0,Darmstadt
+Dampfturbine 7,10.8,natural_gas,Gegendruckmaschine mit Entnahme,Rheinland-Pfalz,Annweiler,76855,Wasgaustraße,5,2014.0,Annweiler
+Fernheizwerk 4-BHKW 7,2.008,natural_gas,Verbrennungsmotor,Berlin,Berlin,12059,Thiemannstr.,36,2014.0,Berlin
+GT 3,33.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Thüringen,Erfurt,99087,Stotternheimer Straße,40,2014.0,Erfurt
+GT1,4.459,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Langen,63225,Am DFS-Campus,3,2014.0,Langen
+GT2,4.459,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Langen,63225,Am DFS-Campus,3,2014.0,Langen
+GUD Mibü,444.5,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bremen,Bremen,28237,Auf den Delben,35,2014.0,Bremen
+Gasturbine 1,7.558,natural_gas,Gasturbinen mit Abhitzekessel,Saarland,St. Wendel,66606,Frankfurter Straße,45875,2014.0,St. Wendel
+Gasturbine 2,7.558,natural_gas,Gasturbinen mit Abhitzekessel,Saarland,St. Wendel,66606,Frankfurter Straße,45875,2014.0,St. Wendel
+Gasturbine 2 (TBM),6.528,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Hoya,27318,Von dem Bussche Straße,1,2014.0,Hoya
+HDH_004_Industrieheizkraftwerk-Heidenheim_GM1,4.225,natural_gas,Verbrennungsmotor,Baden-Württemberg,Heidenheim,89522,Alexanderstraße,8,2014.0,Heidenheim
+HDH_004_Industrieheizkraftwerk-Heidenheim_GM2,4.225,natural_gas,Verbrennungsmotor,Baden-Württemberg,Heidenheim,89522,Alexanderstraße,8,2014.0,Heidenheim
+HDH_004_Industrieheizkraftwerk-Heidenheim_GM3,4.225,natural_gas,Verbrennungsmotor,Baden-Württemberg,Heidenheim,89522,Alexanderstraße,8,2014.0,Heidenheim
+HKW - GuD2,7.032,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Erlangen,91052,Äußere Brucker Straße,33,2014.0,Erlangen
+HKWH Gasturbine 7,5.336,natural_gas,Gasturbinen mit Abhitzekessel,Schleswig-Holstein,Kiel,24116,Goethestraße,14,2014.0,Kiel
+HKWH Gasturbine 8,5.336,natural_gas,Gasturbinen mit Abhitzekessel,Schleswig-Holstein,Kiel,24116,Goethestraße,14,2014.0,Kiel
+KWK 2 Geb. 192.0,4.09,natural_gas,Verbrennungsmotor,Bayern,Dingolfing,84130,Karl-Dompert-Straße,7,2014.0,Dingolfing
+KWK Anlage Großenkneten,30.16,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Großenkneten,26197,Vor dem Esch,12,2014.0,Großenkneten
+Turbine 7,25.929,natural_gas,Gegendruckmaschine mit Entnahme,Bayern,Kelheim,93309,Regensburger Straße,109,2014.0,Kelheim
+Turbine/Generator 10,37.6,natural_gas,Gegendruckmaschine mit Entnahme,Bayern,Burghausen,84489,Johannes-Hess-Straße,24,2014.0,Burghausen
+UPM Schongau HKW 3 DT,29.67,natural_gas,Sonstige,Bayern,Schongau,86956,Friedrich-Haindl-Straße,10,2014.0,Schongau
+UPM Schongau HKW 3 GT,44.328,natural_gas,Gasturbinen mit Abhitzekessel,Bayern,Schongau,86956,Friedrich-Haindl-Straße,10,2014.0,Schongau
+W065-Gebäude 120 / BHKW Modul 05,4.253,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Düsseldorf,40476,Rather Straße,51,2014.0,Düsseldorf
+GKM Block 9,868.0,coal,Kondensationsmaschine mit Entnahme,Baden-Württemberg,Mannheim,68199,Marguerrestraße,1,2015.0,Mannheim
+Kraftwerk Wilhelmshaven Onyx,726.0,coal,Kondensationsmaschine ohne Entnahme,Niedersachsen,Wilhelmshaven,26386,Niedersachsendamm,10,2015.0,Wilhelmshaven
+BHKW 1,1.999,natural_gas,Verbrennungsmotor,Baden-Württemberg,Freiburg,79106,Hartmannstraße,1,2015.0,Freiburg
+Dampfturbine 2,17.7,natural_gas,Gegendruckmaschine mit Entnahme,Rheinland-Pfalz,Mayen,56727,Polcher Straße,113,2015.0,Mayen
+Dampfturbine 3,27.5,natural_gas,Gegendruckmaschine mit Entnahme,Rheinland-Pfalz,Mayen,56727,Polcher Straße,113,2015.0,Mayen
+Gasturbine 1,3.0,natural_gas,Gasturbinen mit Abhitzekessel,Rheinland-Pfalz,Mayen,56727,Polcher Straße,113,2015.0,Mayen
+Gasturbine 2,14.5,natural_gas,Gasturbinen mit Abhitzekessel,Rheinland-Pfalz,Mayen,56727,Polcher Straße,113,2015.0,Mayen
+BHKW,1.957,natural_gas,Verbrennungsmotor,Brandenburg,Heiligengrabe,16909,Wittstocker Chaussee,1,2016.0,Heiligengrabe
+BHKW 1 Hamburg,1.97,natural_gas,Verbrennungsmotor,Hamburg,Hamburg,21129,Kreetslag,10,2016.0,Hamburg
+BHKW BASF F17,1.968,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Düsseldorf,40589,Henkelstraße,67,2016.0,Düsseldorf
+BHKW Ford Saarlouis Modul 1,4.322,natural_gas,Verbrennungsmotor,Saarland,Saarlouis,66740,Henry-Ford-Straße,1,2016.0,Saarlouis
+BHKW-G,1.999,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Rheda-Wiedenbrück,33378,Hellweg,15,2016.0,Rheda-Wiedenbrück
+Bitterfeld BHKW,2.0,natural_gas,Verbrennungsmotor,Sachsen-Anhalt,Bitterfeld-Wolfen,6749,Parsevalstraße,3 B,2016.0,Bitterfeld-Wolfen
+Dampfturbine 12,27.2,natural_gas,Gegendruckmaschine ohne Entnahme,Schleswig-Holstein,Flensburg,24939,Batteriestraße,48,2016.0,Flensburg
+F18BHKW,1.968,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Düsseldorf,40589,Henkelstraße,67,2016.0,Düsseldorf
+Gasturbine 12,50.1,natural_gas,Gasturbinen mit Abhitzekessel,Schleswig-Holstein,Flensburg,24939,Batteriestraße,48,2016.0,Flensburg
+GuD Niehl 3 RheinEnergie,452.9,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Köln,50735,Am Molenkopf,3,2016.0,Köln
+Heizkraftwerk Meggle,13.6,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Reitmehring,83512,Megglestraße,6,2016.0,Reitmehring
+HuR-IKW-G5,9.029,natural_gas,Gegendruckmaschine mit Entnahme,Niedersachsen,Salzbergen,48499,Neuenkirchener Straße,8,2016.0,Salzbergen
+KIT_CN_BHKW_266_MPP1,4.432,natural_gas,Verbrennungsmotor,Baden-Württemberg,Eggenstein-Leopoldshafen,76344,Hermann-von-Helmholtz-Platz,1,2016.0,Eggenstein-Leopoldshafen
+KIT_CN_BHKW_266_MPP2,4.432,natural_gas,Verbrennungsmotor,Baden-Württemberg,Eggenstein-Leopoldshafen,76344,Hermann-von-Helmholtz-Platz,1,2016.0,Eggenstein-Leopoldshafen
+KIT_CN_BHKW_612,1.98,natural_gas,Verbrennungsmotor,Baden-Württemberg,Eggenstein-Leopoldshafen,76344,Hermann-von-Helmholtz-Platz,1,2016.0,Eggenstein-Leopoldshafen
+"Kraftwerk IV, DT 411",13.76,natural_gas,Gegendruckmaschine ohne Entnahme,Nordrhein-Westfalen,Marl,45772,Paul-Baumann-Straße,1,2016.0,Marl
+"Kraftwerk IV, GT 421",47.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Marl,45772,Paul-Baumann-Straße,1,2016.0,Marl
+Kraftwerk UB GT1,4.95,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Thüringen,Unterbreizbach,36414,Schachtstraße,10,2016.0,Unterbreizbach
+Leipzig KWK 2,3.36,natural_gas,Verbrennungsmotor,Sachsen,Leipzig,4349,BMW Allee,1,2016.0,Leipzig
+Regensburg KWK 5,2.679,natural_gas,Verbrennungsmotor,Bayern,Regensburg,93055,Herbert-Quandt-Allee,1,2016.0,Regensburg
+SWD KWL GuD F,595.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Düsseldorf,40221,Auf der Lausward,75,2016.0,Düsseldorf
+"Shell Energy and Chemicals Park, Kraftwerk Godorf",92.0,oil,Sonstige,Nordrhein-Westfalen,Köln,50997,Godorfer Hauptstr.,150,2016.0,Köln
+0050 - STW - BHKW - KWK,3.313,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Kempen,47906,Otto-Schott-Straße,4,2017.0,Kempen
+BHKW Hafen - Modul 6,1.398,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Hamm,59067,Speicherstraße,15,2017.0,Hamm
+BHKW Hafen - Modul 7,2.176,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Hamm,59067,Speicherstraße,15,2017.0,Hamm
+BHKW-G66-KWK-klein,3.736,natural_gas,Verbrennungsmotor,Sachsen,Zwickau,8058,Glauchauer Straße,40,2017.0,Zwickau
+BHKW15,2.619,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Wuppertal,42275,Am Clef,32,2017.0,Wuppertal
+E-BHKW,1.899,natural_gas,Verbrennungsmotor,Baden-Württemberg,Pforzheim,75175,Hohwiesenweg,15,2017.0,Pforzheim
+GM 1,1.532,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Gütersloh,33332,nan,nan,2017.0,Gütersloh
+GM 2,1.532,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Gütersloh,33332,nan,nan,2017.0,Gütersloh
+GTS5,7.37765,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Ibbenbüren,49479,Groner Allee,76,2017.0,Ibbenbüren
+Gasturbine 3,4.368,natural_gas,Gasturbinen mit Abhitzekessel,Saarland,St. Wendel,66606,Frankfurter Straße,45875,2017.0,St. Wendel
+Gasturbine GT,22.0,natural_gas,Gasturbinen mit Abhitzekessel,Baden-Württemberg,Grenzach-Wyhlen,79639,Emil-Barell-Straße,3,2017.0,Grenzach-Wyhlen
+Gasturbine Kraftwerk,10.37,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Breuberg,64747,Höchster Straße,48 -60,2017.0,Breuberg
+HKW Eltmann,75.185,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,Eltmann,97483,Industriestraße,23,2017.0,Eltmann
+HKW West Turbine 5,39.137,natural_gas,Sonstige,Hessen,Frankfurt,60327,Gutleutstraße,231,2017.0,Frankfurt
+KWK 3 Geb. 192.0,4.13,natural_gas,Verbrennungsmotor,Bayern,Dingolfing,84130,Karl-Dompert-Straße,7,2017.0,Dingolfing
+KWK 4 Geb. 192.0,4.13,natural_gas,Verbrennungsmotor,Bayern,Dingolfing,84130,Karl-Dompert-Straße,7,2017.0,Dingolfing
+Kraftwerk HA GT1,5.67,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Philippsthal,36269,Hattorfer Straße,1,2017.0,Philippsthal
+Kraftwerk HA GT2,5.67,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Philippsthal,36269,Hattorfer Straße,1,2017.0,Philippsthal
+Kraftwerk UB GT2,5.5,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Thüringen,Unterbreizbach,36414,Schachtstraße,10,2017.0,Unterbreizbach
+Kraftwerk ZI GT 2,5.49,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen-Anhalt,Zielitz,39326,Farsleber Straße,1,2017.0,Zielitz
+ZI Tr GT1,5.5,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Zielitz,39326,Farsleber Straße,1,2017.0,Zielitz
+70001313.01,4.472,natural_gas,Verbrennungsmotor,Thüringen,Gera,7546,Siemensstraße,43,2018.0,Gera
+70001313.01,4.472,natural_gas,Verbrennungsmotor,Thüringen,Gera,7546,Siemensstraße,43,2018.0,Gera
+70001313.01,4.472,natural_gas,Verbrennungsmotor,Thüringen,Gera,7546,Siemensstraße,43,2018.0,Gera
+70001313.01,4.472,natural_gas,Verbrennungsmotor,Thüringen,Gera,7546,Siemensstraße,43,2018.0,Gera
+70001313.01,4.472,natural_gas,Verbrennungsmotor,Thüringen,Gera,7546,Siemensstraße,43,2018.0,Gera
+70001314.01,4.387,natural_gas,Verbrennungsmotor,Thüringen,Gera,7549,Vogtlandstraße,11,2018.0,Gera
+70001314.01,4.387,natural_gas,Verbrennungsmotor,Thüringen,Gera,7549,Vogtlandstraße,11,2018.0,Gera
+70001314.01,4.387,natural_gas,Verbrennungsmotor,Thüringen,Gera,7549,Vogtlandstraße,11,2018.0,Gera
+70001314.01,4.387,natural_gas,Verbrennungsmotor,Thüringen,Gera,7549,Vogtlandstraße,11,2018.0,Gera
+BHKW Ramstein,12.75,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Ramstein-Miesenbach,66877,Reichswaldstraße,9,2018.0,Ramstein-Miesenbach
+BMW Landshut KWK 4,4.3,natural_gas,Verbrennungsmotor,Bayern,Landshut,84030,Neidenburger Straße,13,2018.0,Landshut
+BMW Landshut KWK 5,4.3,natural_gas,Verbrennungsmotor,Bayern,Landshut,84030,Neidenburger Straße,13,2018.0,Landshut
+BMW Landshut KWK 6,4.3,natural_gas,Verbrennungsmotor,Bayern,Landshut,84030,Neidenburger Straße,13,2018.0,Landshut
+BMW Landshut KWK 7,4.3,natural_gas,Verbrennungsmotor,Bayern,Landshut,84030,Neidenburger Straße,13,2018.0,Landshut
+Dampfturbine DT5,8.426,natural_gas,Gegendruckmaschine mit Entnahme,Baden-Württemberg,Grenzach-Wyhlen,79639,Emil-Barell-Straße,3,2018.0,Grenzach-Wyhlen
+Gasmotor Bad Salzungen,10.003,natural_gas,Verbrennungsmotor,Thüringen,Bad Salzungen,36433,Langenfelder Straße,82,2018.0,Bad Salzungen
+HKW Dresden-Nord,11.5,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen,Dresden,1099,Hermann-Mende-Straße,2,2018.0,Dresden
+Heizkraftwerk Stendal,13.21,natural_gas,Verbrennungsmotor,Sachsen-Anhalt,Stendal,39576,Schillerstraße,nan,2018.0,Stendal
+Heizkraftwerk Stuttgart-Gaisburg HKW 3 Motor 1,9.717,natural_gas,Verbrennungsmotor,Baden-Württemberg,Stuttgart,70327,Langwiesenweg,23,2018.0,Stuttgart
+Heizkraftwerk Stuttgart-Gaisburg HKW 3 Motor 2,9.717,natural_gas,Verbrennungsmotor,Baden-Württemberg,Stuttgart,70327,Langwiesenweg,23,2018.0,Stuttgart
+Heizkraftwerk Stuttgart-Gaisburg HKW 3 Motor 3,9.717,natural_gas,Verbrennungsmotor,Baden-Württemberg,Stuttgart,70327,Langwiesenweg,23,2018.0,Stuttgart
+Küstenkraftwerk K.I.E.L Motor 1,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 10,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 11,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 12,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 13,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 14,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 15,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 16,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 17,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 18,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 19,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 2,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 20,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 3,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 4,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 5,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 6,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 7,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 8,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+Küstenkraftwerk K.I.E.L Motor 9,9.456,natural_gas,Verbrennungsmotor,Schleswig-Holstein,Kiel,24149,Hasselfelde,30,2018.0,Kiel
+WUN Pellets - BHKW - Modul II,4.41,natural_gas,Verbrennungsmotor,Bayern,Wunsiedel,95632,Am Energiepark,3,2018.0,Wunsiedel
+WUN Pellets - BHKW-Modul I,4.41,natural_gas,Verbrennungsmotor,Bayern,Wunsiedel,95632,Am Energiepark,3,2018.0,Wunsiedel
+WUN Pellets - BHKW-Modul III,4.41,natural_gas,Verbrennungsmotor,Bayern,Wunsiedel,95632,Am Energiepark,3,2018.0,Wunsiedel
+Gasturbine 01 Industriekraftwerk,58.5,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen-Anhalt,Bernburg,6406,Köthensche Straße,0.041666666666666664,2019.0,Bernburg
+GuD Lichterfelde Gasturbine,185.0,natural_gas,Kondensationsmaschine mit Entnahme,Berlin,Berlin,12207,Ostpreußendamm,61,2019.0,Berlin
+HK_001_Industrieheizkraftwerk-Walsrode_BHKW-GM1,3.2,natural_gas,Verbrennungsmotor,Niedersachsen,Walsrode,29699,Bahnhofstraße,13,2019.0,Walsrode
+HK_001_Industrieheizkraftwerk-Walsrode_BHKW-GM2,3.2,natural_gas,Verbrennungsmotor,Niedersachsen,Walsrode,29699,Bahnhofstraße,13,2019.0,Walsrode
+KWK 1 Gebäude 192.0,4.13,natural_gas,Verbrennungsmotor,Bayern,Dingolfing,84130,Karl-Dompert-Straße,7,2019.0,Dingolfing
+KWK 5 Geb. 192.0,4.5,natural_gas,Verbrennungsmotor,Bayern,Dingolfing,84130,Karl-Dompert-Straße,7,2019.0,Dingolfing
+KWK 6,4.5,natural_gas,Verbrennungsmotor,Bayern,Dingolfing,84130,Karl-Dompert-Straße,7,2019.0,Dingolfing
+KWK 7,4.5,natural_gas,Verbrennungsmotor,Bayern,Dingolfing,84130,Karl-Dompert-Straße,7,2019.0,Dingolfing
+Werk 1.1 KWK 1,4.5,natural_gas,Verbrennungsmotor,Bayern,München,80809,Lerchenauer Straße,76,2019.0,München
+Werk 1.1 KWK 2,4.5,natural_gas,Verbrennungsmotor,Bayern,München,80809,Lerchenauer Straße,76,2019.0,München
+Werk 1.1 KWK 3,4.5,natural_gas,Verbrennungsmotor,Bayern,München,80809,Lerchenauer Straße,76,2019.0,München
+Werk 1.5 KWK 1,3.36,natural_gas,Verbrennungsmotor,Bayern,München,80937,Knorrstraße,147,2019.0,München
+Werk 1.5 KWK 2,3.36,natural_gas,Verbrennungsmotor,Bayern,München,80937,Knorrstraße,147,2019.0,München
+Werk 1.5 KWK 3,3.36,natural_gas,Verbrennungsmotor,Bayern,München,80937,Knorrstraße,147,2019.0,München
+Werk 1.5 KWK 4,3.36,natural_gas,Verbrennungsmotor,Bayern,München,80937,Knorrstraße,147,2019.0,München
+"Rollenprüfstand 1, Gebäude 38",1.36,oil,Verbrennungsmotor,Rheinland-Pfalz,Wörth,76744,Daimlerstraße,1,2019.0,Wörth
+Datteln 4,1052.0,coal,Kondensationsmaschine mit Entnahme,Nordrhein-Westfalen,Datteln,45711,Im Löringhof,10,2020.0,Datteln
+BHKW KW5 51,9.93,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Mainz,55120,Kraftwerkallee,1,2020.0,Mainz
+BHKW KW5 52,9.93,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Mainz,55120,Kraftwerkallee,1,2020.0,Mainz
+BHKW KW5 53,9.93,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Mainz,55120,Kraftwerkallee,1,2020.0,Mainz
+BHKW KW5 54,9.93,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Mainz,55120,Kraftwerkallee,1,2020.0,Mainz
+BHKW KW5 55,9.93,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Mainz,55120,Kraftwerkallee,1,2020.0,Mainz
+BHKW KW5 56,9.93,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Mainz,55120,Kraftwerkallee,1,2020.0,Mainz
+BHKW KW5 57,9.93,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Mainz,55120,Kraftwerkallee,1,2020.0,Mainz
+BHKW KW5 58,9.93,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Mainz,55120,Kraftwerkallee,1,2020.0,Mainz
+BHKW KW5 59,9.93,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Mainz,55120,Kraftwerkallee,1,2020.0,Mainz
+BHKW KW5 5A,9.93,natural_gas,Verbrennungsmotor,Rheinland-Pfalz,Mainz,55120,Kraftwerkallee,1,2020.0,Mainz
+BHKW Merheim RheinEnergie,31.1,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Köln,51109,Ostmerheimer Str.,557,2020.0,Köln
+BHKW-Süd,4.162,natural_gas,Verbrennungsmotor,Mecklenburg-Vorpommern,Greifswald,17489,An der Jungfernwiese,8,2020.0,Greifswald
+Dampfturbine9,18.339,natural_gas,Gegendruckmaschine mit Entnahme,Baden-Württemberg,Freiburg,79108,Engesserstraße,8,2020.0,Freiburg
+Fernheizwerk 6-BHKW 8,1.9758,natural_gas,Verbrennungsmotor,Berlin,Berlin,12059,Weigandufer,49,2020.0,Berlin
+GT3,7.428,natural_gas,Gasturbinen mit Abhitzekessel,Schleswig-Holstein,Brunsbüttel,25541,Fritz-Staiger-Straße,15,2020.0,Brunsbüttel
+Gasturbine 02 Industriekraftwerk,63.5,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen-Anhalt,Bernburg,6406,Köthensche Straße,1A,2020.0,Bernburg
+GuD Marzahn Gasturbine,189.5,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Berlin,Berlin,12681,Allee der Kosmonauten,26 B,2020.0,Berlin
+Heizkraftwerk Dieselstraße Block A,56.845,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen-Anhalt,Halle,6130,Dieselstraße,141,2020.0,Halle
+Heizkraftwerk Dieselstraße Block B,57.144,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Sachsen-Anhalt,Halle,6130,Dieselstraße,141,2020.0,Halle
+Heizkraftwerk Dieselstraße Block C,57.322,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Halle,6130,Dieselstraße,141,2020.0,Halle
+medl BHKW Broich Modul 2 neu,2.673,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Mülheim,45479,Duisburger Straße,50,2020.0,Mülheim
+BHKW Neu-Ulm M1,2.622,natural_gas,Verbrennungsmotor,Bayern,Neu-Ulm,89231,Bradleystraße,32.5,2021.0,Neu-Ulm
+BHKW Neu-Ulm M2,2.622,natural_gas,Verbrennungsmotor,Bayern,Neu-Ulm,89231,Bradleystraße,32.5,2021.0,Neu-Ulm
+BHKW Neu-Ulm M3,2.622,natural_gas,Verbrennungsmotor,Bayern,Neu-Ulm,89231,Bradleystraße,32.5,2021.0,Neu-Ulm
+BHKW Neu-Ulm M4,2.622,natural_gas,Verbrennungsmotor,Bayern,Neu-Ulm,89231,Bradleystraße,32.5,2021.0,Neu-Ulm
+GT 31 GuD Süd Wolfsburg,49.4,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Wolfsburg,38440,Berliner Ring,2,2021.0,Wolfsburg
+GT32 GuD Süd Wolfsburg,49.4,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Wolfsburg,38440,Berliner Ring,2,2021.0,Wolfsburg
+Gasmotor 1 Mod.,3.334,natural_gas,Verbrennungsmotor,Saarland,Völklingen,66333,Saarbrücker Straße,135-137,2021.0,Völklingen
+Gasmotor 2 Mod.,3.334,natural_gas,Verbrennungsmotor,Saarland,Völklingen,66333,Saarbrücker Straße,135-137,2021.0,Völklingen
+Gasmotor 3 Mod.,3.334,natural_gas,Verbrennungsmotor,Saarland,Völklingen,66333,Saarbrücker Straße,135-137,2021.0,Völklingen
+Gasmotor 4 Mod.,3.334,natural_gas,Verbrennungsmotor,Saarland,Völklingen,66333,Saarbrücker Straße,135-137,2021.0,Völklingen
+Gasmotor 5 Mod.,3.334,natural_gas,Verbrennungsmotor,Saarland,Völklingen,66333,Saarbrücker Straße,135-137,2021.0,Völklingen
+Gasmotor 6 Mod.,3.334,natural_gas,Verbrennungsmotor,Saarland,Völklingen,66333,Saarbrücker Straße,135-137,2021.0,Völklingen
+Gasmotoren Danziger Straße,8.8105,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Oberhausen,46045,Danziger Str.,31,2021.0,Oberhausen
+Generator 6,21.861,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Wiesbaden,65203,Rheingaustraße,190-196,2021.0,Wiesbaden
+Generator 7,21.861,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Wiesbaden,65203,Rheingaustraße,190-196,2021.0,Wiesbaden
+HKW Aalen,78.302,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Baden-Württemberg,Aalen,73432,Palm Allee,1,2021.0,Aalen
+Heizkraftwerk an der Friedensbrücke DampfturbineIV,20.5,natural_gas,Gegendruckmaschine mit Entnahme,Bayern,Würzburg,97080,Veitshöchheimer Straße,1,2021.0,Würzburg
+IPH Strom VT3,12.9,natural_gas,Gegendruckmaschine ohne Entnahme,Hessen,Frankfurt,65929,Brüningstraße,50,2021.0,Frankfurt
+IPH Strom VT4,26.8,natural_gas,Gegendruckmaschine ohne Entnahme,Hessen,Frankfurt,65929,Brüningstraße,50,2021.0,Frankfurt
+Kombi-HKW GT1,15.29,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Kassel,34134,Dennhäuser Straße,122,2021.0,Kassel
+MOT 1,10.2,natural_gas,Verbrennungsmotor,Baden-Württemberg,Pforzheim,75175,Hohwiesenweg,19,2021.0,Pforzheim
+MOT 2,10.2,natural_gas,Verbrennungsmotor,Baden-Württemberg,Pforzheim,75175,Hohwiesenweg,19,2021.0,Pforzheim
+MOT 3,10.2,natural_gas,Verbrennungsmotor,Baden-Württemberg,Pforzheim,75175,Hohwiesenweg,19,2021.0,Pforzheim
+MOT 4,10.2,natural_gas,Verbrennungsmotor,Baden-Württemberg,Pforzheim,75175,Hohwiesenweg,19,2021.0,Pforzheim
+MOT 5,10.2,natural_gas,Verbrennungsmotor,Baden-Württemberg,Pforzheim,75175,Hohwiesenweg,19,2021.0,Pforzheim
+SWM HKW Freimann GT11,52.451,natural_gas,Gasturbinen mit Abhitzekessel,Bayern,München,80807,Frankfurter Ring,181,2021.0,München
+SWM HKW Freimann GT12,52.768,natural_gas,Gasturbinen mit Abhitzekessel,Bayern,München,80807,Frankfurter Ring,181,2021.0,München
+SWM HKW Sued GuD2 GT61,146.3,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,München,81371,Schäftlarnstraße,15,2021.0,München
+SWM HKW Sued GuD2 GT62,146.3,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Bayern,München,81371,Schäftlarnstraße,15,2021.0,München
+Turbine Pronsfeld,12.255,natural_gas,Gasturbinen mit Abhitzekessel,Rheinland-Pfalz,Pronsfeld,54597,Im Scheid,1,2021.0,Pronsfeld
+medl BHKW Broich Modul 3 neu,2.673,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Mülheim,45479,Duisburger Straße,50,2021.0,Mülheim
+BHKW Hastedt,105.115,natural_gas,Verbrennungsmotor,Bremen,Bremen,28207,Hastedter Osterdeich,255,2022.0,Bremen
+BHKW-Anlage,53.481,natural_gas,Verbrennungsmotor,Brandenburg,Cottbus,3052,Werner-von-Siemens-Straße,16,2022.0,Cottbus
+BHKW-Sonnenwärme,4.1353,natural_gas,Verbrennungsmotor,Mecklenburg-Vorpommern,Greifswald,17489,An der Jungfernwiese,8,2022.0,Greifswald
+BHKW1,20.543,natural_gas,Verbrennungsmotor,Baden-Württemberg,Ulm,89077,Magirusstraße,21,2022.0,Ulm
+Dampfturbine 13,38.2,natural_gas,Gegendruckmaschine ohne Entnahme,Schleswig-Holstein,Flensburg,24939,Batteriestraße,48,2022.0,Flensburg
+FZJ_WVVZ-03.19_BHKW-1,4.3,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Jülich,52428,nan,nan,2022.0,Jülich
+FZJ_WVVZ-03.19_BHKW-2,4.3,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Jülich,52428,nan,nan,2022.0,Jülich
+FZJ_WVVZ-03.19_BHKW-3,4.3,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Jülich,52428,nan,nan,2022.0,Jülich
+GM7,4.457,natural_gas,Verbrennungsmotor,Bayern,Rosenheim,83026,Oberaustraße,12,2022.0,Rosenheim
+GM8,4.457,natural_gas,Verbrennungsmotor,Bayern,Rosenheim,83022,Schönfeldstraße,15,2022.0,Rosenheim
+GT11800,29.55,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Köln,50769,Alte Str.,201,2022.0,Köln
+GT5,55.4,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen-Anhalt,Leuna,6237,nan,nan,2022.0,Leuna
+Gasmotor 1 Jena,12.175,natural_gas,Verbrennungsmotor,Thüringen,Jena,7745,Rudolstädter Straße,41,2022.0,Jena
+Gasmotor 2 Jena,12.175,natural_gas,Verbrennungsmotor,Thüringen,Jena,7745,Rudolstädter Straße,41,2022.0,Jena
+Gasmotor 3 Jena,12.175,natural_gas,Verbrennungsmotor,Thüringen,Jena,7745,Rudolstädter Straße,41,2022.0,Jena
+Gasmotor 4 Jena,12.175,natural_gas,Verbrennungsmotor,Thüringen,Jena,7745,Rudolstädter Straße,41,2022.0,Jena
+Gasmotor 5 Jena,12.175,natural_gas,Verbrennungsmotor,Thüringen,Jena,7745,Rudolstädter Straße,41,2022.0,Jena
+Gasmotoren-Heizkraftwerk Dresden-Reick - Aggregat I,11.5,natural_gas,Verbrennungsmotor,Sachsen,Dresden,1277,Liebstädter Straße,1,2022.0,Dresden
+Gasmotoren-Heizkraftwerk Dresden-Reick - Aggregat II,11.5,natural_gas,Verbrennungsmotor,Sachsen,Dresden,1277,Liebstädter Straße,1,2022.0,Dresden
+Gasmotoren-Heizkraftwerk Dresden-Reick - Aggregat III,11.5,natural_gas,Verbrennungsmotor,Sachsen,Dresden,1277,Liebstädter Straße,1,2022.0,Dresden
+Gasmotoren-Heizkraftwerk Dresden-Reick - Aggregat IV,11.5,natural_gas,Verbrennungsmotor,Sachsen,Dresden,1277,Liebstädter Straße,1,2022.0,Dresden
+Gasmotoren-Heizkraftwerk Dresden-Reick - Aggregat V,11.5,natural_gas,Verbrennungsmotor,Sachsen,Dresden,1277,Liebstädter Straße,1,2022.0,Dresden
+Gasmotoren-Heizkraftwerk Dresden-Reick - Aggregat VI,11.5,natural_gas,Verbrennungsmotor,Sachsen,Dresden,1277,Liebstädter Straße,1,2022.0,Dresden
+Gasmotoren-Heizkraftwerk Dresden-Reick - Aggregat VII,11.5,natural_gas,Verbrennungsmotor,Sachsen,Dresden,1277,Liebstädter Straße,1,2022.0,Dresden
+Gasmotoren-Heizkraftwerk Dresden-Reick - Aggregat VIII,11.5,natural_gas,Verbrennungsmotor,Sachsen,Dresden,1277,Liebstädter Straße,1,2022.0,Dresden
+Gasmotorenkraftwerk Römerbrücke,52.496,natural_gas,Verbrennungsmotor,Saarland,Saarbrücken,66121,Bismarckstraße,153,2022.0,Saarbrücken
+Gasturbine 13,60.0,natural_gas,Gasturbinen mit Abhitzekessel,Schleswig-Holstein,Flensburg,24939,Batteriestraße,48,2022.0,Flensburg
+Gersteinwerk H1,46.0,natural_gas,Gasturbinen ohne Abhitzekessel,Nordrhein-Westfalen,Werne,59368,Hammer Straße,2,2022.0,Werne
+GuD Herne,657.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Herne,44653,Hertener Straße,16,2022.0,Herne
+HKW -  K6 DT2,16.317,natural_gas,Kondensationsmaschine mit Entnahme,Bayern,Erlangen,91052,Äußere Brucker Straße,33,2022.0,Erlangen
+HKW FFO GM1,10.3584,natural_gas,Verbrennungsmotor,Brandenburg,Frankfurt,15236,Am Hohen Feld,4,2022.0,Frankfurt
+HKW FFO GM2,10.3584,natural_gas,Verbrennungsmotor,Brandenburg,Frankfurt,15236,Am Hohen Feld,4,2022.0,Frankfurt
+HKW FFO GM3,10.3584,natural_gas,Verbrennungsmotor,Brandenburg,Frankfurt,15236,Am Hohen Feld,4,2022.0,Frankfurt
+HKW FFO GM4,10.3584,natural_gas,Verbrennungsmotor,Brandenburg,Frankfurt,15236,Am Hohen Feld,4,2022.0,Frankfurt
+HKW FFO GM5,10.3584,natural_gas,Verbrennungsmotor,Brandenburg,Frankfurt,15236,Am Hohen Feld,4,2022.0,Frankfurt
+Heizkraftwerk Leipzig Nord DT8B,25.249,natural_gas,Gegendruckmaschine mit Entnahme,Sachsen,Leipzig,4105,Eutritzscher Straße,14b,2022.0,Leipzig
+Heizkraftwerk Leipzig Nord DT8C,25.609,natural_gas,Gegendruckmaschine mit Entnahme,Sachsen,Leipzig,4105,Eutritzscher Straße,14b,2022.0,Leipzig
+Heizkraftwerk Leipzig Süd GTA 9A,66.321,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen,Leipzig,4279,Bornaische Straße,120,2022.0,Leipzig
+Heizkraftwerk Leipzig Süd GTA 9B,66.02,natural_gas,Gasturbinen mit Abhitzekessel,Sachsen,Leipzig,4279,Bornaische Straße,120,2022.0,Leipzig
+IPH Strom GTX 7,89.389,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Frankfurt,65929,Brüningstraße,50,2022.0,Frankfurt
+IPH Strom GTX 8,89.116,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Frankfurt,65929,Brüningstraße,50,2022.0,Frankfurt
+"Kraftwerk VI, Block 61, DT610",35.7,natural_gas,Gegendruckmaschine mit Entnahme,Nordrhein-Westfalen,Marl,45772,Paul-Baumann-Straße,1,2022.0,Marl
+"Kraftwerk VI, Block 61, GT611",55.3,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Marl,45772,Paul-Baumann-Straße,1,2022.0,Marl
+"Kraftwerk VI, Block 62, DT620",35.98,natural_gas,Gegendruckmaschine mit Entnahme,Nordrhein-Westfalen,Marl,45772,Paul-Baumann-Straße,1,2022.0,Marl
+"Kraftwerk VI, Block 62, GT621",55.014,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Marl,45772,Paul-Baumann-Straße,1,2022.0,Marl
+"Kraftwerk VII, Block 71, DT710",36.23,natural_gas,Gegendruckmaschine mit Entnahme,Nordrhein-Westfalen,Marl,45772,Paul-Baumann-Straße,1,2022.0,Marl
+"Kraftwerk VII, Block 71, GT711",55.77,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Marl,45772,Paul-Baumann-Straße,1,2022.0,Marl
+"Motor-Heizkraftwerk Chemnitz-Süd, Motor 1",12.731399999999999,natural_gas,Verbrennungsmotor,Sachsen,Chemnitz,9125,Südstraße,1,2022.0,Chemnitz
+"Motor-Heizkraftwerk Chemnitz-Süd, Motor 2",12.731399999999999,natural_gas,Verbrennungsmotor,Sachsen,Chemnitz,9125,Südstraße,1,2022.0,Chemnitz
+"Motor-Heizkraftwerk Chemnitz-Süd, Motor 3",12.731399999999999,natural_gas,Verbrennungsmotor,Sachsen,Chemnitz,9125,Südstraße,1,2022.0,Chemnitz
+"Motor-Heizkraftwerk Chemnitz-Süd, Motor 4",12.731399999999999,natural_gas,Verbrennungsmotor,Sachsen,Chemnitz,9125,Südstraße,1,2022.0,Chemnitz
+"Motor-Heizkraftwerk Chemnitz-Süd, Motor 5",12.731399999999999,natural_gas,Verbrennungsmotor,Sachsen,Chemnitz,9125,Südstraße,1,2022.0,Chemnitz
+Nordland GuD-Anlage Gasturbine,58.681,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Niedersachsen,Dörpen,26892,Nordlandallee,1,2022.0,Dörpen
+Nordland GuD-Anlage HD-DTS,22.61,natural_gas,Gegendruckmaschine ohne Entnahme,Niedersachsen,Dörpen,26892,Nordlandallee,1,2022.0,Dörpen
+Nordland GuD-Anlage ND-DTS,3.995,natural_gas,Gegendruckmaschine ohne Entnahme,Niedersachsen,Dörpen,26892,Nordlandallee,1,2022.0,Dörpen
+SN-Süd-GUD-GT01,22.6683,natural_gas,Gasturbinen mit Abhitzekessel,Mecklenburg-Vorpommern,Schwerin,19061,Pampower Str.,50,2022.0,Schwerin
+SN-Süd-GUD-GT02,22.6683,natural_gas,Gasturbinen mit Abhitzekessel,Mecklenburg-Vorpommern,Schwerin,19061,Pampower Str.,50,2022.0,Schwerin
+T-DT,10.5,natural_gas,Gegendruckmaschine mit Entnahme,Thüringen,Erfurt,99087,Stotternheimer Straße,40,2022.0,Erfurt
+BHKW 10,10.208,natural_gas,Verbrennungsmotor,Berlin,Berlin,12059,Weigandufer,49,2023.0,Berlin
+BHKW Boddenluft,4.5,natural_gas,Verbrennungsmotor,Mecklenburg-Vorpommern,Greifswald,17489,An der Jungfernwiese,8,2023.0,Greifswald
+BHKW Schwarzer Weg,21.505,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Aachen,52070,Schwarzer Weg,19 b,2023.0,Aachen
+GM9,4.457,natural_gas,Verbrennungsmotor,Bayern,Rosenheim,83022,Schönfeldstraße,15,2023.0,Rosenheim
+GuD West 40 Gasturbine,101.0,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Wolfsburg,38440,Berliner Ring,2,2023.0,Wolfsburg
+GuD West 50 Gasturbine,101.0,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Wolfsburg,38440,Berliner Ring,2,2023.0,Wolfsburg
+HKW Mitte GTHKW,68.41,natural_gas,Gasturbinen mit Abhitzekessel,Niedersachsen,Braunschweig,38114,Reiherstraße,3,2023.0,Braunschweig
+HKW Mitte GuD BMHKW,98.1,natural_gas,Sonstige,Niedersachsen,Braunschweig,38114,Reiherstraße,3,2023.0,Braunschweig
+Irsching 6,300.0,natural_gas,Kondensationsmaschine ohne Entnahme,Bayern,Vohburg,85088,Paarstraße,30,2023.0,Vohburg
+KWK Adlershof Modul 1,4.39,natural_gas,Verbrennungsmotor,Berlin,Berlin,12489,Albert-Einstein-Straße,22,2023.0,Berlin
+KWK Adlershof Modul 2,4.39,natural_gas,Verbrennungsmotor,Berlin,Berlin,12489,Albert-Einstein-Straße,22,2023.0,Berlin
+KWK Adlershof Modul 3,4.39,natural_gas,Verbrennungsmotor,Berlin,Berlin,12489,Albert-Einstein-Straße,22,2023.0,Berlin
+KWK Adlershof Modul 4,4.39,natural_gas,Verbrennungsmotor,Berlin,Berlin,12489,Albert-Einstein-Straße,22,2023.0,Berlin
+Könnern BHKW,1.248,natural_gas,Verbrennungsmotor,Sachsen-Anhalt,Könnern,6420,An den Sieben Stücken,nan,2023.0,Könnern
+Mitte BHKW 2 Modul 1,4.472,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Duisburg,47053,Bungertstr.,27,2023.0,Duisburg
+Mitte BHKW 2 Modul 2,4.472,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Duisburg,47053,Bungertstr.,27,2023.0,Duisburg
+Mitte BHKW 2 Modul 3,4.472,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Duisburg,47053,Bungertstr.,27,2023.0,Duisburg
+Mitte BHKW 2 Modul 4,4.472,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Duisburg,47053,Bungertstr.,27,2023.0,Duisburg
+Mitte BHKW 2 Modul 5,4.472,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Duisburg,47053,Bungertstr.,27,2023.0,Duisburg
+Mitte BHKW 2 Modul 6,4.472,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Duisburg,47053,Bungertstr.,27,2023.0,Duisburg
+Mitte BHKW 2 Modul 7,4.472,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Duisburg,47053,Bungertstr.,27,2023.0,Duisburg
+"Motor-Heizkraftwerk Chemnitz-Nord, Motor 1",12.538,natural_gas,Verbrennungsmotor,Sachsen,Chemnitz,9114,Blankenburgstraße,2,2023.0,Chemnitz
+"Motor-Heizkraftwerk Chemnitz-Nord, Motor 2",12.538,natural_gas,Verbrennungsmotor,Sachsen,Chemnitz,9114,Blankenburgstraße,2,2023.0,Chemnitz
+"Motor-Heizkraftwerk Chemnitz-Nord, Motor 4",12.538,natural_gas,Verbrennungsmotor,Sachsen,Chemnitz,9114,Blankenburgstraße,2,2023.0,Chemnitz
+"Motor-Heizkraftwerk Chemnitz-Nord, Motor 5",12.538,natural_gas,Verbrennungsmotor,Sachsen,Chemnitz,9114,Blankenburgstraße,2,2023.0,Chemnitz
+"Motor-Heizkraftwerk Chemnitz-Nord, Motor 6",12.538,natural_gas,Verbrennungsmotor,Sachsen,Chemnitz,9114,Blankenburgstraße,2,2023.0,Chemnitz
+"Motor-Heizkraftwerk Chemnitz-Nord, Motor 7",12.538,natural_gas,Verbrennungsmotor,Sachsen,Chemnitz,9114,Blankenburgstraße,2,2023.0,Chemnitz
+Motor-Heizkraftwerk Chemnitz-Nord. Motor 3,12.538,natural_gas,Verbrennungsmotor,Sachsen,Chemnitz,9114,Blankenburgstraße,2,2023.0,Chemnitz
+SN-Lankow-GUD-2023,14.0,natural_gas,Gasturbinen mit Abhitzekessel,Mecklenburg-Vorpommern,Schwerin,19057,Grevesmühlener Str.,28,2023.0,Schwerin
+Scholven 1 GT1,54.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Gelsenkirchen,45896,Glückaufstraße,56,2023.0,Gelsenkirchen
+Scholven 1 GT2,54.0,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Gelsenkirchen,45896,Glückaufstraße,56,2023.0,Gelsenkirchen
+bnBm GasKW BIB GT1,34.4,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Biblis,68647,Bei den Münchäckern,50,2023.0,Biblis
+bnBm GasKW BIB GT10,34.4,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Biblis,68647,Bei den Münchäckern,50,2023.0,Biblis
+bnBm GasKW BIB GT11,34.4,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Biblis,68647,Bei den Münchäckern,50,2023.0,Biblis
+bnBm GasKW BIB GT2,34.4,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Biblis,68647,Bei den Münchäckern,50,2023.0,Biblis
+bnBm GasKW BIB GT3,34.4,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Biblis,68647,Bei den Münchäckern,50,2023.0,Biblis
+bnBm GasKW BIB GT4,34.4,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Biblis,68647,Bei den Münchäckern,50,2023.0,Biblis
+bnBm GasKW BIB GT5,34.4,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Biblis,68647,Bei den Münchäckern,50,2023.0,Biblis
+bnBm GasKW BIB GT6,34.4,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Biblis,68647,Bei den Münchäckern,50,2023.0,Biblis
+bnBm GasKW BIB GT7,34.4,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Biblis,68647,Bei den Münchäckern,50,2023.0,Biblis
+bnBm GasKW BIB GT8,34.4,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Biblis,68647,Bei den Münchäckern,50,2023.0,Biblis
+bnBm GasKW BIB GT9,34.4,natural_gas,Gasturbinen ohne Abhitzekessel,Hessen,Biblis,68647,Bei den Münchäckern,50,2023.0,Biblis
+bnBm Gaskraftwerk Leipheim,310.0,natural_gas,Gasturbinen ohne Abhitzekessel,Bayern,Leipheim,89340,Am Tower,5,2023.0,Leipheim
+Fernwärmekraftwerk Kassel DT1,20.1,coal,Kondensationsmaschine mit Entnahme,Hessen,Kassel,34134,Dennhäuser Straße,122,2024.0,Kassel
+0065 - STW - BHKW - KWK,2.419,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Kempen,47906,Otto-Schott-Straße,4,2024.0,Kempen
+0066 - STW - BHKW - KWK,2.419,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Kempen,47906,Otto-Schott-Straße,4,2024.0,Kempen
+0067 - STW - BHKW - KWK,2.419,natural_gas,Verbrennungsmotor,Nordrhein-Westfalen,Kempen,47906,Otto-Schott-Straße,4,2024.0,Kempen
+GT-Anlage1,8.7015,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Diemelstadt,34474,Orpethaler Straße,50,2024.0,Diemelstadt
+GT-Anlage2,8.7015,natural_gas,Gasturbinen mit Abhitzekessel,Hessen,Diemelstadt,34474,Orpethaler Straße,50,2024.0,Diemelstadt
+Gaskesselhaus DT,5.544,natural_gas,Gegendruckmaschine ohne Entnahme,Nordrhein-Westfalen,Bergheim,50127,Kölner Straße,110,2024.0,Bergheim
+Gaskesselhaus GT,6.467,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Bergheim,50127,Kölner Straße,110,2024.0,Bergheim
+"Heizkraftwerk Bonn-Nord, Gasturbine 2 der GuD-Anlage",39.186,natural_gas,Gasturbinen mit nachgeschalteter Dampfturbine,Nordrhein-Westfalen,Bonn,53115,Karlstr.,2,2024.0,Bonn
+Kraftwerk Marbach MAR 4,306.5,oil,Gasturbinen ohne Abhitzekessel,Baden-Württemberg,Marbach,71672,Thomas-Alva-Edison-Ring,6,2024.0,Marbach
+BHKW 3 - Waldäcker III,1.004,natural_gas,Verbrennungsmotor,Baden-Württemberg,Ludwigsburg,71636,Karl-Pfizer-Straße,1,2025.0,Ludwigsburg
+DT,6.354,natural_gas,Gegendruckmaschine mit Entnahme,Nordrhein-Westfalen,Neuss,41460,Düsseldorfer Straße,182-184,2025.0,Neuss
+GT,16.526,natural_gas,Gasturbinen mit Abhitzekessel,Nordrhein-Westfalen,Neuss,41460,Düsseldorfer Straße,182-184,2025.0,Neuss
