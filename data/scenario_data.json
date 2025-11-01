@@ -11213,8 +11213,8 @@
       {
         "date": "1994-04-01",
         "year": 1994,
-        "site": "Kernkraftwerk Emsland",
-        "name": "Kernkraftwerk Emsland Unit 2",
+        "site": "Brokdorf",
+        "name": "Brokdorf Unit 2",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 30121.0,
@@ -11224,7 +11224,7 @@
         "fossil_capacity_closed_mw": 0.0,
         "dummy_fossil_capacity_closed_mw": 0.0,
         "annual_generation_capacity_twh": 739.16,
-        "municipality": "Lingen"
+        "municipality": "Brokdorf"
       },
       {
         "date": "1994-10-01",
@@ -11333,8 +11333,8 @@
       {
         "date": "1994-10-01",
         "year": 1994,
-        "site": "Niederau\u00dfem (Bergheim)",
-        "name": "Niederau\u00dfem (Bergheim) Unit 1",
+        "site": "Grafenrheinfeld",
+        "name": "Grafenrheinfeld Unit 2",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 31531.0,
@@ -11353,7 +11353,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 3.0,
         "annual_generation_capacity_twh": 739.16,
-        "municipality": "Bergheim"
+        "municipality": "Grafenrheinfeld"
       },
       {
         "date": "1995-07-01",
@@ -11423,8 +11423,8 @@
       {
         "date": "1995-07-01",
         "year": 1995,
-        "site": "Scholven (Gelsenkirchen)",
-        "name": "Scholven (Gelsenkirchen) Unit 1",
+        "site": "Grohnde",
+        "name": "Grohnde Unit 2",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 32941.0,
@@ -11440,7 +11440,7 @@
         "fossil_capacity_closed_mw": 554.8,
         "dummy_fossil_capacity_closed_mw": 4.8,
         "annual_generation_capacity_twh": 746.65,
-        "municipality": "Gelsenkirchen"
+        "municipality": "Grohnde"
       },
       {
         "date": "1996-04-01",
@@ -11484,8 +11484,8 @@
       {
         "date": "1996-04-01",
         "year": 1996,
-        "site": "Kraftwerk I  (Marl)",
-        "name": "Kraftwerk I  (Marl) Unit 1",
+        "site": "Marl",
+        "name": "Marl Unit 1",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 34351.0,
@@ -11582,8 +11582,8 @@
       {
         "date": "1996-10-01",
         "year": 1996,
-        "site": "Farge (Bremen)",
-        "name": "Farge (Bremen) Unit 1",
+        "site": "Isar",
+        "name": "Isar Unit 2",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 35761.0,
@@ -11600,13 +11600,13 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 2.7,
         "annual_generation_capacity_twh": 758.12,
-        "municipality": "Bremen"
+        "municipality": "Isar"
       },
       {
         "date": "1997-07-01",
         "year": 1997,
-        "site": "Unterweser",
-        "name": "Unterweser Unit 2",
+        "site": "Kr\u00fcmmel",
+        "name": "Kr\u00fcmmel Unit 2",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 37171.0,
@@ -11616,13 +11616,13 @@
         "fossil_capacity_closed_mw": 0.0,
         "dummy_fossil_capacity_closed_mw": 0.0,
         "annual_generation_capacity_twh": 777.0,
-        "municipality": "Unterweser"
+        "municipality": "Kr\u00fcmmel"
       },
       {
         "date": "1998-04-01",
         "year": 1998,
-        "site": "Kr\u00fcmmel",
-        "name": "Kr\u00fcmmel Unit 2",
+        "site": "Lingen",
+        "name": "Lingen Unit 2",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 38581.0,
@@ -11632,7 +11632,7 @@
         "fossil_capacity_closed_mw": 0.0,
         "dummy_fossil_capacity_closed_mw": 0.0,
         "annual_generation_capacity_twh": 790.6,
-        "municipality": "Kr\u00fcmmel"
+        "municipality": "Lingen"
       },
       {
         "date": "1998-10-01",
@@ -11741,8 +11741,8 @@
       {
         "date": "1998-10-01",
         "year": 1998,
-        "site": "Kraftwerk Veltheim (Porta Westfalica)",
-        "name": "Kraftwerk Veltheim (Porta Westfalica) Unit 1",
+        "site": "Porta Westfalica",
+        "name": "Porta Westfalica Unit 1",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 39991.0,
@@ -11792,8 +11792,8 @@
       {
         "date": "1999-07-01",
         "year": 1999,
-        "site": "Modellkraftwerk (V\u00f6lklingen-Fenne)",
-        "name": "Modellkraftwerk (V\u00f6lklingen-Fenne) Unit 1",
+        "site": "M\u00fclheim-K\u00e4rlich",
+        "name": "M\u00fclheim-K\u00e4rlich Unit 2",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 41401.0,
@@ -11806,13 +11806,13 @@
         "fossil_capacity_closed_mw": 265.2,
         "dummy_fossil_capacity_closed_mw": 8.8,
         "annual_generation_capacity_twh": 800.63,
-        "municipality": "V\u00f6lklingen-Fenne"
+        "municipality": "M\u00fclheim-K\u00e4rlich"
       },
       {
         "date": "2000-04-01",
         "year": 2000,
-        "site": "M\u00fclheim-K\u00e4rlich",
-        "name": "M\u00fclheim-K\u00e4rlich Unit 2",
+        "site": "Unterweser",
+        "name": "Unterweser Unit 2",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 42811.0,
@@ -11822,7 +11822,7 @@
         "fossil_capacity_closed_mw": 0.0,
         "dummy_fossil_capacity_closed_mw": 0.0,
         "annual_generation_capacity_twh": 822.81,
-        "municipality": "M\u00fclheim-K\u00e4rlich"
+        "municipality": "Unterweser"
       },
       {
         "date": "2000-10-01",
@@ -11892,8 +11892,8 @@
       {
         "date": "2000-10-01",
         "year": 2000,
-        "site": "Niederau\u00dfem (Bergheim)",
-        "name": "Niederau\u00dfem (Bergheim) Unit 2",
+        "site": "Brokdorf",
+        "name": "Brokdorf Unit 3",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 44221.0,
@@ -11909,7 +11909,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 7.0,
         "annual_generation_capacity_twh": 822.81,
-        "municipality": "Bergheim"
+        "municipality": "Brokdorf"
       },
       {
         "date": "2001-07-01",
@@ -11979,8 +11979,8 @@
       {
         "date": "2001-07-01",
         "year": 2001,
-        "site": "Scholven (Gelsenkirchen)",
-        "name": "Scholven (Gelsenkirchen) Unit 2",
+        "site": "Gelsenkirchen",
+        "name": "Gelsenkirchen Unit 1",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 45631.0,
@@ -12079,8 +12079,8 @@
       {
         "date": "2002-04-01",
         "year": 2002,
-        "site": "Neurath (Grevenbroich-Neurath)",
-        "name": "Neurath (Grevenbroich-Neurath) Unit 1",
+        "site": "Grafenrheinfeld",
+        "name": "Grafenrheinfeld Unit 3",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 47041.0,
@@ -12097,7 +12097,7 @@
         "fossil_capacity_closed_mw": 1396.0,
         "dummy_fossil_capacity_closed_mw": 3.6,
         "annual_generation_capacity_twh": 828.17,
-        "municipality": "Grevenbroich-Neurath"
+        "municipality": "Grafenrheinfeld"
       },
       {
         "date": "2002-10-01",
@@ -12141,8 +12141,8 @@
       {
         "date": "2002-10-01",
         "year": 2002,
-        "site": "Niederau\u00dfem (Bergheim)",
-        "name": "Niederau\u00dfem (Bergheim) Unit 3",
+        "site": "Grohnde",
+        "name": "Grohnde Unit 3",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 48451.0,
@@ -12156,7 +12156,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 10.0,
         "annual_generation_capacity_twh": 828.17,
-        "municipality": "Bergheim"
+        "municipality": "Grohnde"
       },
       {
         "date": "2003-07-01",
@@ -12187,8 +12187,8 @@
       {
         "date": "2003-07-01",
         "year": 2003,
-        "site": "KW Hafen (Bremen)",
-        "name": "KW Hafen (Bremen) Unit 2",
+        "site": "Gundremmingen",
+        "name": "Gundremmingen Unit 3",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 49861.0,
@@ -12201,7 +12201,7 @@
         "fossil_capacity_closed_mw": 398.2,
         "dummy_fossil_capacity_closed_mw": 5.2,
         "annual_generation_capacity_twh": 837.03,
-        "municipality": "Bremen"
+        "municipality": "Gundremmingen"
       },
       {
         "date": "2004-04-01",
@@ -12258,8 +12258,8 @@
       {
         "date": "2004-04-01",
         "year": 2004,
-        "site": "Neurath (Grevenbroich-Neurath)",
-        "name": "Neurath (Grevenbroich-Neurath) Unit 2",
+        "site": "Grevenbroich-Neurath",
+        "name": "Grevenbroich-Neurath Unit 1",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 51271.0,
@@ -12331,8 +12331,8 @@
       {
         "date": "2004-10-01",
         "year": 2004,
-        "site": "Weisweiler (Eschweiler-Weisweiler)",
-        "name": "Weisweiler (Eschweiler-Weisweiler) Unit 1",
+        "site": "Isar",
+        "name": "Isar Unit 3",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 52681.0,
@@ -12347,13 +12347,13 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 6.0,
         "annual_generation_capacity_twh": 842.36,
-        "municipality": "Eschweiler-Weisweiler"
+        "municipality": "Isar"
       },
       {
         "date": "2005-07-01",
         "year": 2005,
-        "site": "Gemeinschaftskernkraftwerk Neckarwestheim II",
-        "name": "Gemeinschaftskernkraftwerk Neckarwestheim II Unit 3",
+        "site": "Kr\u00fcmmel",
+        "name": "Kr\u00fcmmel Unit 3",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 54091.0,
@@ -12363,7 +12363,7 @@
         "fossil_capacity_closed_mw": 0.0,
         "dummy_fossil_capacity_closed_mw": 0.0,
         "annual_generation_capacity_twh": 855.15,
-        "municipality": "Neckarwestheim"
+        "municipality": "Kr\u00fcmmel"
       },
       {
         "date": "2006-04-01",
@@ -12407,8 +12407,8 @@
       {
         "date": "2006-04-01",
         "year": 2006,
-        "site": "Weiher (Quierschied)",
-        "name": "Weiher (Quierschied) Unit 1",
+        "site": "Lingen",
+        "name": "Lingen Unit 3",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 55501.0,
@@ -12422,7 +12422,7 @@
         "fossil_capacity_closed_mw": 994.0,
         "dummy_fossil_capacity_closed_mw": 4.4,
         "annual_generation_capacity_twh": 858.8,
-        "municipality": "Quierschied"
+        "municipality": "Lingen"
       },
       {
         "date": "2006-10-01",
@@ -12492,8 +12492,8 @@
       {
         "date": "2006-10-01",
         "year": 2006,
-        "site": "Wilhelmshaven (Wilhelmshaven)",
-        "name": "Wilhelmshaven (Wilhelmshaven) Unit 1",
+        "site": "Wilhelmshaven",
+        "name": "Wilhelmshaven Unit 1",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 56911.0,
@@ -12514,8 +12514,8 @@
       {
         "date": "2007-07-01",
         "year": 2007,
-        "site": "Biblis B",
-        "name": "Biblis B Unit 4",
+        "site": "M\u00fclheim-K\u00e4rlich",
+        "name": "M\u00fclheim-K\u00e4rlich Unit 3",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 58321.0,
@@ -12525,7 +12525,7 @@
         "fossil_capacity_closed_mw": 0.0,
         "dummy_fossil_capacity_closed_mw": 0.0,
         "annual_generation_capacity_twh": 879.12,
-        "municipality": "Biblis"
+        "municipality": "M\u00fclheim-K\u00e4rlich"
       },
       {
         "date": "2008-04-01",
@@ -12569,8 +12569,8 @@
       {
         "date": "2008-04-01",
         "year": 2008,
-        "site": "Scholven (Gelsenkirchen)",
-        "name": "Scholven (Gelsenkirchen) Unit 3",
+        "site": "Neckarwestheim",
+        "name": "Neckarwestheim Unit 3",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 59731.0,
@@ -12584,7 +12584,7 @@
         "fossil_capacity_closed_mw": 1387.3,
         "dummy_fossil_capacity_closed_mw": 6.3,
         "annual_generation_capacity_twh": 879.32,
-        "municipality": "Gelsenkirchen"
+        "municipality": "Neckarwestheim"
       },
       {
         "date": "2008-10-01",
@@ -12641,8 +12641,8 @@
       {
         "date": "2008-10-01",
         "year": 2008,
-        "site": "Boxberg (Boxberg)",
-        "name": "Boxberg (Boxberg) Unit 1",
+        "site": "Philippsburg",
+        "name": "Philippsburg Unit 3",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 61141.0,
@@ -12657,7 +12657,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 5.0,
         "annual_generation_capacity_twh": 879.32,
-        "municipality": "Boxberg"
+        "municipality": "Philippsburg"
       },
       {
         "date": "2009-07-01",
@@ -12714,8 +12714,8 @@
       {
         "date": "2009-07-01",
         "year": 2009,
-        "site": "Bergkamen (Bergkamen)",
-        "name": "Bergkamen (Bergkamen) Unit 1",
+        "site": "Bergkamen",
+        "name": "Bergkamen Unit 1",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 62551.0,
@@ -12735,8 +12735,8 @@
       {
         "date": "2010-04-01",
         "year": 2010,
-        "site": "Philippsburg 1",
-        "name": "Philippsburg 1 Unit 3",
+        "site": "Unterweser",
+        "name": "Unterweser Unit 3",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 63961.0,
@@ -12746,7 +12746,7 @@
         "fossil_capacity_closed_mw": 0.0,
         "dummy_fossil_capacity_closed_mw": 0.0,
         "annual_generation_capacity_twh": 900.35,
-        "municipality": "Philippsburg"
+        "municipality": "Unterweser"
       },
       {
         "date": "2010-10-01",
@@ -12816,8 +12816,8 @@
       {
         "date": "2010-10-01",
         "year": 2010,
-        "site": "KW J\u00e4nschwalde (Peitz)",
-        "name": "KW J\u00e4nschwalde (Peitz) Unit 1",
+        "site": "Biblis",
+        "name": "Biblis Unit 4",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 65371.0,
@@ -12833,7 +12833,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 8.5,
         "annual_generation_capacity_twh": 900.35,
-        "municipality": "Peitz"
+        "municipality": "Biblis"
       },
       {
         "date": "2011-07-01",
@@ -12851,8 +12851,8 @@
       {
         "date": "2011-07-01",
         "year": 2011,
-        "site": "Wilmersdorf (Berlin)",
-        "name": "Wilmersdorf (Berlin) Unit 1",
+        "site": "Brokdorf",
+        "name": "Brokdorf Unit 4",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 66781.0,
@@ -12864,7 +12864,7 @@
         "fossil_capacity_closed_mw": 190.2,
         "dummy_fossil_capacity_closed_mw": 6.2,
         "annual_generation_capacity_twh": 911.03,
-        "municipality": "Berlin"
+        "municipality": "Brokdorf"
       },
       {
         "date": "2012-04-01",
@@ -12921,8 +12921,8 @@
       {
         "date": "2012-04-01",
         "year": 2012,
-        "site": "Kraftwerk Bexbach (Bexbach)",
-        "name": "Kraftwerk Bexbach (Bexbach) Unit 1",
+        "site": "Bexbach",
+        "name": "Bexbach Unit 1",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 68191.0,
@@ -13007,8 +13007,8 @@
       {
         "date": "2012-10-01",
         "year": 2012,
-        "site": "Gersteinwerk (Werne)",
-        "name": "Gersteinwerk (Werne) Unit 1",
+        "site": "Grafenrheinfeld",
+        "name": "Grafenrheinfeld Unit 4",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 69601.0,
@@ -13024,7 +13024,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 5.2,
         "annual_generation_capacity_twh": 911.03,
-        "municipality": "Werne"
+        "municipality": "Grafenrheinfeld"
       },
       {
         "date": "2013-07-01",
@@ -13081,8 +13081,8 @@
       {
         "date": "2013-07-01",
         "year": 2013,
-        "site": "Zolling (Zolling)",
-        "name": "Zolling (Zolling) Unit 1",
+        "site": "Grohnde",
+        "name": "Grohnde Unit 4",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 71011.0,
@@ -13097,7 +13097,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 3.0,
         "annual_generation_capacity_twh": 910.98,
-        "municipality": "Zolling"
+        "municipality": "Grohnde"
       },
       {
         "date": "2014-04-01",
@@ -13193,8 +13193,8 @@
       {
         "date": "2014-04-01",
         "year": 2014,
-        "site": "KW Voerde (Voerde)",
-        "name": "KW Voerde (Voerde) Unit 1",
+        "site": "Gundremmingen",
+        "name": "Gundremmingen Unit 4",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 72421.0,
@@ -13212,7 +13212,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 5.5,
         "annual_generation_capacity_twh": 910.0,
-        "municipality": "Voerde"
+        "municipality": "Gundremmingen"
       },
       {
         "date": "2014-10-01",
@@ -13295,8 +13295,8 @@
       {
         "date": "2014-10-01",
         "year": 2014,
-        "site": "Ibbenb\u00fcren (Ibbenb\u00fcren)",
-        "name": "Ibbenb\u00fcren (Ibbenb\u00fcren) Unit 1",
+        "site": "Ibbenb\u00fcren",
+        "name": "Ibbenb\u00fcren Unit 1",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 73831.0,
@@ -13370,8 +13370,8 @@
       {
         "date": "2015-07-01",
         "year": 2015,
-        "site": "Heyden (Petershagen)",
-        "name": "Heyden (Petershagen) Unit 1",
+        "site": "Isar",
+        "name": "Isar Unit 4",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 75241.0,
@@ -13386,7 +13386,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 6.5,
         "annual_generation_capacity_twh": 910.0,
-        "municipality": "Petershagen"
+        "municipality": "Isar"
       },
       {
         "date": "2016-04-01",
@@ -13469,8 +13469,8 @@
       {
         "date": "2016-04-01",
         "year": 2016,
-        "site": "KW J\u00e4nschwalde (Peitz)",
-        "name": "KW J\u00e4nschwalde (Peitz) Unit 2",
+        "site": "Kr\u00fcmmel",
+        "name": "Kr\u00fcmmel Unit 4",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 76651.0,
@@ -13487,7 +13487,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 0.3,
         "annual_generation_capacity_twh": 910.0,
-        "municipality": "Peitz"
+        "municipality": "Kr\u00fcmmel"
       },
       {
         "date": "2016-10-01",
@@ -13661,8 +13661,8 @@
       {
         "date": "2016-10-01",
         "year": 2016,
-        "site": "Irsching (Vohburg)",
-        "name": "Irsching (Vohburg) Unit 1",
+        "site": "Lingen",
+        "name": "Lingen Unit 4",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 78061.0,
@@ -13686,7 +13686,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 6.5,
         "annual_generation_capacity_twh": 910.0,
-        "municipality": "Vohburg"
+        "municipality": "Lingen"
       },
       {
         "date": "2017-07-01",
@@ -13782,8 +13782,8 @@
       {
         "date": "2017-07-01",
         "year": 2017,
-        "site": "Gersteinwerk (Werne)",
-        "name": "Gersteinwerk (Werne) Unit 2",
+        "site": "Werne",
+        "name": "Werne Unit 1",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 79471.0,
@@ -13884,8 +13884,8 @@
       {
         "date": "2018-04-01",
         "year": 2018,
-        "site": "Emsland (Lingen)",
-        "name": "Emsland (Lingen) Unit 3",
+        "site": "M\u00fclheim-K\u00e4rlich",
+        "name": "M\u00fclheim-K\u00e4rlich Unit 4",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 80881.0,
@@ -13902,7 +13902,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 6.5,
         "annual_generation_capacity_twh": 909.82,
-        "municipality": "Lingen"
+        "municipality": "M\u00fclheim-K\u00e4rlich"
       },
       {
         "date": "2018-10-01",
@@ -13985,8 +13985,8 @@
       {
         "date": "2018-10-01",
         "year": 2018,
-        "site": "Emden Gas (Emden)",
-        "name": "Emden Gas (Emden) Unit 1",
+        "site": "Neckarwestheim",
+        "name": "Neckarwestheim Unit 4",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 82291.0,
@@ -14003,7 +14003,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 7.5,
         "annual_generation_capacity_twh": 909.82,
-        "municipality": "Emden"
+        "municipality": "Neckarwestheim"
       },
       {
         "date": "2019-07-01",
@@ -14086,8 +14086,8 @@
       {
         "date": "2019-07-01",
         "year": 2019,
-        "site": "Franken 1 (N\u00fcrnberg)",
-        "name": "Franken 1 (N\u00fcrnberg) Unit 1",
+        "site": "Philippsburg",
+        "name": "Philippsburg Unit 4",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 83701.0,
@@ -14104,7 +14104,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 5.1,
         "annual_generation_capacity_twh": 909.82,
-        "municipality": "N\u00fcrnberg"
+        "municipality": "Philippsburg"
       },
       {
         "date": "2020-04-01",
@@ -14317,8 +14317,8 @@
       {
         "date": "2020-04-01",
         "year": 2020,
-        "site": "Huntorf (Elsfleth)",
-        "name": "Huntorf (Elsfleth) Unit 1",
+        "site": "Elsfleth",
+        "name": "Elsfleth Unit 1",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 85111.0,
@@ -14519,8 +14519,8 @@
       {
         "date": "2020-10-01",
         "year": 2020,
-        "site": "HKW Chemnitz  Nord II (Chemnitz)",
-        "name": "HKW Chemnitz  Nord II (Chemnitz) Unit 1",
+        "site": "Unterweser",
+        "name": "Unterweser Unit 4",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 86521.0,
@@ -14544,7 +14544,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 11.4,
         "annual_generation_capacity_twh": 909.82,
-        "municipality": "Chemnitz"
+        "municipality": "Unterweser"
       },
       {
         "date": "2021-07-01",
@@ -14835,8 +14835,8 @@
       {
         "date": "2021-07-01",
         "year": 2021,
-        "site": "Heizkraftwerk Heilbronn (Heilbronn)",
-        "name": "Heizkraftwerk Heilbronn (Heilbronn) Unit 1",
+        "site": "Biblis",
+        "name": "Biblis Unit 5",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 87931.0,
@@ -14869,7 +14869,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 12.1,
         "annual_generation_capacity_twh": 909.82,
-        "municipality": "Heilbronn"
+        "municipality": "Biblis"
       },
       {
         "date": "2022-04-01",
@@ -14939,8 +14939,8 @@
       {
         "date": "2022-04-01",
         "year": 2022,
-        "site": "Heizkraftwerk Altbach/Deizisau (Altbach)",
-        "name": "Heizkraftwerk Altbach/Deizisau (Altbach) Unit 1",
+        "site": "Brokdorf",
+        "name": "Brokdorf Unit 5",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 89341.0,
@@ -14956,7 +14956,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 1005.1,
         "annual_generation_capacity_twh": 909.82,
-        "municipality": "Altbach"
+        "municipality": "Brokdorf"
       },
       {
         "date": "2022-10-01",
@@ -14976,7 +14976,7 @@
         "date": "2022-10-01",
         "year": 2022,
         "site": "Grohnde",
-        "name": "Grohnde Unit 2",
+        "name": "Grohnde Unit 5",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 90751.0,
@@ -15007,8 +15007,8 @@
       {
         "date": "2023-07-01",
         "year": 2023,
-        "site": "Isar 2",
-        "name": "Isar 2 Unit 2",
+        "site": "Grafenrheinfeld",
+        "name": "Grafenrheinfeld Unit 5",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 92161.0,
@@ -15020,7 +15020,7 @@
         "fossil_capacity_closed_mw": 1410.0,
         "dummy_fossil_capacity_closed_mw": 1410.0,
         "annual_generation_capacity_twh": 909.82,
-        "municipality": "Isar"
+        "municipality": "Grafenrheinfeld"
       },
       {
         "date": "2024-04-01",
@@ -15039,8 +15039,8 @@
       {
         "date": "2024-04-01",
         "year": 2024,
-        "site": "Grafenrheinfeld",
-        "name": "Grafenrheinfeld Unit 2",
+        "site": "Gundremmingen",
+        "name": "Gundremmingen Unit 5",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 93571.0,
@@ -15052,13 +15052,13 @@
         "fossil_capacity_closed_mw": 995.6,
         "dummy_fossil_capacity_closed_mw": 995.6,
         "annual_generation_capacity_twh": 913.45,
-        "municipality": "Grafenrheinfeld"
+        "municipality": "Gundremmingen"
       },
       {
         "date": "2024-10-01",
         "year": 2024,
-        "site": "Kernkraft Gundremmingen B",
-        "name": "Kernkraft Gundremmingen B Unit 3",
+        "site": "Isar",
+        "name": "Isar Unit 5",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 94981.0,
@@ -15068,13 +15068,13 @@
         "fossil_capacity_closed_mw": 0.0,
         "dummy_fossil_capacity_closed_mw": 0.0,
         "annual_generation_capacity_twh": 925.81,
-        "municipality": "Gundremmingen"
+        "municipality": "Isar"
       },
       {
         "date": "2025-07-01",
         "year": 2025,
-        "site": "Kernkraft Gundremmingen C",
-        "name": "Kernkraft Gundremmingen C Unit 4",
+        "site": "Gundremmingen",
+        "name": "Gundremmingen Unit 6",
         "event_type": "nuclear_build",
         "mw_added": 1410.0,
         "running_nuclear_mw": 96391.0,
@@ -15434,11 +15434,11 @@
     ],
     "site_baselines": {
       "nuclear": {
-        "Brokdorf (Brokdorf)": {
+        "Brokdorf": {
           "count": 1,
           "capacity_mw": 1410.0
         },
-        "Brokdorf": {
+        "Brokdorf (Brokdorf)": {
           "count": 1,
           "capacity_mw": 1410.0
         },
@@ -15458,43 +15458,43 @@
           "count": 1,
           "capacity_mw": 1410.0
         },
-        "Grafenrheinfeld": {
-          "count": 1,
-          "capacity_mw": 1275.0
-        },
         "Grafenrheinfeld (Grafenrheinfeld)": {
           "count": 1,
           "capacity_mw": 1275.0
         },
-        "Kernkraft Gundremmingen B (Gundremmingen)": {
+        "Grafenrheinfeld": {
           "count": 1,
-          "capacity_mw": 1284.0
+          "capacity_mw": 1275.0
         },
         "Kernkraft Gundremmingen B": {
           "count": 1,
           "capacity_mw": 1284.0
         },
-        "Kernkraft Gundremmingen C (Gundremmingen)": {
+        "Kernkraft Gundremmingen B (Gundremmingen)": {
           "count": 1,
-          "capacity_mw": 1288.0
+          "capacity_mw": 1284.0
         },
         "Kernkraft Gundremmingen C": {
           "count": 1,
           "capacity_mw": 1288.0
         },
-        "Kernkraftwerk Emsland (Lingen)": {
+        "Kernkraft Gundremmingen C (Gundremmingen)": {
           "count": 1,
-          "capacity_mw": 1336.0
+          "capacity_mw": 1288.0
         },
         "Kernkraftwerk Emsland": {
           "count": 1,
           "capacity_mw": 1336.0
         },
-        "Gemeinschaftskernkraftwerk Neckarwestheim II (Neckarwestheim)": {
+        "Kernkraftwerk Emsland (Lingen)": {
+          "count": 1,
+          "capacity_mw": 1336.0
+        },
+        "Gemeinschaftskernkraftwerk Neckarwestheim II": {
           "count": 1,
           "capacity_mw": 1310.0
         },
-        "Gemeinschaftskernkraftwerk Neckarwestheim II": {
+        "Gemeinschaftskernkraftwerk Neckarwestheim II (Neckarwestheim)": {
           "count": 1,
           "capacity_mw": 1310.0
         },
@@ -15522,27 +15522,27 @@
           "count": 1,
           "capacity_mw": 1300.0
         },
-        "Unterweser (Unterweser)": {
-          "count": 1,
-          "capacity_mw": 1345.0
-        },
         "Unterweser": {
           "count": 1,
           "capacity_mw": 1345.0
         },
-        "Kr\u00fcmmel (Kr\u00fcmmel)": {
+        "Unterweser (Unterweser)": {
           "count": 1,
-          "capacity_mw": 1346.0
+          "capacity_mw": 1345.0
         },
         "Kr\u00fcmmel": {
           "count": 1,
           "capacity_mw": 1346.0
         },
-        "Neckarwestheim 1": {
+        "Kr\u00fcmmel (Kr\u00fcmmel)": {
+          "count": 1,
+          "capacity_mw": 1346.0
+        },
+        "Neckarwestheim 1 (Neckarwestheim)": {
           "count": 1,
           "capacity_mw": 840.0
         },
-        "Neckarwestheim 1 (Neckarwestheim)": {
+        "Neckarwestheim 1": {
           "count": 1,
           "capacity_mw": 840.0
         },
@@ -15554,11 +15554,11 @@
           "count": 1,
           "capacity_mw": 926.0
         },
-        "M\u00fclheim-K\u00e4rlich": {
+        "M\u00fclheim-K\u00e4rlich (M\u00fclheim-K\u00e4rlich)": {
           "count": 1,
           "capacity_mw": 1219.0
         },
-        "M\u00fclheim-K\u00e4rlich (M\u00fclheim-K\u00e4rlich)": {
+        "M\u00fclheim-K\u00e4rlich": {
           "count": 1,
           "capacity_mw": 1219.0
         }
@@ -15596,11 +15596,11 @@
           "count": 1,
           "capacity_mw": 717.0
         },
-        "Reuter": {
+        "Reuter (Berlin)": {
           "count": 1,
           "capacity_mw": 124.0
         },
-        "Reuter (Berlin)": {
+        "Reuter": {
           "count": 1,
           "capacity_mw": 124.0
         },
@@ -15628,27 +15628,27 @@
           "count": 1,
           "capacity_mw": 43.3
         },
-        "KW Hastedt": {
-          "count": 1,
-          "capacity_mw": 119.0
-        },
         "KW Hastedt (Bremen)": {
           "count": 1,
           "capacity_mw": 119.0
         },
-        "KW Hafen (Bremen)": {
+        "KW Hastedt": {
           "count": 1,
-          "capacity_mw": 127.0
+          "capacity_mw": 119.0
         },
         "KW Hafen": {
           "count": 1,
           "capacity_mw": 127.0
         },
-        "Farge (Bremen)": {
+        "KW Hafen (Bremen)": {
+          "count": 1,
+          "capacity_mw": 127.0
+        },
+        "Farge": {
           "count": 1,
           "capacity_mw": 350.0
         },
-        "Farge": {
+        "Farge (Bremen)": {
           "count": 1,
           "capacity_mw": 350.0
         },
@@ -15676,11 +15676,11 @@
           "count": 1,
           "capacity_mw": 95.0
         },
-        "HKW II/B": {
+        "HKW II/B (Duisburg)": {
           "count": 1,
           "capacity_mw": 133.0
         },
-        "HKW II/B (Duisburg)": {
+        "HKW II/B": {
           "count": 1,
           "capacity_mw": 133.0
         },
@@ -15692,11 +15692,11 @@
           "count": 1,
           "capacity_mw": 129.0
         },
-        "Kraftwerk Ensdorf (Ensdorf)": {
+        "Kraftwerk Ensdorf": {
           "count": 1,
           "capacity_mw": 106.0
         },
-        "Kraftwerk Ensdorf": {
+        "Kraftwerk Ensdorf (Ensdorf)": {
           "count": 1,
           "capacity_mw": 106.0
         },
@@ -15732,27 +15732,27 @@
           "count": 1,
           "capacity_mw": 345.0
         },
-        "FWK Buer (Gelsenkirchen)": {
-          "count": 1,
-          "capacity_mw": 70.0
-        },
         "FWK Buer": {
           "count": 1,
           "capacity_mw": 70.0
         },
-        "Staudinger": {
+        "FWK Buer (Gelsenkirchen)": {
           "count": 1,
-          "capacity_mw": 249.0
+          "capacity_mw": 70.0
         },
         "Staudinger (Gro\u00dfkrotzenburg)": {
           "count": 1,
           "capacity_mw": 249.0
         },
-        "Wedel (Wedel)": {
+        "Staudinger": {
+          "count": 1,
+          "capacity_mw": 249.0
+        },
+        "Wedel": {
           "count": 1,
           "capacity_mw": 123.0
         },
-        "Wedel": {
+        "Wedel (Wedel)": {
           "count": 1,
           "capacity_mw": 123.0
         },
@@ -15764,19 +15764,19 @@
           "count": 1,
           "capacity_mw": 284.0
         },
-        "GKH (Hannover)": {
-          "count": 1,
-          "capacity_mw": 136.0
-        },
         "GKH": {
           "count": 1,
           "capacity_mw": 136.0
         },
-        "Heizkraftwerk Heilbronn": {
+        "GKH (Hannover)": {
+          "count": 1,
+          "capacity_mw": 136.0
+        },
+        "Heizkraftwerk Heilbronn (Heilbronn)": {
           "count": 1,
           "capacity_mw": 125.0
         },
-        "Heizkraftwerk Heilbronn (Heilbronn)": {
+        "Heizkraftwerk Heilbronn": {
           "count": 1,
           "capacity_mw": 125.0
         },
@@ -15788,19 +15788,19 @@
           "count": 1,
           "capacity_mw": 133.0
         },
-        "Shamrock": {
-          "count": 1,
-          "capacity_mw": 132.0
-        },
         "Shamrock (Herne)": {
           "count": 1,
           "capacity_mw": 132.0
         },
-        "KWM (Hohenhameln OT Mehrum)": {
+        "Shamrock": {
+          "count": 1,
+          "capacity_mw": 132.0
+        },
+        "KWM": {
           "count": 1,
           "capacity_mw": 690.0
         },
-        "KWM": {
+        "KWM (Hohenhameln OT Mehrum)": {
           "count": 1,
           "capacity_mw": 690.0
         },
@@ -15812,19 +15812,19 @@
           "count": 1,
           "capacity_mw": 794.0
         },
-        "Heizkraftwerk (Industriepark H\u00f6chst)": {
-          "count": 1,
-          "capacity_mw": 66.0
-        },
         "Heizkraftwerk": {
           "count": 1,
           "capacity_mw": 66.0
         },
-        "Rheinhafen-Dampfkraftwerk (Karlsruhe)": {
+        "Heizkraftwerk (Industriepark H\u00f6chst)": {
+          "count": 1,
+          "capacity_mw": 66.0
+        },
+        "Rheinhafen-Dampfkraftwerk": {
           "count": 1,
           "capacity_mw": 517.0
         },
-        "Rheinhafen-Dampfkraftwerk": {
+        "Rheinhafen-Dampfkraftwerk (Karlsruhe)": {
           "count": 1,
           "capacity_mw": 517.0
         },
@@ -15844,11 +15844,11 @@
           "count": 1,
           "capacity_mw": 26.0
         },
-        "Kraftwerk N 230 (Krefeld-Uerdingen)": {
+        "Kraftwerk N 230": {
           "count": 1,
           "capacity_mw": 110.0
         },
-        "Kraftwerk N 230": {
+        "Kraftwerk N 230 (Krefeld-Uerdingen)": {
           "count": 1,
           "capacity_mw": 110.0
         },
@@ -15860,19 +15860,19 @@
           "count": 1,
           "capacity_mw": 103.0
         },
-        "KW L\u00fcnen (L\u00fcnen)": {
-          "count": 1,
-          "capacity_mw": 149.0
-        },
         "KW L\u00fcnen": {
           "count": 1,
           "capacity_mw": 149.0
         },
-        "GKM (Mannheim)": {
+        "KW L\u00fcnen (L\u00fcnen)": {
+          "count": 1,
+          "capacity_mw": 149.0
+        },
+        "GKM": {
           "count": 1,
           "capacity_mw": 202.5
         },
-        "GKM": {
+        "GKM (Mannheim)": {
           "count": 1,
           "capacity_mw": 202.5
         },
@@ -15884,27 +15884,27 @@
           "count": 1,
           "capacity_mw": 55.56
         },
-        "Kraftwerk II (Marl)": {
-          "count": 1,
-          "capacity_mw": 60.4
-        },
         "Kraftwerk II": {
           "count": 1,
           "capacity_mw": 60.4
         },
-        "Heyden (Petershagen)": {
+        "Kraftwerk II (Marl)": {
           "count": 1,
-          "capacity_mw": 875.0
+          "capacity_mw": 60.4
         },
         "Heyden": {
           "count": 1,
           "capacity_mw": 875.0
         },
-        "Kraftwerk Veltheim (Porta Westfalica)": {
+        "Heyden (Petershagen)": {
+          "count": 1,
+          "capacity_mw": 875.0
+        },
+        "Kraftwerk Veltheim": {
           "count": 1,
           "capacity_mw": 93.0
         },
-        "Kraftwerk Veltheim": {
+        "Kraftwerk Veltheim (Porta Westfalica)": {
           "count": 1,
           "capacity_mw": 93.0
         },
@@ -15956,11 +15956,11 @@
           "count": 1,
           "capacity_mw": 695.0
         },
-        "Modellkraftwerk": {
+        "Modellkraftwerk (V\u00f6lklingen-Fenne)": {
           "count": 1,
           "capacity_mw": 179.0
         },
-        "Modellkraftwerk (V\u00f6lklingen-Fenne)": {
+        "Modellkraftwerk": {
           "count": 1,
           "capacity_mw": 179.0
         },
@@ -15968,27 +15968,27 @@
           "count": 1,
           "capacity_mw": 211.0
         },
-        "Kraftwerk Walheim (Walheim)": {
-          "count": 1,
-          "capacity_mw": 96.0
-        },
         "Kraftwerk Walheim": {
           "count": 1,
           "capacity_mw": 96.0
         },
-        "Kraftwerk Werdohl-Elverlingsen": {
+        "Kraftwerk Walheim (Walheim)": {
           "count": 1,
-          "capacity_mw": 186.0
+          "capacity_mw": 96.0
         },
         "Kraftwerk Werdohl-Elverlingsen (Werdohl)": {
           "count": 1,
           "capacity_mw": 186.0
         },
-        "Gersteinwerk (Werne)": {
+        "Kraftwerk Werdohl-Elverlingsen": {
+          "count": 1,
+          "capacity_mw": 186.0
+        },
+        "Gersteinwerk": {
           "count": 1,
           "capacity_mw": 614.0
         },
-        "Gersteinwerk": {
+        "Gersteinwerk (Werne)": {
           "count": 1,
           "capacity_mw": 614.0
         },
@@ -16020,11 +16020,11 @@
           "count": 1,
           "capacity_mw": 19.0
         },
-        "Werk Uelzen (Uelzen)": {
+        "Werk Uelzen": {
           "count": 1,
           "capacity_mw": 40.0
         },
-        "Werk Uelzen": {
+        "Werk Uelzen (Uelzen)": {
           "count": 1,
           "capacity_mw": 40.0
         },
@@ -16044,11 +16044,11 @@
           "count": 1,
           "capacity_mw": 56.8
         },
-        "Deuben": {
+        "Deuben (Teuchern)": {
           "count": 1,
           "capacity_mw": 67.0
         },
-        "Deuben (Teuchern)": {
+        "Deuben": {
           "count": 1,
           "capacity_mw": 67.0
         },
@@ -16060,11 +16060,11 @@
           "count": 1,
           "capacity_mw": 176.0
         },
-        "Frimmersdorf (Frimmersdorf)": {
+        "Frimmersdorf": {
           "count": 1,
           "capacity_mw": 129.0
         },
-        "Frimmersdorf": {
+        "Frimmersdorf (Frimmersdorf)": {
           "count": 1,
           "capacity_mw": 129.0
         },
@@ -16080,43 +16080,43 @@
           "count": 1,
           "capacity_mw": 352.0
         },
-        "Ville/Berrenrath": {
-          "count": 1,
-          "capacity_mw": 98.0
-        },
         "Ville/Berrenrath (H\u00fcrth)": {
           "count": 1,
           "capacity_mw": 98.0
         },
-        "FKK": {
+        "Ville/Berrenrath": {
           "count": 1,
-          "capacity_mw": 33.5
+          "capacity_mw": 98.0
         },
         "FKK (Kassel)": {
           "count": 1,
           "capacity_mw": 33.5
         },
-        "Mumsdorf (Mumsdorf)": {
+        "FKK": {
           "count": 1,
-          "capacity_mw": 60.0
+          "capacity_mw": 33.5
         },
         "Mumsdorf": {
           "count": 1,
           "capacity_mw": 60.0
         },
-        "Neurath (Grevenbroich-Neurath)": {
+        "Mumsdorf (Mumsdorf)": {
           "count": 1,
-          "capacity_mw": 294.0
+          "capacity_mw": 60.0
         },
         "Neurath": {
           "count": 1,
           "capacity_mw": 294.0
         },
-        "Niederau\u00dfem (Bergheim)": {
+        "Neurath (Grevenbroich-Neurath)": {
+          "count": 1,
+          "capacity_mw": 294.0
+        },
+        "Niederau\u00dfem": {
           "count": 1,
           "capacity_mw": 297.0
         },
-        "Niederau\u00dfem": {
+        "Niederau\u00dfem (Bergheim)": {
           "count": 1,
           "capacity_mw": 297.0
         },
@@ -16128,19 +16128,19 @@
           "count": 1,
           "capacity_mw": 15.0
         },
-        "KW J\u00e4nschwalde": {
-          "count": 1,
-          "capacity_mw": 465.0
-        },
         "KW J\u00e4nschwalde (Peitz)": {
           "count": 1,
           "capacity_mw": 465.0
         },
-        "Weisweiler (Eschweiler-Weisweiler)": {
+        "KW J\u00e4nschwalde": {
+          "count": 1,
+          "capacity_mw": 465.0
+        },
+        "Weisweiler": {
           "count": 1,
           "capacity_mw": 123.0
         },
-        "Weisweiler": {
+        "Weisweiler (Eschweiler-Weisweiler)": {
           "count": 1,
           "capacity_mw": 123.0
         },
@@ -16168,19 +16168,19 @@
           "count": 1,
           "capacity_mw": 45.0
         },
-        "Kessel 4 (D\u00fcren)": {
-          "count": 1,
-          "capacity_mw": 9.3
-        },
         "Kessel 4": {
           "count": 1,
           "capacity_mw": 9.3
         },
-        "Werkskraftwerk Sappi Alfeld": {
+        "Kessel 4 (D\u00fcren)": {
+          "count": 1,
+          "capacity_mw": 9.3
+        },
+        "Werkskraftwerk Sappi Alfeld (Alfeld)": {
           "count": 1,
           "capacity_mw": 11.0
         },
-        "Werkskraftwerk Sappi Alfeld (Alfeld)": {
+        "Werkskraftwerk Sappi Alfeld": {
           "count": 1,
           "capacity_mw": 11.0
         },
@@ -16200,11 +16200,11 @@
           "count": 1,
           "capacity_mw": 144.0
         },
-        "Lichterfelde (Berlin)": {
+        "Lichterfelde": {
           "count": 1,
           "capacity_mw": 144.0
         },
-        "Lichterfelde": {
+        "Lichterfelde (Berlin)": {
           "count": 1,
           "capacity_mw": 144.0
         },
@@ -16232,11 +16232,11 @@
           "count": 1,
           "capacity_mw": 55.0
         },
-        "Heizkraftwerk S\u00fcd (Bonn)": {
+        "Heizkraftwerk S\u00fcd": {
           "count": 1,
           "capacity_mw": 14.4
         },
-        "Heizkraftwerk S\u00fcd": {
+        "Heizkraftwerk S\u00fcd (Bonn)": {
           "count": 1,
           "capacity_mw": 14.4
         },
@@ -16288,35 +16288,35 @@
           "count": 1,
           "capacity_mw": 56.0
         },
-        "Heizkraftwerk Hagen-Kabel (Hagen)": {
-          "count": 1,
-          "capacity_mw": 230.0
-        },
         "Heizkraftwerk Hagen-Kabel": {
           "count": 1,
           "capacity_mw": 230.0
         },
-        "KWH": {
+        "Heizkraftwerk Hagen-Kabel (Hagen)": {
           "count": 1,
-          "capacity_mw": 102.0
+          "capacity_mw": 230.0
         },
         "KWH (Hannover)": {
           "count": 1,
           "capacity_mw": 102.0
         },
-        "HKW Karcherstr. (Kaiserslautern)": {
+        "KWH": {
           "count": 1,
-          "capacity_mw": 11.6
+          "capacity_mw": 102.0
         },
         "HKW Karcherstr.": {
           "count": 1,
           "capacity_mw": 11.6
         },
-        "Heizkraftwerk West (Karlsruhe)": {
+        "HKW Karcherstr. (Kaiserslautern)": {
+          "count": 1,
+          "capacity_mw": 11.6
+        },
+        "Heizkraftwerk West": {
           "count": 1,
           "capacity_mw": 37.0
         },
-        "Heizkraftwerk West": {
+        "Heizkraftwerk West (Karlsruhe)": {
           "count": 1,
           "capacity_mw": 37.0
         },
@@ -16328,11 +16328,11 @@
           "count": 1,
           "capacity_mw": 48.31
         },
-        "KW Kirchlengern (Kirchlengern)": {
+        "KW Kirchlengern": {
           "count": 1,
           "capacity_mw": 125.0
         },
-        "KW Kirchlengern": {
+        "KW Kirchlengern (Kirchlengern)": {
           "count": 1,
           "capacity_mw": 125.0
         },
@@ -16352,19 +16352,19 @@
           "count": 1,
           "capacity_mw": 25.0
         },
-        "Emsland (Lingen)": {
-          "count": 1,
-          "capacity_mw": 116.0
-        },
         "Emsland": {
           "count": 1,
           "capacity_mw": 116.0
         },
-        "Kraftwerk Mainz": {
+        "Emsland (Lingen)": {
+          "count": 1,
+          "capacity_mw": 116.0
+        },
+        "Kraftwerk Mainz (Mainz)": {
           "count": 1,
           "capacity_mw": 335.0
         },
-        "Kraftwerk Mainz (Mainz)": {
+        "Kraftwerk Mainz": {
           "count": 1,
           "capacity_mw": 335.0
         },
@@ -16376,11 +16376,11 @@
           "count": 1,
           "capacity_mw": 61.13
         },
-        "Freimann GT 1": {
+        "Freimann GT 1 (M\u00fcnchen)": {
           "count": 1,
           "capacity_mw": 80.0
         },
-        "Freimann GT 1 (M\u00fcnchen)": {
+        "Freimann GT 1": {
           "count": 1,
           "capacity_mw": 80.0
         },
@@ -16400,11 +16400,11 @@
           "count": 1,
           "capacity_mw": 79.7
         },
-        "S\u00fcd GT3 (M\u00fcnchen)": {
+        "S\u00fcd GT3": {
           "count": 1,
           "capacity_mw": 97.9
         },
-        "S\u00fcd GT3": {
+        "S\u00fcd GT3 (M\u00fcnchen)": {
           "count": 1,
           "capacity_mw": 97.9
         },
@@ -16440,11 +16440,11 @@
           "count": 1,
           "capacity_mw": 23.1
         },
-        "Obernburg (Obernburg)": {
+        "Obernburg": {
           "count": 1,
           "capacity_mw": 40.0
         },
-        "Obernburg": {
+        "Obernburg (Obernburg)": {
           "count": 1,
           "capacity_mw": 40.0
         },
@@ -16472,51 +16472,51 @@
           "count": 1,
           "capacity_mw": 26.5
         },
-        "GuD Anlage Spreetal": {
-          "count": 1,
-          "capacity_mw": 50.0
-        },
         "GuD Anlage Spreetal (Spreetal)": {
           "count": 1,
           "capacity_mw": 50.0
         },
-        "Dow Stade (Stade)": {
+        "GuD Anlage Spreetal": {
           "count": 1,
-          "capacity_mw": 190.0
+          "capacity_mw": 50.0
         },
         "Dow Stade": {
           "count": 1,
           "capacity_mw": 190.0
         },
-        "GuD-Ikw Sta\u00dffurt (Sta\u00dffurt)": {
+        "Dow Stade (Stade)": {
           "count": 1,
-          "capacity_mw": 9.0
+          "capacity_mw": 190.0
         },
         "GuD-Ikw Sta\u00dffurt": {
           "count": 1,
           "capacity_mw": 9.0
         },
-        "Heizkraftwerk Stuttgart-Gaisburg (Stuttgart)": {
+        "GuD-Ikw Sta\u00dffurt (Sta\u00dffurt)": {
           "count": 1,
-          "capacity_mw": 55.0
+          "capacity_mw": 9.0
         },
         "Heizkraftwerk Stuttgart-Gaisburg": {
           "count": 1,
           "capacity_mw": 55.0
         },
-        "Heizkraftwerke an der Friedensbr\u00fccke (W\u00fcrzburg)": {
+        "Heizkraftwerk Stuttgart-Gaisburg (Stuttgart)": {
           "count": 1,
-          "capacity_mw": 23.0
+          "capacity_mw": 55.0
         },
         "Heizkraftwerke an der Friedensbr\u00fccke": {
           "count": 1,
           "capacity_mw": 23.0
         },
-        "UPM Augsburg (Augsburg)": {
+        "Heizkraftwerke an der Friedensbr\u00fccke (W\u00fcrzburg)": {
+          "count": 1,
+          "capacity_mw": 23.0
+        },
+        "UPM Augsburg": {
           "count": 1,
           "capacity_mw": 29.0
         },
-        "UPM Augsburg": {
+        "UPM Augsburg (Augsburg)": {
           "count": 1,
           "capacity_mw": 29.0
         },
@@ -16532,19 +16532,19 @@
           "count": 1,
           "capacity_mw": 14.0
         },
-        "PWG": {
-          "count": 1,
-          "capacity_mw": 5.3
-        },
         "PWG (Pei\u00dfenberg)": {
           "count": 1,
           "capacity_mw": 5.3
         },
-        "UPM Schongau (Schongau)": {
+        "PWG": {
+          "count": 1,
+          "capacity_mw": 5.3
+        },
+        "UPM Schongau": {
           "count": 1,
           "capacity_mw": 64.0
         },
-        "UPM Schongau": {
+        "UPM Schongau (Schongau)": {
           "count": 1,
           "capacity_mw": 64.0
         },
@@ -16556,11 +16556,11 @@
           "count": 1,
           "capacity_mw": 11.0
         },
-        "HKW Pfaffenwald (Stuttgart)": {
+        "HKW Pfaffenwald": {
           "count": 1,
           "capacity_mw": 12.181
         },
-        "HKW Pfaffenwald": {
+        "HKW Pfaffenwald (Stuttgart)": {
           "count": 1,
           "capacity_mw": 12.181
         },
@@ -16572,11 +16572,11 @@
           "count": 1,
           "capacity_mw": 58.1
         },
-        "Holthausen (D\u00fcsseldorf)": {
+        "Holthausen": {
           "count": 1,
           "capacity_mw": 84.0
         },
-        "Holthausen": {
+        "Holthausen (D\u00fcsseldorf)": {
           "count": 1,
           "capacity_mw": 84.0
         },
@@ -16584,27 +16584,27 @@
           "count": 1,
           "capacity_mw": 27.0
         },
-        "Heizkraftwerk Evonik Rheinfelden (Rheinfelden)": {
-          "count": 1,
-          "capacity_mw": 15.68
-        },
         "Heizkraftwerk Evonik Rheinfelden": {
           "count": 1,
           "capacity_mw": 15.68
         },
-        "Kraftwerk 2": {
+        "Heizkraftwerk Evonik Rheinfelden (Rheinfelden)": {
           "count": 1,
-          "capacity_mw": 7.5
+          "capacity_mw": 15.68
         },
         "Kraftwerk 2 (Fulda)": {
           "count": 1,
           "capacity_mw": 7.5
         },
-        "Werk Nordstemmen": {
+        "Kraftwerk 2": {
+          "count": 1,
+          "capacity_mw": 7.5
+        },
+        "Werk Nordstemmen (Nordstemmen)": {
           "count": 1,
           "capacity_mw": 30.6
         },
-        "Werk Nordstemmen (Nordstemmen)": {
+        "Werk Nordstemmen": {
           "count": 1,
           "capacity_mw": 30.6
         },
@@ -16624,11 +16624,11 @@
           "count": 1,
           "capacity_mw": 8.4
         },
-        "Heizkraftwerk Bomlitz (Bomlitz)": {
+        "Heizkraftwerk Bomlitz": {
           "count": 1,
           "capacity_mw": 12.75
         },
-        "Heizkraftwerk Bomlitz": {
+        "Heizkraftwerk Bomlitz (Bomlitz)": {
           "count": 1,
           "capacity_mw": 12.75
         },
@@ -16652,27 +16652,27 @@
           "count": 1,
           "capacity_mw": 15.0
         },
-        "Wilmersdorf": {
-          "count": 1,
-          "capacity_mw": 184.0
-        },
         "Wilmersdorf (Berlin)": {
           "count": 1,
           "capacity_mw": 184.0
         },
-        "Moabit": {
+        "Wilmersdorf": {
           "count": 1,
-          "capacity_mw": 34.0
+          "capacity_mw": 184.0
         },
         "Moabit (Berlin)": {
           "count": 1,
           "capacity_mw": 34.0
         },
-        "KW Mittelsb\u00fcren": {
+        "Moabit": {
+          "count": 1,
+          "capacity_mw": 34.0
+        },
+        "KW Mittelsb\u00fcren (Bremen)": {
           "count": 1,
           "capacity_mw": 86.0
         },
-        "KW Mittelsb\u00fcren (Bremen)": {
+        "KW Mittelsb\u00fcren": {
           "count": 1,
           "capacity_mw": 86.0
         },
@@ -16692,11 +16692,11 @@
           "count": 1,
           "capacity_mw": 30.0
         },
-        "Ingolstadt": {
+        "Ingolstadt (Gro\u00dfmehring)": {
           "count": 1,
           "capacity_mw": 386.0
         },
-        "Ingolstadt (Gro\u00dfmehring)": {
+        "Ingolstadt": {
           "count": 1,
           "capacity_mw": 386.0
         },
@@ -16708,11 +16708,11 @@
           "count": 1,
           "capacity_mw": 23.4
         },
-        "Dampfkraftwerk Marbach am Neckar": {
+        "Dampfkraftwerk Marbach am Neckar (Marbach)": {
           "count": 1,
           "capacity_mw": 77.4
         },
-        "Dampfkraftwerk Marbach am Neckar (Marbach)": {
+        "Dampfkraftwerk Marbach am Neckar": {
           "count": 1,
           "capacity_mw": 77.4
         },
@@ -16724,11 +16724,11 @@
           "count": 1,
           "capacity_mw": 88.0
         },
-        "Audorf": {
+        "Audorf (Osterr\u00f6nfeld)": {
           "count": 1,
           "capacity_mw": 87.0
         },
-        "Audorf (Osterr\u00f6nfeld)": {
+        "Audorf": {
           "count": 1,
           "capacity_mw": 87.0
         },
@@ -16740,11 +16740,11 @@
           "count": 1,
           "capacity_mw": 28.0
         },
-        "Irsching": {
+        "Irsching (Vohburg)": {
           "count": 1,
           "capacity_mw": 415.0
         },
-        "Irsching (Vohburg)": {
+        "Irsching": {
           "count": 1,
           "capacity_mw": 415.0
         },
@@ -16764,19 +16764,19 @@
           "count": 1,
           "capacity_mw": 10.5
         },
-        "DKW Nord (Mindelheim)": {
-          "count": 1,
-          "capacity_mw": 11.4
-        },
         "DKW Nord": {
           "count": 1,
           "capacity_mw": 11.4
         },
-        "DKW Leinau (Pforzen)": {
+        "DKW Nord (Mindelheim)": {
           "count": 1,
           "capacity_mw": 11.4
         },
         "DKW Leinau": {
+          "count": 1,
+          "capacity_mw": 11.4
+        },
+        "DKW Leinau (Pforzen)": {
           "count": 1,
           "capacity_mw": 11.4
         },
@@ -16788,11 +16788,11 @@
           "count": 1,
           "capacity_mw": 90.0
         },
-        "Spitzenkraftwerk (Deggendorf)": {
+        "Spitzenkraftwerk": {
           "count": 1,
           "capacity_mw": 19.0
         },
-        "Spitzenkraftwerk": {
+        "Spitzenkraftwerk (Deggendorf)": {
           "count": 1,
           "capacity_mw": 19.0
         }

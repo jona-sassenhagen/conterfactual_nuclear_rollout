@@ -430,11 +430,37 @@ def build_counterfactual_events(
     )
     if not existing_nuclear_sites:
         existing_nuclear_sites = ["Generic Nuclear Complex"]
+
     municipality_baselines_map = build_municipality_baselines(plants).get("nuclear", {})
-    site_unit_counter: Dict[str, int] = {
-        municipality: int(stats.get("count", 0))
-        for municipality, stats in municipality_baselines_map.items()
-    }
+    site_unit_counter: Dict[str, int] = {}
+    baseline_existing_sites: List[str] = []
+    for raw_key, stats in municipality_baselines_map.items():
+        canonical = (plant_municipality_map.get(raw_key, "") or raw_key).strip()
+        if not canonical:
+            canonical = raw_key
+        baseline_existing_sites.append(canonical)
+        site_unit_counter[canonical] = site_unit_counter.get(canonical, 0) + int(
+            stats.get("count", 0)
+        )
+    if baseline_existing_sites:
+        baseline_existing_sites = list(dict.fromkeys(baseline_existing_sites))
+    else:
+        fallback_labels = [
+            (plant_municipality_map.get(name, "") or name).strip()
+            for name in existing_nuclear_sites
+        ]
+        baseline_existing_sites = [label for label in fallback_labels if label]
+
+    existing_site_pattern: Tuple[bool, ...] = (True, True, True, False)
+    post_planned_allocation_index = 0
+
+    def choose_existing_municipality() -> str | None:
+        if not baseline_existing_sites:
+            return None
+        return min(
+            baseline_existing_sites,
+            key=lambda key: (site_unit_counter.get(key, 0), key),
+        )
 
     events: List[Dict[str, object]] = []
     timeseries_rows: List[Dict[str, object]] = []
@@ -502,17 +528,44 @@ def build_counterfactual_events(
             if planned_site:
                 site_label = planned_site.get("display", "").strip()
                 site_municipality = (planned_site.get("municipality") or "").strip()
-            elif closings:
-                primary_site = closings[0].descriptor
-                site_label = primary_site.strip()
-                if isinstance(closings[0].municipality, str):
-                    site_municipality = closings[0].municipality.strip()
             else:
-                site_choice = existing_nuclear_sites[
-                    nuclear_build_count % len(existing_nuclear_sites)
-                ]
-                site_label = site_choice.strip()
-                site_municipality = (plant_municipality_map.get(site_choice, "") or "").strip()
+                prefer_existing = False
+                if nuclear_build_count >= len(planned_konvois) and existing_site_pattern:
+                    prefer_existing = existing_site_pattern[
+                        post_planned_allocation_index % len(existing_site_pattern)
+                    ]
+                    post_planned_allocation_index += 1
+
+                if prefer_existing:
+                    chosen_municipality = choose_existing_municipality()
+                    if chosen_municipality:
+                        site_municipality = chosen_municipality
+                        site_label = chosen_municipality
+
+                if not site_label:
+                    if closings:
+                        primary_closing = closings[0]
+                        site_municipality = (
+                            primary_closing.municipality.strip()
+                            if isinstance(primary_closing.municipality, str)
+                            else ""
+                        )
+                        descriptor_label = primary_closing.descriptor.strip()
+                        mapped_municipality = (
+                            plant_municipality_map.get(descriptor_label, "") or ""
+                        ).strip()
+                        if not site_municipality and mapped_municipality:
+                            site_municipality = mapped_municipality
+                        site_label = site_municipality or descriptor_label
+                    else:
+                        site_choice = existing_nuclear_sites[
+                            nuclear_build_count % len(existing_nuclear_sites)
+                        ]
+                        mapped_municipality = (
+                            plant_municipality_map.get(site_choice, "") or ""
+                        ).strip()
+                        site_municipality = mapped_municipality
+                        site_label = mapped_municipality or site_choice.strip()
 
             if not site_label:
                 site_label = site_municipality or "New Nuclear Complex"
