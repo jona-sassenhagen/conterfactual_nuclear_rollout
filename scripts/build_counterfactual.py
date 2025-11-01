@@ -14,7 +14,7 @@ INPUT_FOSSIL_BUILDS = ROOT / "fossil_construction_1990_2025_bnetza.csv"
 INPUT_GENERATION = ROOT / "electricity-production-by-source.csv"
 INPUT_PLANNED_KONVOIS = ROOT / "planned_konvois.md"
 OUTPUT_DATA = ROOT / "data" / "scenario_data.json"
-OUTPUT_DATA_WEB = ROOT / "web" / "data" / "scenario_data.json"
+OUTPUT_DATA_WEB = ROOT / "docs" / "data" / "scenario_data.json"
 
 START_YEAR = 1989
 END_YEAR = 2025

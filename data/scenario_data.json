@@ -15450,27 +15450,27 @@
           "count": 1,
           "capacity_mw": 1360.0
         },
-        "Isar 2 (Isar)": {
-          "count": 1,
-          "capacity_mw": 1410.0
-        },
         "Isar 2": {
           "count": 1,
           "capacity_mw": 1410.0
         },
-        "Grafenrheinfeld (Grafenrheinfeld)": {
+        "Isar 2 (Isar)": {
           "count": 1,
-          "capacity_mw": 1275.0
+          "capacity_mw": 1410.0
         },
         "Grafenrheinfeld": {
           "count": 1,
           "capacity_mw": 1275.0
         },
-        "Kernkraft Gundremmingen B": {
+        "Grafenrheinfeld (Grafenrheinfeld)": {
+          "count": 1,
+          "capacity_mw": 1275.0
+        },
+        "Kernkraft Gundremmingen B (Gundremmingen)": {
           "count": 1,
           "capacity_mw": 1284.0
         },
-        "Kernkraft Gundremmingen B (Gundremmingen)": {
+        "Kernkraft Gundremmingen B": {
           "count": 1,
           "capacity_mw": 1284.0
         },
@@ -15498,11 +15498,11 @@
           "count": 1,
           "capacity_mw": 1310.0
         },
-        "Kernkraftwerk Philippsburg 2": {
+        "Kernkraftwerk Philippsburg 2 (Philippsburg)": {
           "count": 1,
           "capacity_mw": 1402.0
         },
-        "Kernkraftwerk Philippsburg 2 (Philippsburg)": {
+        "Kernkraftwerk Philippsburg 2": {
           "count": 1,
           "capacity_mw": 1402.0
         },
@@ -15530,19 +15530,19 @@
           "count": 1,
           "capacity_mw": 1345.0
         },
-        "Kr\u00fcmmel": {
-          "count": 1,
-          "capacity_mw": 1346.0
-        },
         "Kr\u00fcmmel (Kr\u00fcmmel)": {
           "count": 1,
           "capacity_mw": 1346.0
         },
-        "Neckarwestheim 1 (Neckarwestheim)": {
+        "Kr\u00fcmmel": {
+          "count": 1,
+          "capacity_mw": 1346.0
+        },
+        "Neckarwestheim 1": {
           "count": 1,
           "capacity_mw": 840.0
         },
-        "Neckarwestheim 1": {
+        "Neckarwestheim 1 (Neckarwestheim)": {
           "count": 1,
           "capacity_mw": 840.0
         },
@@ -15554,29 +15554,29 @@
           "count": 1,
           "capacity_mw": 926.0
         },
-        "M\u00fclheim-K\u00e4rlich (M\u00fclheim-K\u00e4rlich)": {
+        "M\u00fclheim-K\u00e4rlich": {
           "count": 1,
           "capacity_mw": 1219.0
         },
-        "M\u00fclheim-K\u00e4rlich": {
+        "M\u00fclheim-K\u00e4rlich (M\u00fclheim-K\u00e4rlich)": {
           "count": 1,
           "capacity_mw": 1219.0
         }
       },
       "fossil": {
-        "Werkskraftwerk Sappi Ehingen (Ehingen)": {
-          "count": 1,
-          "capacity_mw": 8.0
-        },
         "Werkskraftwerk Sappi Ehingen": {
           "count": 1,
           "capacity_mw": 8.0
         },
-        "Emden Gas": {
+        "Werkskraftwerk Sappi Ehingen (Ehingen)": {
+          "count": 1,
+          "capacity_mw": 8.0
+        },
+        "Emden Gas (Emden)": {
           "count": 1,
           "capacity_mw": 52.0
         },
-        "Emden Gas (Emden)": {
+        "Emden Gas": {
           "count": 1,
           "capacity_mw": 52.0
         },
@@ -15596,11 +15596,11 @@
           "count": 1,
           "capacity_mw": 717.0
         },
-        "Reuter (Berlin)": {
+        "Reuter": {
           "count": 1,
           "capacity_mw": 124.0
         },
-        "Reuter": {
+        "Reuter (Berlin)": {
           "count": 1,
           "capacity_mw": 124.0
         },
@@ -15620,51 +15620,51 @@
           "count": 1,
           "capacity_mw": 726.0
         },
-        "HKW-Mitte (Braunschweig)": {
-          "count": 1,
-          "capacity_mw": 43.3
-        },
         "HKW-Mitte": {
           "count": 1,
           "capacity_mw": 43.3
         },
-        "KW Hastedt (Bremen)": {
+        "HKW-Mitte (Braunschweig)": {
           "count": 1,
-          "capacity_mw": 119.0
+          "capacity_mw": 43.3
         },
         "KW Hastedt": {
           "count": 1,
           "capacity_mw": 119.0
         },
-        "KW Hafen": {
+        "KW Hastedt (Bremen)": {
           "count": 1,
-          "capacity_mw": 127.0
+          "capacity_mw": 119.0
         },
         "KW Hafen (Bremen)": {
           "count": 1,
           "capacity_mw": 127.0
         },
-        "Farge": {
+        "KW Hafen": {
           "count": 1,
-          "capacity_mw": 350.0
+          "capacity_mw": 127.0
         },
         "Farge (Bremen)": {
           "count": 1,
           "capacity_mw": 350.0
         },
-        "Datteln": {
+        "Farge": {
           "count": 1,
-          "capacity_mw": 95.0
+          "capacity_mw": 350.0
         },
         "Datteln (Datteln)": {
           "count": 1,
           "capacity_mw": 95.0
         },
-        "Knepper": {
+        "Datteln": {
+          "count": 1,
+          "capacity_mw": 95.0
+        },
+        "Knepper (Dortmund)": {
           "count": 1,
           "capacity_mw": 345.0
         },
-        "Knepper (Dortmund)": {
+        "Knepper": {
           "count": 1,
           "capacity_mw": 345.0
         },
@@ -15676,11 +15676,11 @@
           "count": 1,
           "capacity_mw": 95.0
         },
-        "HKW II/B (Duisburg)": {
+        "HKW II/B": {
           "count": 1,
           "capacity_mw": 133.0
         },
-        "HKW II/B": {
+        "HKW II/B (Duisburg)": {
           "count": 1,
           "capacity_mw": 133.0
         },
@@ -15700,35 +15700,35 @@
           "count": 1,
           "capacity_mw": 106.0
         },
-        "HKW Erlangen": {
-          "count": 1,
-          "capacity_mw": 17.4
-        },
         "HKW Erlangen (Erlangen)": {
           "count": 1,
           "capacity_mw": 17.4
         },
-        "Heizkraftwerk FL": {
+        "HKW Erlangen": {
           "count": 1,
-          "capacity_mw": 33.0
+          "capacity_mw": 17.4
         },
         "Heizkraftwerk FL (Flensburg)": {
           "count": 1,
           "capacity_mw": 33.0
         },
-        "HKW West": {
+        "Heizkraftwerk FL": {
           "count": 1,
-          "capacity_mw": 61.5
+          "capacity_mw": 33.0
         },
         "HKW West (Frankfurt am Main)": {
           "count": 1,
           "capacity_mw": 61.5
         },
-        "Scholven (Gelsenkirchen)": {
+        "HKW West": {
+          "count": 1,
+          "capacity_mw": 61.5
+        },
+        "Scholven": {
           "count": 1,
           "capacity_mw": 345.0
         },
-        "Scholven": {
+        "Scholven (Gelsenkirchen)": {
           "count": 1,
           "capacity_mw": 345.0
         },
@@ -15740,35 +15740,35 @@
           "count": 1,
           "capacity_mw": 70.0
         },
-        "Staudinger (Gro\u00dfkrotzenburg)": {
-          "count": 1,
-          "capacity_mw": 249.0
-        },
         "Staudinger": {
           "count": 1,
           "capacity_mw": 249.0
         },
-        "Wedel": {
+        "Staudinger (Gro\u00dfkrotzenburg)": {
           "count": 1,
-          "capacity_mw": 123.0
+          "capacity_mw": 249.0
         },
         "Wedel (Wedel)": {
           "count": 1,
           "capacity_mw": 123.0
         },
-        "Westfalen (Hamm-Uentrop)": {
+        "Wedel": {
           "count": 1,
-          "capacity_mw": 284.0
+          "capacity_mw": 123.0
         },
         "Westfalen": {
           "count": 1,
           "capacity_mw": 284.0
         },
-        "GKH": {
+        "Westfalen (Hamm-Uentrop)": {
+          "count": 1,
+          "capacity_mw": 284.0
+        },
+        "GKH (Hannover)": {
           "count": 1,
           "capacity_mw": 136.0
         },
-        "GKH (Hannover)": {
+        "GKH": {
           "count": 1,
           "capacity_mw": 136.0
         },
@@ -15788,27 +15788,27 @@
           "count": 1,
           "capacity_mw": 133.0
         },
-        "Shamrock (Herne)": {
-          "count": 1,
-          "capacity_mw": 132.0
-        },
         "Shamrock": {
           "count": 1,
           "capacity_mw": 132.0
         },
-        "KWM": {
+        "Shamrock (Herne)": {
           "count": 1,
-          "capacity_mw": 690.0
+          "capacity_mw": 132.0
         },
         "KWM (Hohenhameln OT Mehrum)": {
           "count": 1,
           "capacity_mw": 690.0
         },
-        "Ibbenb\u00fcren (Ibbenb\u00fcren)": {
+        "KWM": {
+          "count": 1,
+          "capacity_mw": 690.0
+        },
+        "Ibbenb\u00fcren": {
           "count": 1,
           "capacity_mw": 794.0
         },
-        "Ibbenb\u00fcren": {
+        "Ibbenb\u00fcren (Ibbenb\u00fcren)": {
           "count": 1,
           "capacity_mw": 794.0
         },
@@ -15820,11 +15820,11 @@
           "count": 1,
           "capacity_mw": 66.0
         },
-        "Rheinhafen-Dampfkraftwerk": {
+        "Rheinhafen-Dampfkraftwerk (Karlsruhe)": {
           "count": 1,
           "capacity_mw": 517.0
         },
-        "Rheinhafen-Dampfkraftwerk (Karlsruhe)": {
+        "Rheinhafen-Dampfkraftwerk": {
           "count": 1,
           "capacity_mw": 517.0
         },
@@ -15852,19 +15852,19 @@
           "count": 1,
           "capacity_mw": 110.0
         },
-        "G-Kraftwerk (Leverkusen)": {
-          "count": 1,
-          "capacity_mw": 103.0
-        },
         "G-Kraftwerk": {
           "count": 1,
           "capacity_mw": 103.0
         },
-        "KW L\u00fcnen": {
+        "G-Kraftwerk (Leverkusen)": {
+          "count": 1,
+          "capacity_mw": 103.0
+        },
+        "KW L\u00fcnen (L\u00fcnen)": {
           "count": 1,
           "capacity_mw": 149.0
         },
-        "KW L\u00fcnen (L\u00fcnen)": {
+        "KW L\u00fcnen": {
           "count": 1,
           "capacity_mw": 149.0
         },
@@ -15876,11 +15876,11 @@
           "count": 1,
           "capacity_mw": 202.5
         },
-        "Kraftwerk I": {
+        "Kraftwerk I (Marl)": {
           "count": 1,
           "capacity_mw": 55.56
         },
-        "Kraftwerk I (Marl)": {
+        "Kraftwerk I": {
           "count": 1,
           "capacity_mw": 55.56
         },
@@ -15892,19 +15892,19 @@
           "count": 1,
           "capacity_mw": 60.4
         },
-        "Heyden": {
-          "count": 1,
-          "capacity_mw": 875.0
-        },
         "Heyden (Petershagen)": {
           "count": 1,
           "capacity_mw": 875.0
         },
-        "Kraftwerk Veltheim": {
+        "Heyden": {
+          "count": 1,
+          "capacity_mw": 875.0
+        },
+        "Kraftwerk Veltheim (Porta Westfalica)": {
           "count": 1,
           "capacity_mw": 93.0
         },
-        "Kraftwerk Veltheim (Porta Westfalica)": {
+        "Kraftwerk Veltheim": {
           "count": 1,
           "capacity_mw": 93.0
         },
@@ -15916,11 +15916,11 @@
           "count": 1,
           "capacity_mw": 655.6
         },
-        "HKW R\u00f6merbr\u00fccke (Saarbr\u00fccken)": {
+        "HKW R\u00f6merbr\u00fccke": {
           "count": 1,
           "capacity_mw": 50.0
         },
-        "HKW R\u00f6merbr\u00fccke": {
+        "HKW R\u00f6merbr\u00fccke (Saarbr\u00fccken)": {
           "count": 1,
           "capacity_mw": 50.0
         },
@@ -15956,11 +15956,11 @@
           "count": 1,
           "capacity_mw": 695.0
         },
-        "Modellkraftwerk (V\u00f6lklingen-Fenne)": {
+        "Modellkraftwerk": {
           "count": 1,
           "capacity_mw": 179.0
         },
-        "Modellkraftwerk": {
+        "Modellkraftwerk (V\u00f6lklingen-Fenne)": {
           "count": 1,
           "capacity_mw": 179.0
         },
@@ -15968,35 +15968,35 @@
           "count": 1,
           "capacity_mw": 211.0
         },
-        "Kraftwerk Walheim": {
-          "count": 1,
-          "capacity_mw": 96.0
-        },
         "Kraftwerk Walheim (Walheim)": {
           "count": 1,
           "capacity_mw": 96.0
         },
-        "Kraftwerk Werdohl-Elverlingsen (Werdohl)": {
+        "Kraftwerk Walheim": {
           "count": 1,
-          "capacity_mw": 186.0
+          "capacity_mw": 96.0
         },
         "Kraftwerk Werdohl-Elverlingsen": {
           "count": 1,
           "capacity_mw": 186.0
         },
-        "Gersteinwerk": {
+        "Kraftwerk Werdohl-Elverlingsen (Werdohl)": {
           "count": 1,
-          "capacity_mw": 614.0
+          "capacity_mw": 186.0
         },
         "Gersteinwerk (Werne)": {
           "count": 1,
           "capacity_mw": 614.0
         },
-        "Wilhelmshaven (Wilhelmshaven)": {
+        "Gersteinwerk": {
+          "count": 1,
+          "capacity_mw": 614.0
+        },
+        "Wilhelmshaven": {
           "count": 1,
           "capacity_mw": 757.0
         },
-        "Wilhelmshaven": {
+        "Wilhelmshaven (Wilhelmshaven)": {
           "count": 1,
           "capacity_mw": 757.0
         },
@@ -16036,19 +16036,19 @@
           "count": 1,
           "capacity_mw": 465.0
         },
-        "HKW Chemnitz  Nord II": {
-          "count": 1,
-          "capacity_mw": 56.8
-        },
         "HKW Chemnitz  Nord II (Chemnitz)": {
           "count": 1,
           "capacity_mw": 56.8
         },
-        "Deuben (Teuchern)": {
+        "HKW Chemnitz  Nord II": {
+          "count": 1,
+          "capacity_mw": 56.8
+        },
+        "Deuben": {
           "count": 1,
           "capacity_mw": 67.0
         },
-        "Deuben": {
+        "Deuben (Teuchern)": {
           "count": 1,
           "capacity_mw": 67.0
         },
@@ -16060,11 +16060,11 @@
           "count": 1,
           "capacity_mw": 176.0
         },
-        "Frimmersdorf": {
+        "Frimmersdorf (Frimmersdorf)": {
           "count": 1,
           "capacity_mw": 129.0
         },
-        "Frimmersdorf (Frimmersdorf)": {
+        "Frimmersdorf": {
           "count": 1,
           "capacity_mw": 129.0
         },
@@ -16080,11 +16080,11 @@
           "count": 1,
           "capacity_mw": 352.0
         },
-        "Ville/Berrenrath (H\u00fcrth)": {
+        "Ville/Berrenrath": {
           "count": 1,
           "capacity_mw": 98.0
         },
-        "Ville/Berrenrath": {
+        "Ville/Berrenrath (H\u00fcrth)": {
           "count": 1,
           "capacity_mw": 98.0
         },
@@ -16112,27 +16112,27 @@
           "count": 1,
           "capacity_mw": 294.0
         },
-        "Niederau\u00dfem": {
-          "count": 1,
-          "capacity_mw": 297.0
-        },
         "Niederau\u00dfem (Bergheim)": {
           "count": 1,
           "capacity_mw": 297.0
         },
-        "Fortuna Nord (Bergheim)": {
+        "Niederau\u00dfem": {
           "count": 1,
-          "capacity_mw": 15.0
+          "capacity_mw": 297.0
         },
         "Fortuna Nord": {
           "count": 1,
           "capacity_mw": 15.0
         },
-        "KW J\u00e4nschwalde (Peitz)": {
+        "Fortuna Nord (Bergheim)": {
+          "count": 1,
+          "capacity_mw": 15.0
+        },
+        "KW J\u00e4nschwalde": {
           "count": 1,
           "capacity_mw": 465.0
         },
-        "KW J\u00e4nschwalde": {
+        "KW J\u00e4nschwalde (Peitz)": {
           "count": 1,
           "capacity_mw": 465.0
         },
@@ -16152,11 +16152,11 @@
           "count": 1,
           "capacity_mw": 14.5
         },
-        "HKW Sachtleben (Duisburg)": {
+        "HKW Sachtleben": {
           "count": 1,
           "capacity_mw": 27.5
         },
-        "HKW Sachtleben": {
+        "HKW Sachtleben (Duisburg)": {
           "count": 1,
           "capacity_mw": 27.5
         },
@@ -16168,19 +16168,19 @@
           "count": 1,
           "capacity_mw": 45.0
         },
-        "Kessel 4": {
-          "count": 1,
-          "capacity_mw": 9.3
-        },
         "Kessel 4 (D\u00fcren)": {
           "count": 1,
           "capacity_mw": 9.3
         },
-        "Werkskraftwerk Sappi Alfeld (Alfeld)": {
+        "Kessel 4": {
+          "count": 1,
+          "capacity_mw": 9.3
+        },
+        "Werkskraftwerk Sappi Alfeld": {
           "count": 1,
           "capacity_mw": 11.0
         },
-        "Werkskraftwerk Sappi Alfeld": {
+        "Werkskraftwerk Sappi Alfeld (Alfeld)": {
           "count": 1,
           "capacity_mw": 11.0
         },
@@ -16192,19 +16192,19 @@
           "count": 1,
           "capacity_mw": 12.2
         },
-        "Charlottenburg (Berlin)": {
-          "count": 1,
-          "capacity_mw": 144.0
-        },
         "Charlottenburg": {
           "count": 1,
           "capacity_mw": 144.0
         },
-        "Lichterfelde": {
+        "Charlottenburg (Berlin)": {
           "count": 1,
           "capacity_mw": 144.0
         },
         "Lichterfelde (Berlin)": {
+          "count": 1,
+          "capacity_mw": 144.0
+        },
+        "Lichterfelde": {
           "count": 1,
           "capacity_mw": 144.0
         },
@@ -16232,11 +16232,11 @@
           "count": 1,
           "capacity_mw": 55.0
         },
-        "Heizkraftwerk S\u00fcd": {
+        "Heizkraftwerk S\u00fcd (Bonn)": {
           "count": 1,
           "capacity_mw": 14.4
         },
-        "Heizkraftwerk S\u00fcd (Bonn)": {
+        "Heizkraftwerk S\u00fcd": {
           "count": 1,
           "capacity_mw": 14.4
         },
@@ -16248,19 +16248,19 @@
           "count": 1,
           "capacity_mw": 25.0
         },
-        "Burghausen 01 - DT": {
-          "count": 1,
-          "capacity_mw": 50.0
-        },
         "Burghausen 01 - DT (Burghausen)": {
           "count": 1,
           "capacity_mw": 50.0
         },
-        "GT (D\u00fcsseldorf)": {
+        "Burghausen 01 - DT": {
+          "count": 1,
+          "capacity_mw": 50.0
+        },
+        "GT": {
           "count": 1,
           "capacity_mw": 64.7
         },
-        "GT": {
+        "GT (D\u00fcsseldorf)": {
           "count": 1,
           "capacity_mw": 64.7
         },
@@ -16272,11 +16272,11 @@
           "count": 1,
           "capacity_mw": 293.0
         },
-        "Huntorf": {
+        "Huntorf (Elsfleth)": {
           "count": 1,
           "capacity_mw": 321.0
         },
-        "Huntorf (Elsfleth)": {
+        "Huntorf": {
           "count": 1,
           "capacity_mw": 321.0
         },
@@ -16312,51 +16312,51 @@
           "count": 1,
           "capacity_mw": 11.6
         },
-        "Heizkraftwerk West": {
-          "count": 1,
-          "capacity_mw": 37.0
-        },
         "Heizkraftwerk West (Karlsruhe)": {
           "count": 1,
           "capacity_mw": 37.0
         },
-        "Kombi-HKW (Kassel)": {
+        "Heizkraftwerk West": {
           "count": 1,
-          "capacity_mw": 48.31
+          "capacity_mw": 37.0
         },
         "Kombi-HKW": {
           "count": 1,
           "capacity_mw": 48.31
         },
-        "KW Kirchlengern": {
+        "Kombi-HKW (Kassel)": {
           "count": 1,
-          "capacity_mw": 125.0
+          "capacity_mw": 48.31
         },
         "KW Kirchlengern (Kirchlengern)": {
           "count": 1,
           "capacity_mw": 125.0
         },
-        "Landesbergen Gas (Landesbergen)": {
+        "KW Kirchlengern": {
           "count": 1,
-          "capacity_mw": 56.0
+          "capacity_mw": 125.0
         },
         "Landesbergen Gas": {
           "count": 1,
           "capacity_mw": 56.0
         },
-        "X-Kraftwerk": {
+        "Landesbergen Gas (Landesbergen)": {
           "count": 1,
-          "capacity_mw": 25.0
+          "capacity_mw": 56.0
         },
         "X-Kraftwerk (Leverkusen)": {
           "count": 1,
           "capacity_mw": 25.0
         },
-        "Emsland": {
+        "X-Kraftwerk": {
+          "count": 1,
+          "capacity_mw": 25.0
+        },
+        "Emsland (Lingen)": {
           "count": 1,
           "capacity_mw": 116.0
         },
-        "Emsland (Lingen)": {
+        "Emsland": {
           "count": 1,
           "capacity_mw": 116.0
         },
@@ -16392,11 +16392,11 @@
           "count": 1,
           "capacity_mw": 80.0
         },
-        "S\u00fcd DT1": {
+        "S\u00fcd DT1 (M\u00fcnchen)": {
           "count": 1,
           "capacity_mw": 79.7
         },
-        "S\u00fcd DT1 (M\u00fcnchen)": {
+        "S\u00fcd DT1": {
           "count": 1,
           "capacity_mw": 79.7
         },
@@ -16408,11 +16408,11 @@
           "count": 1,
           "capacity_mw": 97.9
         },
-        "S\u00fcd GT2": {
+        "S\u00fcd GT2 (M\u00fcnchen)": {
           "count": 1,
           "capacity_mw": 97.9
         },
-        "S\u00fcd GT2 (M\u00fcnchen)": {
+        "S\u00fcd GT2": {
           "count": 1,
           "capacity_mw": 97.9
         },
@@ -16480,11 +16480,11 @@
           "count": 1,
           "capacity_mw": 50.0
         },
-        "Dow Stade": {
+        "Dow Stade (Stade)": {
           "count": 1,
           "capacity_mw": 190.0
         },
-        "Dow Stade (Stade)": {
+        "Dow Stade": {
           "count": 1,
           "capacity_mw": 190.0
         },
@@ -16504,19 +16504,19 @@
           "count": 1,
           "capacity_mw": 55.0
         },
-        "Heizkraftwerke an der Friedensbr\u00fccke": {
-          "count": 1,
-          "capacity_mw": 23.0
-        },
         "Heizkraftwerke an der Friedensbr\u00fccke (W\u00fcrzburg)": {
           "count": 1,
           "capacity_mw": 23.0
         },
-        "UPM Augsburg": {
+        "Heizkraftwerke an der Friedensbr\u00fccke": {
+          "count": 1,
+          "capacity_mw": 23.0
+        },
+        "UPM Augsburg (Augsburg)": {
           "count": 1,
           "capacity_mw": 29.0
         },
-        "UPM Augsburg (Augsburg)": {
+        "UPM Augsburg": {
           "count": 1,
           "capacity_mw": 29.0
         },
@@ -16524,27 +16524,27 @@
           "count": 1,
           "capacity_mw": 20.4
         },
-        "MT, D\u00fcren": {
-          "count": 1,
-          "capacity_mw": 14.0
-        },
         "MT, D\u00fcren (D\u00fcren)": {
           "count": 1,
           "capacity_mw": 14.0
         },
-        "PWG (Pei\u00dfenberg)": {
+        "MT, D\u00fcren": {
           "count": 1,
-          "capacity_mw": 5.3
+          "capacity_mw": 14.0
         },
         "PWG": {
           "count": 1,
           "capacity_mw": 5.3
         },
-        "UPM Schongau": {
+        "PWG (Pei\u00dfenberg)": {
+          "count": 1,
+          "capacity_mw": 5.3
+        },
+        "UPM Schongau (Schongau)": {
           "count": 1,
           "capacity_mw": 64.0
         },
-        "UPM Schongau (Schongau)": {
+        "UPM Schongau": {
           "count": 1,
           "capacity_mw": 64.0
         },
@@ -16556,19 +16556,19 @@
           "count": 1,
           "capacity_mw": 11.0
         },
-        "HKW Pfaffenwald": {
-          "count": 1,
-          "capacity_mw": 12.181
-        },
         "HKW Pfaffenwald (Stuttgart)": {
           "count": 1,
           "capacity_mw": 12.181
         },
-        "PKV Kraftwerk": {
+        "HKW Pfaffenwald": {
+          "count": 1,
+          "capacity_mw": 12.181
+        },
+        "PKV Kraftwerk (Varel)": {
           "count": 1,
           "capacity_mw": 58.1
         },
-        "PKV Kraftwerk (Varel)": {
+        "PKV Kraftwerk": {
           "count": 1,
           "capacity_mw": 58.1
         },
@@ -16584,11 +16584,11 @@
           "count": 1,
           "capacity_mw": 27.0
         },
-        "Heizkraftwerk Evonik Rheinfelden": {
+        "Heizkraftwerk Evonik Rheinfelden (Rheinfelden)": {
           "count": 1,
           "capacity_mw": 15.68
         },
-        "Heizkraftwerk Evonik Rheinfelden (Rheinfelden)": {
+        "Heizkraftwerk Evonik Rheinfelden": {
           "count": 1,
           "capacity_mw": 15.68
         },
@@ -16624,11 +16624,11 @@
           "count": 1,
           "capacity_mw": 8.4
         },
-        "Heizkraftwerk Bomlitz": {
+        "Heizkraftwerk Bomlitz (Bomlitz)": {
           "count": 1,
           "capacity_mw": 12.75
         },
-        "Heizkraftwerk Bomlitz (Bomlitz)": {
+        "Heizkraftwerk Bomlitz": {
           "count": 1,
           "capacity_mw": 12.75
         },
@@ -16660,43 +16660,43 @@
           "count": 1,
           "capacity_mw": 184.0
         },
-        "Moabit (Berlin)": {
-          "count": 1,
-          "capacity_mw": 34.0
-        },
         "Moabit": {
           "count": 1,
           "capacity_mw": 34.0
         },
-        "KW Mittelsb\u00fcren (Bremen)": {
+        "Moabit (Berlin)": {
           "count": 1,
-          "capacity_mw": 86.0
+          "capacity_mw": 34.0
         },
         "KW Mittelsb\u00fcren": {
           "count": 1,
           "capacity_mw": 86.0
         },
-        "Brunsb\u00fcttel (Brunsb\u00fcttel)": {
+        "KW Mittelsb\u00fcren (Bremen)": {
           "count": 1,
-          "capacity_mw": 63.5
+          "capacity_mw": 86.0
         },
         "Brunsb\u00fcttel": {
           "count": 1,
           "capacity_mw": 63.5
         },
-        "HKW Flensburg (Flensburg)": {
+        "Brunsb\u00fcttel (Brunsb\u00fcttel)": {
           "count": 1,
-          "capacity_mw": 30.0
+          "capacity_mw": 63.5
         },
         "HKW Flensburg": {
           "count": 1,
           "capacity_mw": 30.0
         },
-        "Ingolstadt (Gro\u00dfmehring)": {
+        "HKW Flensburg (Flensburg)": {
+          "count": 1,
+          "capacity_mw": 30.0
+        },
+        "Ingolstadt": {
           "count": 1,
           "capacity_mw": 386.0
         },
-        "Ingolstadt": {
+        "Ingolstadt (Gro\u00dfmehring)": {
           "count": 1,
           "capacity_mw": 386.0
         },
@@ -16724,43 +16724,43 @@
           "count": 1,
           "capacity_mw": 88.0
         },
-        "Audorf (Osterr\u00f6nfeld)": {
-          "count": 1,
-          "capacity_mw": 87.0
-        },
         "Audorf": {
           "count": 1,
           "capacity_mw": 87.0
         },
-        "IKS PCK Schwedt": {
+        "Audorf (Osterr\u00f6nfeld)": {
           "count": 1,
-          "capacity_mw": 28.0
+          "capacity_mw": 87.0
         },
         "IKS PCK Schwedt (PCK Schwedt)": {
           "count": 1,
           "capacity_mw": 28.0
         },
-        "Irsching (Vohburg)": {
+        "IKS PCK Schwedt": {
           "count": 1,
-          "capacity_mw": 415.0
+          "capacity_mw": 28.0
         },
         "Irsching": {
           "count": 1,
           "capacity_mw": 415.0
         },
-        "SKW Gasturbine (Waltenhofen-Veits)": {
+        "Irsching (Vohburg)": {
           "count": 1,
-          "capacity_mw": 24.0
+          "capacity_mw": 415.0
         },
         "SKW Gasturbine": {
           "count": 1,
           "capacity_mw": 24.0
         },
-        "SKW Diesel": {
+        "SKW Gasturbine (Waltenhofen-Veits)": {
+          "count": 1,
+          "capacity_mw": 24.0
+        },
+        "SKW Diesel (Waltenhofen-Veits)": {
           "count": 1,
           "capacity_mw": 10.5
         },
-        "SKW Diesel (Waltenhofen-Veits)": {
+        "SKW Diesel": {
           "count": 1,
           "capacity_mw": 10.5
         },
@@ -16780,19 +16780,19 @@
           "count": 1,
           "capacity_mw": 11.4
         },
-        "Kraftwerk": {
-          "count": 1,
-          "capacity_mw": 90.0
-        },
         "Kraftwerk (Wesseling)": {
           "count": 1,
           "capacity_mw": 90.0
         },
-        "Spitzenkraftwerk": {
+        "Kraftwerk": {
+          "count": 1,
+          "capacity_mw": 90.0
+        },
+        "Spitzenkraftwerk (Deggendorf)": {
           "count": 1,
           "capacity_mw": 19.0
         },
-        "Spitzenkraftwerk (Deggendorf)": {
+        "Spitzenkraftwerk": {
           "count": 1,
           "capacity_mw": 19.0
         }
